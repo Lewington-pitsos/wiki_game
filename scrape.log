@@ -58,3 +58,295 @@ D, [2018-03-08T22:35:55.863466 #10285] DEBUG -- : we found a loop at: Politics
 
 D, [2018-03-08T22:35:55.866459 #10285] DEBUG -- : Starting loop 2
 D, [2018-03-08T22:35:58.181487 #10285] DEBUG -- : Information scraped from: /wiki/Lao_Ai
+D, [2018-03-08T22:55:08.119967 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:08.120087 #11622] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:55:12.229435 #11622] DEBUG -- : Information scraped from: /wiki/French_frigate_Iphig%C3%A9nie_(1777)
+D, [2018-03-08T22:55:14.272808 #11622] DEBUG -- : Information scraped from: /wiki/Iphig%C3%A9nie-class_frigate
+E, [2018-03-08T22:55:14.273161 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Iphig%C3%A9nie-class_frigate
+Current next page: /wiki/Frigate
+
+Previous page: /wiki/French_frigate_Iphig%C3%A9nie_(1777)
+Previous next page: /wiki/Iphig%C3%A9nie_class_frigate
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:55:14.276005 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:14.276143 #11622] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:55:15.674424 #11622] DEBUG -- : Information scraped from: /wiki/Montreal_Institute_for_Genocide_and_Human_Rights_Studies
+D, [2018-03-08T22:55:16.581198 #11622] DEBUG -- : Information scraped from: /wiki/Research_institute
+D, [2018-03-08T22:55:16.581288 #11622] DEBUG -- : we found a loop at: Research institute
+
+
+D, [2018-03-08T22:55:16.584459 #11622] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:55:17.881421 #11622] DEBUG -- : Information scraped from: /wiki/Nacel_Open_Door
+E, [2018-03-08T22:55:17.881505 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Nacel_Open_Door
+Current next page: /wiki/Student_exchange
+
+Previous page: /wiki/Research_institute
+Previous next page: /wiki/Research
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:55:17.882632 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:17.882691 #11622] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:55:19.463832 #11622] DEBUG -- : Information scraped from: /wiki/C10H16N2O3S
+D, [2018-03-08T22:55:20.627310 #11622] DEBUG -- : Information scraped from: /wiki/Amidephrine
+D, [2018-03-08T22:55:21.379843 #11622] DEBUG -- : Information scraped from: /wiki/Sulfonamide
+D, [2018-03-08T22:55:23.385050 #11622] DEBUG -- : Information scraped from: /wiki/Chemistry
+D, [2018-03-08T22:55:24.190888 #11622] DEBUG -- : Information scraped from: /wiki/Chemical_compound
+D, [2018-03-08T22:55:25.059843 #11622] DEBUG -- : Information scraped from: /wiki/Chemical_substance
+D, [2018-03-08T22:55:26.278149 #11622] DEBUG -- : Information scraped from: /wiki/Matter
+D, [2018-03-08T22:55:27.169696 #11622] DEBUG -- : Information scraped from: /wiki/Classical_physics
+D, [2018-03-08T22:55:27.169786 #11622] DEBUG -- : we found a loop at: Classical physics
+
+
+D, [2018-03-08T22:55:27.178218 #11622] DEBUG -- : Starting loop 3
+D, [2018-03-08T22:55:29.478601 #11622] DEBUG -- : Information scraped from: /wiki/Busbridge
+E, [2018-03-08T22:55:29.478694 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Busbridge
+Current next page: /wiki/Civil_parishes_in_England
+
+Previous page: /wiki/Classical_physics
+Previous next page: /wiki/Physics
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:55:29.479880 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:29.479937 #11622] DEBUG -- : Starting loop 3
+D, [2018-03-08T22:55:31.275232 #11622] DEBUG -- : Information scraped from: /wiki/Charlie_Byrd_at_the_Village_Vanguard
+D, [2018-03-08T22:55:32.779258 #11622] DEBUG -- : Information scraped from: /wiki/Album#Live
+E, [2018-03-08T22:55:32.779331 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Album#Live
+Current next page: /wiki/CD
+
+Previous page: /wiki/Charlie_Byrd_at_the_Village_Vanguard
+Previous next page: /wiki/Live_album
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:55:32.780241 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:32.780287 #11622] DEBUG -- : Starting loop 3
+D, [2018-03-08T22:55:34.521089 #11622] DEBUG -- : Information scraped from: /wiki/Trevor_Dandy
+D, [2018-03-08T22:55:38.001833 #11622] DEBUG -- : Information scraped from: /wiki/Toronto
+D, [2018-03-08T22:55:39.384158 #11622] DEBUG -- : Information scraped from: /wiki/Help:Pronunciation_respelling_key
+D, [2018-03-08T22:55:40.870443 #11622] DEBUG -- : Information scraped from: /wiki/Pronunciation_respelling_for_English
+D, [2018-03-08T22:55:42.527081 #11622] DEBUG -- : Information scraped from: /wiki/Pronunciation_respelling
+D, [2018-03-08T22:55:43.689238 #11622] DEBUG -- : Information scraped from: /wiki/Nonce_word
+D, [2018-03-08T22:55:45.177082 #11622] DEBUG -- : Information scraped from: /wiki/Lexeme
+D, [2018-03-08T22:55:46.107180 #11622] DEBUG -- : Information scraped from: /wiki/Lexical_semantics
+D, [2018-03-08T22:55:47.072791 #11622] DEBUG -- : Information scraped from: /wiki/Linguistics
+D, [2018-03-08T22:55:47.072855 #11622] DEBUG -- : we found a loop at: Linguistics
+
+
+D, [2018-03-08T22:55:47.075488 #11622] DEBUG -- : Starting loop 4
+D, [2018-03-08T22:55:48.521206 #11622] DEBUG -- : Information scraped from: /wiki/Horus
+E, [2018-03-08T22:55:48.521280 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Horus
+Current next page: /wiki/Ancient_Egyptian_deities
+
+Previous page: /wiki/Linguistics
+Previous next page: /wiki/Language
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:55:48.522812 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:55:48.522871 #11622] DEBUG -- : Starting loop 4
+D, [2018-03-08T22:55:49.748143 #11622] DEBUG -- : Information scraped from: /wiki/Theatre_Royal,_Newcastle
+D, [2018-03-08T22:55:50.712482 #11622] DEBUG -- : Information scraped from: /wiki/Listed_building
+D, [2018-03-08T22:55:51.697552 #11622] DEBUG -- : Information scraped from: /wiki/List_of_heritage_registers
+D, [2018-03-08T22:55:52.343270 #11622] DEBUG -- : Information scraped from: /wiki/Cultural_property
+D, [2018-03-08T22:55:53.726270 #11622] DEBUG -- : Information scraped from: /wiki/Cultural_heritage
+D, [2018-03-08T22:55:56.558529 #11622] DEBUG -- : Information scraped from: /wiki/Society
+D, [2018-03-08T22:55:57.291592 #11622] DEBUG -- : Information scraped from: /wiki/Social_group
+D, [2018-03-08T22:55:58.303915 #11622] DEBUG -- : Information scraped from: /wiki/Social_science
+D, [2018-03-08T22:55:58.839121 #11622] DEBUG -- : Information scraped from: /wiki/Discipline_(academia)
+D, [2018-03-08T22:56:00.218505 #11622] DEBUG -- : Information scraped from: /wiki/Outline_of_academic_disciplines
+E, [2018-03-08T22:56:00.218579 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Outline_of_academic_disciplines
+Current next page: /wiki/Knowledge
+
+Previous page: /wiki/Discipline_(academia)
+Previous next page: /wiki/Branch_(academia)
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:56:00.219671 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:56:00.219721 #11622] DEBUG -- : Starting loop 4
+D, [2018-03-08T22:56:02.206805 #11622] DEBUG -- : Information scraped from: /wiki/Sally,_Irene_and_Mary_(1938_film)
+D, [2018-03-08T22:56:03.044072 #11622] DEBUG -- : Information scraped from: /wiki/Comedy_film
+D, [2018-03-08T22:56:03.912388 #11622] DEBUG -- : Information scraped from: /wiki/Film_genre
+D, [2018-03-08T22:56:04.594968 #11622] DEBUG -- : Information scraped from: /wiki/Narrative
+D, [2018-03-08T22:56:05.229482 #11622] DEBUG -- : Information scraped from: /wiki/Non-fiction
+E, [2018-03-08T22:56:05.229606 #11622] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Non-fiction
+Current next page: /wiki/Content_(media)
+
+Previous page: /wiki/Narrative
+Previous next page: /wiki/Nonfiction
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T22:56:05.231327 #11622] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:56:05.231420 #11622] DEBUG -- : Starting loop 4
+D, [2018-03-08T22:56:30.042922 #11940] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:56:30.043025 #11940] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:56:34.497614 #11940] DEBUG -- : Information scraped from: /wiki/Udea_melanephra
+D, [2018-03-08T22:56:36.405442 #11940] DEBUG -- : Information scraped from: /wiki/Moth
+D, [2018-03-08T22:56:38.823083 #11940] DEBUG -- : Information scraped from: /wiki/Insect
+D, [2018-03-08T22:56:40.564618 #11940] DEBUG -- : Information scraped from: /wiki/Latin
+D, [2018-03-08T22:56:42.034929 #11940] DEBUG -- : Information scraped from: /wiki/Classical_language
+D, [2018-03-08T22:56:42.034999 #11940] DEBUG -- : we found a loop at: Classical language
+
+
+D, [2018-03-08T22:56:42.038020 #11940] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:56:43.302347 #11940] DEBUG -- : Information scraped from: /wiki/Little_Landers
+D, [2018-03-08T22:57:35.516215 #12197] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:57:35.516319 #12197] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:57:39.630213 #12197] DEBUG -- : Information scraped from: /wiki/Crawford_Hill,_Nebraska
+D, [2018-03-08T22:57:41.020170 #12197] DEBUG -- : Information scraped from: /wiki/Bank_engine
+D, [2018-03-08T22:57:41.020235 #12197] DEBUG -- : Changing /wiki/Helper_district to /wiki/Bank_engine
+D, [2018-03-08T22:57:46.388150 #12197] DEBUG -- : Information scraped from: /wiki/United_Kingdom
+D, [2018-03-08T22:57:46.388212 #12197] DEBUG -- : Changing /wiki/UK to /wiki/United_Kingdom
+D, [2018-03-08T22:57:46.388240 #12197] DEBUG -- : we found a loop at: United Kingdom
+
+
+D, [2018-03-08T22:57:46.392240 #12197] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:57:48.338289 #12197] DEBUG -- : Information scraped from: /wiki/Kim_Jin-woo_(footballer)
+D, [2018-03-08T22:57:48.338410 #12197] DEBUG -- : Changing /wiki/Country to /wiki/Kim_Jin-woo_(footballer)
+D, [2018-03-08T22:57:50.309757 #12197] DEBUG -- : Information scraped from: /wiki/Association_football
+D, [2018-03-08T22:57:51.413236 #12197] DEBUG -- : Information scraped from: /wiki/Team_sport
+D, [2018-03-08T22:57:52.345167 #12197] DEBUG -- : Information scraped from: /wiki/Sport
+D, [2018-03-08T22:57:53.544582 #12197] DEBUG -- : Information scraped from: /wiki/British_English
+D, [2018-03-08T22:57:55.581652 #12197] DEBUG -- : Information scraped from: /wiki/English_language
+D, [2018-03-08T22:57:58.586776 #12197] DEBUG -- : Information scraped from: /wiki/West_Germanic_languages
+D, [2018-03-08T22:57:58.586913 #12197] DEBUG -- : Changing /wiki/West_Germanic_language to /wiki/West_Germanic_languages
+D, [2018-03-08T22:58:00.184570 #12197] DEBUG -- : Information scraped from: /wiki/Germanic_languages
+D, [2018-03-08T22:58:02.312480 #12197] DEBUG -- : Information scraped from: /wiki/Indo-European_languages
+D, [2018-03-08T22:58:03.039657 #12197] DEBUG -- : Information scraped from: /wiki/Language_family
+D, [2018-03-08T22:58:03.039721 #12197] DEBUG -- : we found a loop at: Language family
+
+
+D, [2018-03-08T22:58:03.043230 #12197] DEBUG -- : Starting loop 3
+D, [2018-03-08T22:58:05.357584 #12197] DEBUG -- : Information scraped from: /wiki/Geoff_Stults
+D, [2018-03-08T22:58:05.357644 #12197] DEBUG -- : Changing /wiki/Language to /wiki/Geoff_Stults
+D, [2018-03-08T22:58:06.594034 #12197] DEBUG -- : Information scraped from: /wiki/Actor
+D, [2018-03-08T22:58:07.784011 #12197] DEBUG -- : Information scraped from: /wiki/Character_(arts)
+D, [2018-03-08T22:58:08.436535 #12197] DEBUG -- : Information scraped from: /wiki/Person
+D, [2018-03-08T22:58:09.446618 #12197] DEBUG -- : Information scraped from: /wiki/Reason
+D, [2018-03-08T22:58:09.446678 #12197] DEBUG -- : we found a loop at: Reason
+
+
+D, [2018-03-08T22:58:09.452040 #12197] DEBUG -- : Starting loop 4
+D, [2018-03-08T22:58:11.179707 #12197] DEBUG -- : Information scraped from: /wiki/Love_an_Adventure
+D, [2018-03-08T22:58:11.179768 #12197] DEBUG -- : Changing /wiki/Fact to /wiki/Love_an_Adventure
+D, [2018-03-08T22:58:12.745184 #12197] DEBUG -- : Information scraped from: /wiki/Album#Studio
+D, [2018-03-08T22:58:12.745248 #12197] DEBUG -- : Changing /wiki/Studio_album to /wiki/Album#Studio
+D, [2018-03-08T22:58:16.864764 #12197] DEBUG -- : Information scraped from: /wiki/Compact_disc
+D, [2018-03-08T22:58:16.864825 #12197] DEBUG -- : Changing /wiki/CD to /wiki/Compact_disc
+D, [2018-03-08T22:58:18.378387 #12197] DEBUG -- : Information scraped from: /wiki/Digital_media
+D, [2018-03-08T22:58:19.549178 #12197] DEBUG -- : Information scraped from: /wiki/Media_(communication)
+D, [2018-03-08T22:58:19.549264 #12197] DEBUG -- : we found a loop at: Media (communication)
+
+
+D, [2018-03-08T22:58:19.556599 #12197] DEBUG -- : Starting loop 5
+D, [2018-03-08T22:58:23.389513 #12197] DEBUG -- : Information scraped from: /wiki/Alex_Perialas
+D, [2018-03-08T22:58:23.389573 #12197] DEBUG -- : Changing /wiki/Communication to /wiki/Alex_Perialas
+D, [2018-03-08T22:58:30.723766 #12197] DEBUG -- : Information scraped from: /wiki/United_States
+D, [2018-03-08T22:58:32.464385 #12197] DEBUG -- : Information scraped from: /wiki/Federal_republic
+D, [2018-03-08T22:58:34.153178 #12197] DEBUG -- : Information scraped from: /wiki/Federation
+D, [2018-03-08T22:58:34.837109 #12197] DEBUG -- : Information scraped from: /wiki/Polity
+D, [2018-03-08T22:58:34.837235 #12197] DEBUG -- : Changing /wiki/Political_entity to /wiki/Polity
+D, [2018-03-08T22:58:36.253618 #12197] DEBUG -- : Information scraped from: /wiki/Identity_(social_science)
+D, [2018-03-08T22:58:37.859280 #12197] DEBUG -- : Information scraped from: /wiki/Psychology
+D, [2018-03-08T22:58:40.584216 #12197] DEBUG -- : Information scraped from: /wiki/Science
+D, [2018-03-08T22:58:41.999068 #12197] DEBUG -- : Information scraped from: /wiki/Latin
+D, [2018-03-08T22:58:41.999129 #12197] DEBUG -- : Changing /wiki/Latin_language to /wiki/Latin
+D, [2018-03-08T22:58:41.999156 #12197] DEBUG -- : we found a loop at: Latin
+
+
+D, [2018-03-08T22:58:42.003279 #12197] DEBUG -- : Starting loop 6
+D, [2018-03-08T22:58:43.378882 #12197] DEBUG -- : Information scraped from: /wiki/Misiones_Department
+D, [2018-03-08T22:58:43.378961 #12197] DEBUG -- : Changing /wiki/Classical_language to /wiki/Misiones_Department
+D, [2018-03-08T22:58:44.870659 #12197] DEBUG -- : Information scraped from: /wiki/Departments_of_Paraguay
+D, [2018-03-08T22:58:46.388695 #12197] DEBUG -- : Information scraped from: /wiki/Paraguay
+D, [2018-03-08T22:58:47.105582 #12197] DEBUG -- : Information scraped from: /wiki/Guarani_language
+D, [2018-03-08T22:58:47.787115 #12197] DEBUG -- : Information scraped from: /wiki/Exonym_and_endonym
+D, [2018-03-08T22:58:47.787176 #12197] DEBUG -- : Changing /wiki/Endonym to /wiki/Exonym_and_endonym

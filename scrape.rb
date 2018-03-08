@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'headless'
 
 require_relative './rubyscripts/metaScraper.rb'
-require_relative './rubyscripts/archivist.rb'
+# require_relative './rubyscripts/archivist.rb'
 
 headless = Headless.new
 headless.start
@@ -15,4 +15,4 @@ LOGGER = Logger.new('scrape.log')
 
 metaScraper = MetaScraper.new()
 
-metaScraper.startLazyScrape()
+metaScraper.scrape()

@@ -48,7 +48,7 @@ class WikiScraper
     # sometimes urls redirect to different pages
     # in such cases we want to change the recorded nextUrl for the previous page to match the url of the actual page we navigated to AND keep a record of the redirected url
     if @previousPage && @currentPage[:url] != @previousPage[:nextUrl]
-      LOGGER.debug("Changing #{@prevoiousPage[:nextUrl]} to #{@currentPage[:url]}")
+      LOGGER.debug("Changing #{@previousPage[:nextUrl]} to #{@currentPage[:url]}")
       @redirectedUrls << @previousPage[:nextUrl]
       @previousPage[:nextUrl] = @currentPage[:url]
     end
