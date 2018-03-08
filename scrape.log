@@ -4,3 +4,57 @@ D, [2018-03-08T22:32:24.966055 #9765] DEBUG -- : Beginning new scrape...
 
 D, [2018-03-08T22:32:24.966147 #9765] DEBUG -- : Starting loop 1
 D, [2018-03-08T22:32:29.899059 #9765] DEBUG -- : Information scraped from: /wiki/M84_stun_grenade
+D, [2018-03-08T22:33:47.088456 #9993] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:33:47.088568 #9993] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:33:51.682218 #9993] DEBUG -- : Information scraped from: /wiki/Tahla_Mosque
+D, [2018-03-08T22:33:54.703837 #9993] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T22:33:54.703926 #9993] DEBUG -- : we found a loop at: Arabic
+
+
+D, [2018-03-08T22:33:54.704642 #9993] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:33:57.124758 #9993] DEBUG -- : Information scraped from: /wiki/Ellenroad_Ring_Mill_Engine
+D, [2018-03-08T22:33:58.318785 #9993] DEBUG -- : Information scraped from: /wiki/Stationary_steam_engine
+D, [2018-03-08T22:34:00.612524 #9993] DEBUG -- : Information scraped from: /wiki/Steam_engine
+D, [2018-03-08T22:34:02.596648 #9993] DEBUG -- : Information scraped from: /wiki/Heat_engine
+D, [2018-03-08T22:34:04.368090 #9993] DEBUG -- : Information scraped from: /wiki/Thermodynamics
+D, [2018-03-08T22:34:06.443389 #9993] DEBUG -- : Information scraped from: /wiki/Physics
+D, [2018-03-08T22:34:08.578330 #9993] DEBUG -- : Information scraped from: /wiki/Ancient_Greek
+D, [2018-03-08T22:34:10.032163 #9993] DEBUG -- : Information scraped from: /wiki/Greek_language
+D, [2018-03-08T22:34:11.000352 #9993] DEBUG -- : Information scraped from: /wiki/Modern_Greek
+D, [2018-03-08T22:34:12.359562 #9993] DEBUG -- : Information scraped from: /wiki/Colloquialism
+D, [2018-03-08T22:34:13.417870 #9993] DEBUG -- : Information scraped from: /wiki/Vernacular
+D, [2018-03-08T22:34:16.705807 #9993] DEBUG -- : Information scraped from: /wiki/Language
+D, [2018-03-08T22:34:18.685162 #9993] DEBUG -- : Information scraped from: /wiki/Communication
+D, [2018-03-08T22:34:20.231783 #9993] DEBUG -- : Information scraped from: /wiki/Meaning_(semiotics)
+D, [2018-03-08T22:34:21.311828 #9993] DEBUG -- : Information scraped from: /wiki/Semiotics
+D, [2018-03-08T22:34:22.589809 #9993] DEBUG -- : Information scraped from: /wiki/Research
+D, [2018-03-08T22:34:23.869460 #9993] DEBUG -- : Information scraped from: /wiki/Knowledge
+D, [2018-03-08T22:34:24.605870 #9993] DEBUG -- : Information scraped from: /wiki/Fact
+D, [2018-03-08T22:34:25.443340 #9993] DEBUG -- : Information scraped from: /wiki/Evidence
+D, [2018-03-08T22:34:26.974419 #9993] DEBUG -- : Information scraped from: /wiki/Logical_assertion
+D, [2018-03-08T22:34:28.462945 #9993] DEBUG -- : Information scraped from: /wiki/Logic
+D, [2018-03-08T22:34:28.463006 #9993] DEBUG -- : we found a loop at: Logic
+
+
+D, [2018-03-08T22:34:28.464554 #9993] DEBUG -- : Starting loop 3
+D, [2018-03-08T22:34:30.777302 #9993] DEBUG -- : Information scraped from: /wiki/Novas_Bossas
+D, [2018-03-08T22:34:37.500082 #9993] DEBUG -- : Information scraped from: /wiki/Brazil
+D, [2018-03-08T22:34:40.972950 #9993] DEBUG -- : Information scraped from: /wiki/Portuguese_language
+D, [2018-03-08T22:34:41.848230 #9993] DEBUG -- : Information scraped from: /wiki/Western_Romance_languages
+D, [2018-03-08T22:35:40.063195 #10285] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T22:35:40.063290 #10285] DEBUG -- : Starting loop 1
+D, [2018-03-08T22:35:43.690315 #10285] DEBUG -- : Information scraped from: /wiki/Mexican_Girl
+D, [2018-03-08T22:35:46.201090 #10285] DEBUG -- : Information scraped from: /wiki/Smokie_(band)
+D, [2018-03-08T22:35:51.034870 #10285] DEBUG -- : Information scraped from: /wiki/England
+D, [2018-03-08T22:35:52.129061 #10285] DEBUG -- : Information scraped from: /wiki/Country
+D, [2018-03-08T22:35:53.634114 #10285] DEBUG -- : Information scraped from: /wiki/Political_geography
+D, [2018-03-08T22:35:55.863401 #10285] DEBUG -- : Information scraped from: /wiki/Politics
+D, [2018-03-08T22:35:55.863466 #10285] DEBUG -- : we found a loop at: Politics
+
+
+D, [2018-03-08T22:35:55.866459 #10285] DEBUG -- : Starting loop 2
+D, [2018-03-08T22:35:58.181487 #10285] DEBUG -- : Information scraped from: /wiki/Lao_Ai

@@ -48,7 +48,7 @@ class WikiScraper
   def correctUrl
     # sometimes urls redirect to different pages
     # in such cases we want to change the recorded nextUrl for the previous page to match the url of the actual page we navigated to AND keep a record of the redirected url
-    if @currentPage[:url] != @previousPage[:nextUrl]
+    if @previousPage && @currentPage[:url] != @previousPage[:nextUrl]
       @redirectedUrls << @previousPage[:nextUrl]
       @previousPage[:nextUrl] = @currentPage[:url]
     end
