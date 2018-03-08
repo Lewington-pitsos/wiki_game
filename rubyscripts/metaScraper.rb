@@ -13,9 +13,9 @@ class MetaScraper
     # starts scraping from a random page with a new scraper instance and continues untill it hits an error or the number of requested scrapes is achieved
     @scraper = WikiScraper.new(BR)
     LOGGER.debug("Beginning new scrape...\n\n")
-    
+
     while @loops_wanted > @loops_found
-      LOGGER.debug("\n\nStarting loop #{@loops_found + 1}")
+      LOGGER.debug("Starting loop #{@loops_found + 1}")
       @scraper.find_wiki_loop()
       @loops_found += 1
     end

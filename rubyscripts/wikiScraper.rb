@@ -30,7 +30,7 @@ class WikiScraper
       visitLink(nextUrl())
       scrapeAgain()
     else
-      LOGGER.debug("we found a loop at: #{@allPages[-1][:title]}")
+      LOGGER.debug("we found a loop at: #{@allPages[-1][:title]}\n\n")
       writeToFile(@allPages) # file_helper
     end
   end
