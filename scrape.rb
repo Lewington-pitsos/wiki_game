@@ -38,7 +38,7 @@ rescue
     Previous next page: #{SCRAPER.allPages[-2].nextUrl}\n\n\n
 
     Ok, now we'll keep going with a new scraper...\n
-    All the data from that last scrape will not be added to the database\n\n\n
+    NO data from that last scrape will be added to the database\n\n\n
 
   MESSAGE
   scrape()
