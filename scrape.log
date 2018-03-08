@@ -2090,3 +2090,28 @@ D, [2018-03-09T00:09:32.296506 #19401] DEBUG -- : we found a loop at: Island
 
 
 D, [2018-03-09T00:09:32.371012 #19401] DEBUG -- : Starting loop 97
+D, [2018-03-09T00:09:33.350387 #19401] DEBUG -- : Information scraped from: /wiki/Ordubadi_family
+D, [2018-03-09T00:09:35.088211 #19401] DEBUG -- : Information scraped from: /wiki/Iranian_peoples
+D, [2018-03-09T00:09:35.088270 #19401] DEBUG -- : Changing /wiki/Iranian_people to /wiki/Iranian_peoples
+D, [2018-03-09T00:09:35.843692 #19401] DEBUG -- : we found a loop at: Iranian peoples
+
+
+D, [2018-03-09T00:09:35.908774 #19401] DEBUG -- : Starting loop 98
+D, [2018-03-09T00:09:36.784033 #19401] DEBUG -- : Information scraped from: /wiki/Congress_of_Soissons
+D, [2018-03-09T00:09:37.528231 #19401] DEBUG -- : Information scraped from: /wiki/Summit_(meeting)
+D, [2018-03-09T00:09:37.528295 #19401] DEBUG -- : Changing /wiki/Diplomatic_conference to /wiki/Summit_(meeting)
+D, [2018-03-09T00:09:39.475575 #19401] DEBUG -- : Information scraped from: /wiki/Head_of_state
+D, [2018-03-09T00:09:40.199111 #19401] DEBUG -- : we found a loop at: Head of state
+
+
+D, [2018-03-09T00:09:40.295876 #19401] DEBUG -- : Starting loop 99
+D, [2018-03-09T00:09:42.010030 #19401] DEBUG -- : Information scraped from: /wiki/Uspant%C3%A1n
+D, [2018-03-09T00:09:42.614130 #19401] DEBUG -- : we found a loop at: Uspantán
+
+
+D, [2018-03-09T00:09:42.707231 #19401] DEBUG -- : Starting loop 100
+D, [2018-03-09T00:09:43.969702 #19401] DEBUG -- : Information scraped from: /wiki/Del_Rio,_Florida
+D, [2018-03-09T00:09:44.863646 #19401] DEBUG -- : we found a loop at: Del Rio, Florida
+
+
+D, [2018-03-09T00:09:44.930443 #19401] DEBUG -- : Scraping finished, 100 loops have been found
