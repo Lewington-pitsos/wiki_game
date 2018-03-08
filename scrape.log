@@ -1939,3 +1939,154 @@ D, [2018-03-09T00:07:35.729331 #19401] DEBUG -- : we found a loop at: Carroll Co
 
 D, [2018-03-09T00:07:35.808021 #19401] DEBUG -- : Starting loop 76
 D, [2018-03-09T00:07:41.580694 #19401] DEBUG -- : Information scraped from: /wiki/Fighting_Force_2
+D, [2018-03-09T00:07:46.502944 #19401] DEBUG -- : Information scraped from: /wiki/Beat_%27em_up
+D, [2018-03-09T00:07:47.560359 #19401] DEBUG -- : Information scraped from: /wiki/Video_game_genre
+D, [2018-03-09T00:07:47.560448 #19401] DEBUG -- : Changing /wiki/Video_game_genres to /wiki/Video_game_genre
+D, [2018-03-09T00:07:50.436592 #19401] DEBUG -- : Information scraped from: /wiki/Video_game
+D, [2018-03-09T00:07:51.067047 #19401] DEBUG -- : Information scraped from: /wiki/Electronic_game
+D, [2018-03-09T00:07:52.581770 #19401] DEBUG -- : Information scraped from: /wiki/Game
+D, [2018-03-09T00:07:53.805750 #19401] DEBUG -- : Information scraped from: /wiki/Play_(activity)
+D, [2018-03-09T00:07:55.000661 #19401] DEBUG -- : we found a loop at: Play (activity)
+
+
+D, [2018-03-09T00:07:55.082376 #19401] DEBUG -- : Starting loop 77
+D, [2018-03-09T00:07:56.358832 #19401] DEBUG -- : Information scraped from: /wiki/Dorothea_Palmer
+D, [2018-03-09T00:07:58.403808 #19401] DEBUG -- : Information scraped from: /wiki/Birth_control
+D, [2018-03-09T00:08:06.912921 #19401] DEBUG -- : Information scraped from: /wiki/Pregnancy
+D, [2018-03-09T00:08:07.907285 #19401] DEBUG -- : Information scraped from: /wiki/Offspring
+D, [2018-03-09T00:08:09.071797 #19401] DEBUG -- : we found a loop at: Offspring
+
+
+D, [2018-03-09T00:08:09.172846 #19401] DEBUG -- : Starting loop 78
+D, [2018-03-09T00:08:10.418581 #19401] DEBUG -- : Information scraped from: /wiki/Dichomeris_chlanidota
+D, [2018-03-09T00:08:11.407818 #19401] DEBUG -- : we found a loop at: Dichomeris chlanidota
+
+
+D, [2018-03-09T00:08:11.475276 #19401] DEBUG -- : Starting loop 79
+D, [2018-03-09T00:08:12.643208 #19401] DEBUG -- : Information scraped from: /wiki/A_Woman_Loves
+D, [2018-03-09T00:08:13.530319 #19401] DEBUG -- : Information scraped from: /wiki/Steve_Wariner
+D, [2018-03-09T00:08:14.870486 #19401] DEBUG -- : we found a loop at: Steve Wariner
+
+
+D, [2018-03-09T00:08:14.928513 #19401] DEBUG -- : Starting loop 80
+D, [2018-03-09T00:08:16.266702 #19401] DEBUG -- : Information scraped from: /wiki/Bil_Dashi
+D, [2018-03-09T00:08:17.452997 #19401] DEBUG -- : we found a loop at: Bil Dashi
+
+
+D, [2018-03-09T00:08:17.513030 #19401] DEBUG -- : Starting loop 81
+D, [2018-03-09T00:08:19.473684 #19401] DEBUG -- : Information scraped from: /wiki/Liouville%E2%80%93Neumann_series
+D, [2018-03-09T00:08:20.338957 #19401] DEBUG -- : we found a loop at: Liouville–Neumann series
+
+
+D, [2018-03-09T00:08:20.409542 #19401] DEBUG -- : Starting loop 82
+D, [2018-03-09T00:08:22.095130 #19401] DEBUG -- : Information scraped from: /wiki/Patrik_Gerrbrand
+D, [2018-03-09T00:08:22.940389 #19401] DEBUG -- : Information scraped from: /wiki/%C3%84lvsj%C3%B6
+D, [2018-03-09T00:08:24.081819 #19401] DEBUG -- : Information scraped from: /wiki/Stockholm_Municipality
+D, [2018-03-09T00:08:24.980166 #19401] DEBUG -- : Information scraped from: /wiki/Municipalities_of_Sweden
+D, [2018-03-09T00:08:26.221161 #19401] DEBUG -- : Information scraped from: /wiki/Swedish_language
+D, [2018-03-09T00:08:27.085934 #19401] DEBUG -- : we found a loop at: Swedish language
+
+
+D, [2018-03-09T00:08:27.165612 #19401] DEBUG -- : Starting loop 83
+D, [2018-03-09T00:08:28.094406 #19401] DEBUG -- : Information scraped from: /wiki/526_Jena
+D, [2018-03-09T00:08:28.799776 #19401] DEBUG -- : Information scraped from: /wiki/Themis_family
+D, [2018-03-09T00:08:29.555544 #19401] DEBUG -- : Information scraped from: /wiki/Hirayama_family
+D, [2018-03-09T00:08:34.712897 #19401] DEBUG -- : Information scraped from: /wiki/Asteroid
+D, [2018-03-09T00:08:35.498131 #19401] DEBUG -- : Information scraped from: /wiki/Minor_planet
+D, [2018-03-09T00:08:36.081306 #19401] DEBUG -- : we found a loop at: Minor planet
+
+
+D, [2018-03-09T00:08:36.170639 #19401] DEBUG -- : Starting loop 84
+D, [2018-03-09T00:08:37.305027 #19401] DEBUG -- : Information scraped from: /wiki/Gayatri_Chakravorty_Spivak
+D, [2018-03-09T00:08:38.483469 #19401] DEBUG -- : we found a loop at: Gayatri Chakravorty Spivak
+
+
+D, [2018-03-09T00:08:38.550131 #19401] DEBUG -- : Starting loop 85
+D, [2018-03-09T00:08:40.030303 #19401] DEBUG -- : Information scraped from: /wiki/Rhododendron_laetum
+D, [2018-03-09T00:08:41.237459 #19401] DEBUG -- : Information scraped from: /wiki/Rhododendron
+D, [2018-03-09T00:08:41.887639 #19401] DEBUG -- : we found a loop at: Rhododendron
+
+
+D, [2018-03-09T00:08:41.959016 #19401] DEBUG -- : Starting loop 86
+D, [2018-03-09T00:08:43.143042 #19401] DEBUG -- : Information scraped from: /wiki/1988_World_Junior_Championships_in_Athletics_%E2%80%93_Women%27s_200_metres
+D, [2018-03-09T00:08:44.323459 #19401] DEBUG -- : Information scraped from: /wiki/200_metres
+D, [2018-03-09T00:08:45.305706 #19401] DEBUG -- : Information scraped from: /wiki/Sprint_(running)
+D, [2018-03-09T00:08:46.137976 #19401] DEBUG -- : we found a loop at: Sprint (running)
+
+
+D, [2018-03-09T00:08:46.204046 #19401] DEBUG -- : Starting loop 87
+D, [2018-03-09T00:08:47.129458 #19401] DEBUG -- : Information scraped from: /wiki/Harish_Raghavendra
+D, [2018-03-09T00:08:47.759605 #19401] DEBUG -- : Information scraped from: /wiki/Minnale
+D, [2018-03-09T00:08:48.878818 #19401] DEBUG -- : Information scraped from: /wiki/List_of_Tamil_films_of_2001
+D, [2018-03-09T00:08:48.878909 #19401] DEBUG -- : Changing /wiki/Tamil_films_of_2001 to /wiki/List_of_Tamil_films_of_2001
+D, [2018-03-09T00:08:49.977029 #19401] DEBUG -- : Information scraped from: /wiki/Tamil_cinema
+D, [2018-03-09T00:08:51.453466 #19401] DEBUG -- : we found a loop at: Tamil cinema
+
+
+D, [2018-03-09T00:08:51.532737 #19401] DEBUG -- : Starting loop 88
+D, [2018-03-09T00:08:52.703005 #19401] DEBUG -- : Information scraped from: /wiki/1925%E2%80%9326_Stoke_City_F.C._season
+D, [2018-03-09T00:08:53.682639 #19401] DEBUG -- : Information scraped from: /wiki/1925%E2%80%9326_Football_League
+D, [2018-03-09T00:08:54.553322 #19401] DEBUG -- : Information scraped from: /wiki/1925_in_association_football
+D, [2018-03-09T00:08:55.941625 #19401] DEBUG -- : we found a loop at: 1925 in association football
+
+
+D, [2018-03-09T00:08:56.028559 #19401] DEBUG -- : Starting loop 89
+D, [2018-03-09T00:08:57.534784 #19401] DEBUG -- : Information scraped from: /wiki/Alexander_Lundh
+D, [2018-03-09T00:08:59.915308 #19401] DEBUG -- : we found a loop at: Alexander Lundh
+
+
+D, [2018-03-09T00:08:59.981536 #19401] DEBUG -- : Starting loop 90
+D, [2018-03-09T00:09:01.519123 #19401] DEBUG -- : Information scraped from: /wiki/Gil_Baiano
+D, [2018-03-09T00:09:02.174474 #19401] DEBUG -- : Information scraped from: /wiki/Defender_(association_football)#Full-back
+D, [2018-03-09T00:09:02.834933 #19401] DEBUG -- : we found a loop at: Defender (association football)
+
+
+D, [2018-03-09T00:09:02.915058 #19401] DEBUG -- : Starting loop 91
+D, [2018-03-09T00:09:04.042075 #19401] DEBUG -- : Information scraped from: /wiki/Joe_Gates
+D, [2018-03-09T00:09:04.725481 #19401] DEBUG -- : Information scraped from: /wiki/Professional_baseball
+D, [2018-03-09T00:09:05.394961 #19401] DEBUG -- : Information scraped from: /wiki/List_of_organized_baseball_leagues
+D, [2018-03-09T00:09:05.395044 #19401] DEBUG -- : Changing /wiki/Baseball_league to /wiki/List_of_organized_baseball_leagues
+D, [2018-03-09T00:09:06.761772 #19401] DEBUG -- : Information scraped from: /wiki/Baseball
+D, [2018-03-09T00:09:07.333796 #19401] DEBUG -- : we found a loop at: Baseball
+
+
+D, [2018-03-09T00:09:07.416868 #19401] DEBUG -- : Starting loop 92
+D, [2018-03-09T00:09:09.012563 #19401] DEBUG -- : Information scraped from: /wiki/Mount_Yuniishikari
+D, [2018-03-09T00:09:10.140476 #19401] DEBUG -- : Information scraped from: /wiki/Central_Ishikari_Mountains
+D, [2018-03-09T00:09:11.581519 #19401] DEBUG -- : Information scraped from: /wiki/Hokkaido
+D, [2018-03-09T00:09:11.581582 #19401] DEBUG -- : Changing /wiki/Hokkaid%C5%8D to /wiki/Hokkaido
+D, [2018-03-09T00:09:12.295944 #19401] DEBUG -- : Information scraped from: /wiki/Circuit_(administrative_division)
+D, [2018-03-09T00:09:12.296007 #19401] DEBUG -- : Changing /wiki/Circuit_(political_division) to /wiki/Circuit_(administrative_division)
+D, [2018-03-09T00:09:13.193419 #19401] DEBUG -- : we found a loop at: Circuit (administrative division)
+
+
+D, [2018-03-09T00:09:13.284262 #19401] DEBUG -- : Starting loop 93
+D, [2018-03-09T00:09:14.665114 #19401] DEBUG -- : Information scraped from: /wiki/Biological_resistance
+D, [2018-03-09T00:09:15.904366 #19401] DEBUG -- : Information scraped from: /wiki/Microorganism
+D, [2018-03-09T00:09:16.599566 #19401] DEBUG -- : Information scraped from: /wiki/Microscopic_scale
+D, [2018-03-09T00:09:17.494060 #19401] DEBUG -- : we found a loop at: Microscopic scale
+
+
+D, [2018-03-09T00:09:17.582026 #19401] DEBUG -- : Starting loop 94
+D, [2018-03-09T00:09:18.619875 #19401] DEBUG -- : Information scraped from: /wiki/Yang_Feng
+D, [2018-03-09T00:09:21.791766 #19401] DEBUG -- : Information scraped from: /wiki/Han_dynasty#Eastern_Han
+D, [2018-03-09T00:09:21.791842 #19401] DEBUG -- : Changing /wiki/Eastern_Han_dynasty to /wiki/Han_dynasty#Eastern_Han
+D, [2018-03-09T00:09:22.717901 #19401] DEBUG -- : Information scraped from: /wiki/Traditional_Chinese_characters
+D, [2018-03-09T00:09:23.415381 #19401] DEBUG -- : we found a loop at: Traditional Chinese characters
+
+
+D, [2018-03-09T00:09:23.499421 #19401] DEBUG -- : Starting loop 95
+D, [2018-03-09T00:09:24.558889 #19401] DEBUG -- : Information scraped from: /wiki/Cyamopsis
+D, [2018-03-09T00:09:25.704568 #19401] DEBUG -- : Information scraped from: /wiki/Fabaceae
+D, [2018-03-09T00:09:26.198139 #19401] DEBUG -- : we found a loop at: Fabaceae
+
+
+D, [2018-03-09T00:09:26.289029 #19401] DEBUG -- : Starting loop 96
+D, [2018-03-09T00:09:27.764910 #19401] DEBUG -- : Information scraped from: /wiki/Newstead_Christian_School
+D, [2018-03-09T00:09:29.002751 #19401] DEBUG -- : Information scraped from: /wiki/Launceston,_Tasmania
+D, [2018-03-09T00:09:30.578113 #19401] DEBUG -- : Information scraped from: /wiki/Tasmania
+D, [2018-03-09T00:09:31.415911 #19401] DEBUG -- : Information scraped from: /wiki/Island
+D, [2018-03-09T00:09:32.296506 #19401] DEBUG -- : we found a loop at: Island
+
+
+D, [2018-03-09T00:09:32.371012 #19401] DEBUG -- : Starting loop 97
