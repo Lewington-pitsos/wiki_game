@@ -52,7 +52,7 @@ module PageScraper
   end
 
   def recordEntry(entry)
-    @allPages << entry
+    @allPages[entry[:title]] = entry
   end
 
   def visitLink(path)

@@ -11,24 +11,27 @@ class WikiScraper
   def initialize(br)
     @br = br
     @allPages = getAllEntries()
+    @currentPage = nil
+    @previousPage = nil
+    @redirectedUrls = []
   end
 
   def find_wiki_loop
     # visits a random wikipedia page defines a new empty array and starts continuous page scraping
     @br.goto('https://en.wikipedia.org/wiki/Special:Random')
-    scrapeAgain(true)
+    scrapeAgain()
   end
 
-  def scrapeAgain(first=false)
+  def scrapeAgain
     # scrapes the page (updating the @allPages with a page entry for that page)
     # if the url for the next page is a new url, we recur
     # otherwise we save the @allPages to the record file
 
     # either way we ensure that the current url matches the one we just came from, and correct the previous next url if it doesn't (unless this is the first round for scraping this loop, in which case there should be a disconnect)
     scrapePage()
-    if latestTitleIsNew?()
-      correctUrl() unless first
-      visitLink(nextUrl())
+    correctUrl()
+    if latestTitleIsNew?(@currentPage[:nextUrl])
+      visitLink(@currentPage[:nextUrl])
       scrapeAgain()
     else
       correctUrl()
@@ -37,26 +40,18 @@ class WikiScraper
     end
   end
 
-  def latestTitleIsNew?
-    # to prevent loops where the same page keeps snedin us to itself through a redirect
-    !(@allPages.map{ |page| page[:url] }.include?(nextUrl()) ||
-      nextUrl == previousNextUrl)
-  end
-
-  def nextUrl
-    @allPages[-1][:nextUrl]
-  end
-
-  def previousNextUrl
-    @allPages[-2][:nextUrl]
+  def latestTitleIsNew?(url)
+    # returns a boolean of whether the passed in url matches either any of the already scraped pages in the record OR any of the redirected urls we have encountered during this scrape
+    !(@allPages.map{ |page| page[:url] }.include?(url()) ||
+      @redirectedUrls.include?(url))
   end
 
   def correctUrl
-    # sometimes urls redirect to different pages,
-    # in such cases we want to change the recorded nextUrl for the previous page to match the actual page we navigated to
-    url = urlEnding(@br.url)
-    if url != previousNextUrl()
-      @allPages[-2][:nextUrl] = url
+    # sometimes urls redirect to different pages
+    # in such cases we want to change the recorded nextUrl for the previous page to match the url of the actual page we navigated to AND keep a record of the redirected url
+    if @currentPage[:url] != @previousPage[:nextUrl]
+      @redirectedUrls << @previousPage[:nextUrl]
+      @previousPage[:nextUrl] = @currentPage[:url]
     end
   end
 end
