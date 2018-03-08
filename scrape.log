@@ -1262,3 +1262,412 @@ D, [2018-03-08T18:51:04.420797 #31530] DEBUG -- : we found a loop at: Tyrol (sta
 
 D, [2018-03-08T18:51:04.479634 #31530] DEBUG -- : Starting loop 61
 D, [2018-03-08T18:51:05.905936 #31530] DEBUG -- : Information scraped from: /wiki/Epidendrum_difforme
+D, [2018-03-08T18:51:07.444746 #31530] DEBUG -- : Information scraped from: /wiki/Orchidaceae
+D, [2018-03-08T18:51:08.034111 #31530] DEBUG -- : Information scraped from: /wiki/Cosmopolitan_distribution
+D, [2018-03-08T18:51:09.288682 #31530] DEBUG -- : Information scraped from: /wiki/Biogeography
+D, [2018-03-08T18:51:09.293134 #31530] DEBUG -- : we found a loop at: Biogeography
+
+
+D, [2018-03-08T18:51:09.335655 #31530] DEBUG -- : Starting loop 62
+D, [2018-03-08T18:51:10.586680 #31530] DEBUG -- : Information scraped from: /wiki/Defense_Threat_Reduction_Agency
+D, [2018-03-08T18:51:12.116770 #31530] DEBUG -- : Information scraped from: /wiki/United_States_Department_of_Defense
+D, [2018-03-08T18:51:12.837814 #31530] DEBUG -- : Information scraped from: /wiki/United_States_federal_executive_departments
+D, [2018-03-08T18:51:13.718038 #31530] DEBUG -- : Information scraped from: /wiki/Cabinet_(government)
+D, [2018-03-08T18:51:13.724263 #31530] DEBUG -- : we found a loop at: Cabinet (government)
+
+
+D, [2018-03-08T18:51:13.783060 #31530] DEBUG -- : Starting loop 63
+D, [2018-03-08T18:51:15.042939 #31530] DEBUG -- : Information scraped from: /wiki/Mali_Kabli%C4%87i
+D, [2018-03-08T18:51:15.047216 #31530] DEBUG -- : we found a loop at: Mali Kablići
+
+
+D, [2018-03-08T18:51:15.085734 #31530] DEBUG -- : Starting loop 64
+D, [2018-03-08T18:51:16.589426 #31530] DEBUG -- : Information scraped from: /wiki/Ohlenb%C3%BCttel
+D, [2018-03-08T18:51:17.801884 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:18.586868 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:19.354617 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:20.134206 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:20.931005 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:21.781218 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:22.562469 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:23.663624 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:24.492857 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:25.308067 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:26.132501 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:26.964977 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:27.823033 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:28.625948 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:29.390744 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:30.206362 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:31.636364 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:32.436239 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:33.347275 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:34.115501 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:34.910470 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:35.741497 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:36.539179 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:37.338980 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:38.222619 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:39.093210 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:40.090767 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:41.182345 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:42.844718 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:43.635941 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:44.468354 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:45.455448 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:46.281828 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:47.239873 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:48.315564 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:50.118628 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:50.918654 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:51.761962 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:52.654697 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:53.502230 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:54.491492 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:55.517648 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:58.009939 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:58.811178 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:51:59.664194 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:52:00.687038 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:52:01.474646 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:52:02.412514 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:52:03.458642 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:52:06.397420 #31530] DEBUG -- : Information scraped from: /wiki/Low_German
+D, [2018-03-08T18:55:14.712853 #32625] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T18:55:14.713030 #32625] DEBUG -- : Starting loop 1
+D, [2018-03-08T18:55:17.915992 #32625] DEBUG -- : Information scraped from: /wiki/2014_Kehoe_Cup
+D, [2018-03-08T18:55:19.843891 #32625] DEBUG -- : Information scraped from: /wiki/Kehoe_Cup
+D, [2018-03-08T18:55:22.158964 #32625] DEBUG -- : Information scraped from: /wiki/Irish_language
+D, [2018-03-08T18:55:23.076943 #32625] DEBUG -- : Information scraped from: /wiki/Goidelic_languages
+D, [2018-03-08T18:55:23.077196 #32625] DEBUG -- : we found a loop at: Goidelic languages
+
+
+D, [2018-03-08T18:55:23.128925 #32625] DEBUG -- : Starting loop 2
+D, [2018-03-08T18:55:24.814830 #32625] DEBUG -- : Information scraped from: /wiki/Runwise
+D, [2018-03-08T18:55:25.474188 #32625] DEBUG -- : Information scraped from: /wiki/Energy_recovery
+D, [2018-03-08T18:55:26.998417 #32625] DEBUG -- : Information scraped from: /wiki/Energy
+D, [2018-03-08T18:55:26.998627 #32625] DEBUG -- : we found a loop at: Energy
+
+
+D, [2018-03-08T18:55:27.039509 #32625] DEBUG -- : Starting loop 3
+D, [2018-03-08T18:55:28.800335 #32625] DEBUG -- : Information scraped from: /wiki/Sigismund_Koelle
+D, [2018-03-08T18:55:30.058722 #32625] DEBUG -- : Information scraped from: /wiki/Cleebronn
+D, [2018-03-08T18:55:30.994683 #32625] DEBUG -- : Information scraped from: /wiki/Municipalities_of_Germany
+D, [2018-03-08T18:55:32.387031 #32625] DEBUG -- : Information scraped from: /wiki/Municipality
+D, [2018-03-08T18:55:34.650118 #32625] DEBUG -- : Information scraped from: /wiki/Urban_area
+D, [2018-03-08T18:55:34.650341 #32625] DEBUG -- : we found a loop at: Urban area
+
+
+D, [2018-03-08T18:55:34.692426 #32625] DEBUG -- : Starting loop 4
+D, [2018-03-08T18:55:35.633634 #32625] DEBUG -- : Information scraped from: /wiki/Hou_De_Jarasa_Ushir
+D, [2018-03-08T18:55:36.961521 #32625] DEBUG -- : Information scraped from: /wiki/Category:Lang_and_lang-xx_template_errors
+D, [2018-03-08T18:55:38.140576 #32625] DEBUG -- : Information scraped from: /wiki/Template:Lang
+D, [2018-03-08T18:55:38.922640 #32625] DEBUG -- : Information scraped from: /wiki/Template:Lang/doc
+D, [2018-03-08T18:55:38.922871 #32625] DEBUG -- : we found a loop at: Template:Lang/doc
+
+
+D, [2018-03-08T18:55:38.962706 #32625] DEBUG -- : Starting loop 5
+D, [2018-03-08T18:55:40.369355 #32625] DEBUG -- : Information scraped from: /wiki/Baltic_Futsal_Cup
+D, [2018-03-08T18:55:41.898977 #32625] DEBUG -- : Information scraped from: /wiki/Futsal
+D, [2018-03-08T18:55:41.899219 #32625] DEBUG -- : we found a loop at: Futsal
+
+
+D, [2018-03-08T18:55:41.944544 #32625] DEBUG -- : Starting loop 6
+D, [2018-03-08T18:55:43.587095 #32625] DEBUG -- : Information scraped from: /wiki/Kalkushk
+D, [2018-03-08T18:55:43.587332 #32625] DEBUG -- : we found a loop at: Kalkushk
+
+
+D, [2018-03-08T18:55:43.622013 #32625] DEBUG -- : Starting loop 7
+D, [2018-03-08T18:55:44.677673 #32625] DEBUG -- : Information scraped from: /wiki/John_Browne_(artist)
+D, [2018-03-08T18:55:45.569157 #32625] DEBUG -- : Information scraped from: /wiki/Royal_Academy_of_Arts
+D, [2018-03-08T18:55:46.358330 #32625] DEBUG -- : Information scraped from: /wiki/Burlington_House
+D, [2018-03-08T18:55:47.585860 #32625] DEBUG -- : Information scraped from: /wiki/Piccadilly
+D, [2018-03-08T18:55:48.774307 #32625] DEBUG -- : Information scraped from: /wiki/City_of_Westminster
+D, [2018-03-08T18:55:49.884483 #32625] DEBUG -- : Information scraped from: /wiki/Inner_London
+D, [2018-03-08T18:55:51.319634 #32625] DEBUG -- : Information scraped from: /wiki/London_boroughs
+D, [2018-03-08T18:55:52.260998 #32625] DEBUG -- : Information scraped from: /wiki/Districts_of_England
+D, [2018-03-08T18:55:53.592817 #32625] DEBUG -- : Information scraped from: /wiki/Subdivisions_of_England
+D, [2018-03-08T18:55:53.593039 #32625] DEBUG -- : we found a loop at: Subdivisions of England
+
+
+D, [2018-03-08T18:55:53.638549 #32625] DEBUG -- : Starting loop 8
+D, [2018-03-08T18:55:55.192623 #32625] DEBUG -- : Information scraped from: /wiki/Dancing_Forever_World_Tour
+D, [2018-03-08T18:55:56.049382 #32625] DEBUG -- : Information scraped from: /wiki/Traditional_Chinese_characters
+D, [2018-03-08T18:55:56.049579 #32625] DEBUG -- : we found a loop at: Traditional Chinese characters
+
+
+D, [2018-03-08T18:55:56.089755 #32625] DEBUG -- : Starting loop 9
+D, [2018-03-08T18:55:57.111672 #32625] DEBUG -- : Information scraped from: /wiki/Plastid
+D, [2018-03-08T18:55:57.816223 #32625] DEBUG -- : Information scraped from: /wiki/Organelle
+D, [2018-03-08T18:55:58.608183 #32625] DEBUG -- : Information scraped from: /wiki/Cell_biology
+D, [2018-03-08T18:55:58.608393 #32625] DEBUG -- : we found a loop at: Cell biology
+
+
+D, [2018-03-08T18:55:58.647557 #32625] DEBUG -- : Starting loop 10
+D, [2018-03-08T18:56:00.056676 #32625] DEBUG -- : Information scraped from: /wiki/Abdulrahman_Suleiman
+D, [2018-03-08T18:56:02.410505 #32625] DEBUG -- : Information scraped from: /wiki/Qatar
+D, [2018-03-08T18:56:04.359499 #32625] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:56:04.359766 #32625] DEBUG -- : we found a loop at: Arabic
+
+
+D, [2018-03-08T18:56:04.420252 #32625] DEBUG -- : Starting loop 11
+D, [2018-03-08T18:56:05.658865 #32625] DEBUG -- : Information scraped from: /wiki/Mary_Shomon
+D, [2018-03-08T18:56:06.923404 #32625] DEBUG -- : Information scraped from: /wiki/Thyroid
+D, [2018-03-08T18:56:07.613651 #32625] DEBUG -- : Information scraped from: /wiki/Endocrine_gland
+D, [2018-03-08T18:56:08.618504 #32625] DEBUG -- : Information scraped from: /wiki/Gland
+D, [2018-03-08T18:56:09.296226 #32625] DEBUG -- : Information scraped from: /wiki/Hormone
+D, [2018-03-08T18:56:09.296496 #32625] DEBUG -- : we found a loop at: Hormone
+
+
+D, [2018-03-08T18:56:09.343027 #32625] DEBUG -- : Starting loop 12
+D, [2018-03-08T18:56:10.468899 #32625] DEBUG -- : Information scraped from: /wiki/Am%C3%A9d%C3%A9e_Joullin
+D, [2018-03-08T18:56:11.930126 #32625] DEBUG -- : Information scraped from: /wiki/French_Americans
+D, [2018-03-08T18:56:11.930327 #32625] DEBUG -- : we found a loop at: French Americans
+
+
+D, [2018-03-08T18:56:11.977428 #32625] DEBUG -- : Starting loop 13
+D, [2018-03-08T18:56:13.665133 #32625] DEBUG -- : Information scraped from: /wiki/Health_Authorities_Act_1995
+D, [2018-03-08T18:56:14.866758 #32625] DEBUG -- : Information scraped from: /wiki/Acts_of_Parliament_in_the_United_Kingdom
+D, [2018-03-08T18:56:15.915648 #32625] DEBUG -- : Information scraped from: /wiki/Primary_and_secondary_legislation
+D, [2018-03-08T18:56:17.063105 #32625] DEBUG -- : Information scraped from: /wiki/Parliamentary_system
+D, [2018-03-08T18:56:19.196406 #32625] DEBUG -- : Information scraped from: /wiki/Democracy
+D, [2018-03-08T18:56:19.196629 #32625] DEBUG -- : we found a loop at: Democracy
+
+
+D, [2018-03-08T18:56:19.243935 #32625] DEBUG -- : Starting loop 14
+D, [2018-03-08T18:56:20.239824 #32625] DEBUG -- : Information scraped from: /wiki/Tovomita_aequatoriensis
+D, [2018-03-08T18:56:21.551240 #32625] DEBUG -- : Information scraped from: /wiki/Flowering_plant
+D, [2018-03-08T18:56:22.512201 #32625] DEBUG -- : Information scraped from: /wiki/Embryophyte
+D, [2018-03-08T18:56:23.963137 #32625] DEBUG -- : Information scraped from: /wiki/Plant
+D, [2018-03-08T18:56:23.963416 #32625] DEBUG -- : we found a loop at: Plant
+
+
+D, [2018-03-08T18:56:24.031138 #32625] DEBUG -- : Starting loop 15
+D, [2018-03-08T18:56:25.286409 #32625] DEBUG -- : Information scraped from: /wiki/Roscoe_Conkling_Ensign_Brown
+D, [2018-03-08T18:56:25.878702 #32625] DEBUG -- : Information scraped from: /wiki/Managing_editor
+D, [2018-03-08T18:56:26.574184 #32625] DEBUG -- : Information scraped from: /wiki/Publication
+D, [2018-03-08T18:56:27.200588 #32625] DEBUG -- : Information scraped from: /wiki/Content_(media)
+D, [2018-03-08T18:56:28.175544 #32625] DEBUG -- : Information scraped from: /wiki/Information
+D, [2018-03-08T18:56:28.879366 #32625] DEBUG -- : Information scraped from: /wiki/Data
+D, [2018-03-08T18:56:28.879587 #32625] DEBUG -- : we found a loop at: Data
+
+
+D, [2018-03-08T18:56:28.922065 #32625] DEBUG -- : Starting loop 16
+D, [2018-03-08T18:56:30.354099 #32625] DEBUG -- : Information scraped from: /wiki/Juno_Awards_of_1983
+D, [2018-03-08T18:56:31.167611 #32625] DEBUG -- : Information scraped from: /wiki/Juno_Award
+D, [2018-03-08T18:56:32.294426 #32625] DEBUG -- : Information scraped from: /wiki/Music_of_Canada
+D, [2018-03-08T18:56:34.119537 #32625] DEBUG -- : Information scraped from: /wiki/History_of_Canada
+D, [2018-03-08T18:56:35.182502 #32625] DEBUG -- : Information scraped from: /wiki/Paleo-Indians
+D, [2018-03-08T18:56:37.410119 #32625] DEBUG -- : Information scraped from: /wiki/Indigenous_peoples_of_the_Americas
+D, [2018-03-08T18:56:39.005794 #32625] DEBUG -- : Information scraped from: /wiki/Pre-Columbian_era
+D, [2018-03-08T18:56:39.698695 #32625] DEBUG -- : Information scraped from: /wiki/Archaeology_of_the_Americas
+D, [2018-03-08T18:56:41.233089 #32625] DEBUG -- : Information scraped from: /wiki/Archaeology
+D, [2018-03-08T18:56:42.941599 #32625] DEBUG -- : Information scraped from: /wiki/Human
+D, [2018-03-08T18:56:43.662763 #32625] DEBUG -- : Information scraped from: /wiki/Homo_sapiens
+D, [2018-03-08T18:56:43.662988 #32625] DEBUG -- : we found a loop at: Homo sapiens
+
+
+D, [2018-03-08T18:56:43.744352 #32625] DEBUG -- : Starting loop 17
+D, [2018-03-08T18:56:44.813967 #32625] DEBUG -- : Information scraped from: /wiki/Spilarctia_bisecta
+D, [2018-03-08T18:56:44.814269 #32625] DEBUG -- : we found a loop at: Spilarctia bisecta
+
+
+D, [2018-03-08T18:56:44.852434 #32625] DEBUG -- : Starting loop 18
+D, [2018-03-08T18:56:46.102593 #32625] DEBUG -- : Information scraped from: /wiki/Arrondissement_of_Castres
+D, [2018-03-08T18:56:46.102830 #32625] DEBUG -- : we found a loop at: Arrondissement of Castres
+
+
+D, [2018-03-08T18:56:46.138883 #32625] DEBUG -- : Starting loop 19
+D, [2018-03-08T18:56:47.331664 #32625] DEBUG -- : Information scraped from: /wiki/Misha_Geller
+D, [2018-03-08T18:56:47.332087 #32625] DEBUG -- : we found a loop at: Misha Geller
+
+
+D, [2018-03-08T18:56:47.367839 #32625] DEBUG -- : Starting loop 20
+D, [2018-03-08T18:56:48.313917 #32625] DEBUG -- : Information scraped from: /wiki/Peircy_Brett
+D, [2018-03-08T18:56:48.996195 #32625] DEBUG -- : Information scraped from: /wiki/Admiral_(Royal_Navy)
+D, [2018-03-08T18:56:52.608810 #32625] DEBUG -- : Information scraped from: /wiki/Royal_Navy
+D, [2018-03-08T18:56:52.609087 #32625] DEBUG -- : we found a loop at: Royal Navy
+
+
+D, [2018-03-08T18:56:52.656331 #32625] DEBUG -- : Starting loop 21
+D, [2018-03-08T18:56:53.661918 #32625] DEBUG -- : Information scraped from: /wiki/William_Alfred_Preston
+D, [2018-03-08T18:56:53.662198 #32625] DEBUG -- : we found a loop at: William Alfred Preston
+
+
+D, [2018-03-08T18:56:53.699279 #32625] DEBUG -- : Starting loop 22
+D, [2018-03-08T18:56:54.868703 #32625] DEBUG -- : Information scraped from: /wiki/Podington
+D, [2018-03-08T18:56:55.621138 #32625] DEBUG -- : Information scraped from: /wiki/Civil_parish
+D, [2018-03-08T18:56:55.621386 #32625] DEBUG -- : we found a loop at: Civil parish
+
+
+D, [2018-03-08T18:56:55.659272 #32625] DEBUG -- : Starting loop 23
+D, [2018-03-08T18:56:57.019800 #32625] DEBUG -- : Information scraped from: /wiki/Martin-Michel-Charles_Gaudin
+D, [2018-03-08T18:56:58.035053 #32625] DEBUG -- : Information scraped from: /wiki/Gaeta
+D, [2018-03-08T18:56:59.227247 #32625] DEBUG -- : Information scraped from: /wiki/Latin
+D, [2018-03-08T18:56:59.227479 #32625] DEBUG -- : we found a loop at: Latin
+
+
+D, [2018-03-08T18:56:59.275881 #32625] DEBUG -- : Starting loop 24
+D, [2018-03-08T18:57:00.411352 #32625] DEBUG -- : Information scraped from: /wiki/Denver_Dream_(song)
+D, [2018-03-08T18:57:01.494279 #32625] DEBUG -- : Information scraped from: /wiki/Donna_Summer
+D, [2018-03-08T18:57:02.942993 #32625] DEBUG -- : Information scraped from: /wiki/Disco
+D, [2018-03-08T18:57:04.283128 #32625] DEBUG -- : Information scraped from: /wiki/African-American_culture
+D, [2018-03-08T18:57:07.544079 #32625] DEBUG -- : Information scraped from: /wiki/African_Americans
+D, [2018-03-08T18:57:08.525677 #32625] DEBUG -- : Information scraped from: /wiki/Ethnic_group
+D, [2018-03-08T18:57:08.525901 #32625] DEBUG -- : we found a loop at: Ethnic group
+
+
+D, [2018-03-08T18:57:08.586483 #32625] DEBUG -- : Starting loop 25
+D, [2018-03-08T18:57:09.497834 #32625] DEBUG -- : Information scraped from: /wiki/Doe_Avedon
+D, [2018-03-08T18:57:10.481774 #32625] DEBUG -- : Information scraped from: /wiki/Model_(person)
+D, [2018-03-08T18:57:11.031767 #32625] DEBUG -- : Information scraped from: /wiki/Role
+D, [2018-03-08T18:57:11.032093 #32625] DEBUG -- : we found a loop at: Role
+
+
+D, [2018-03-08T18:57:11.084706 #32625] DEBUG -- : Starting loop 26
+D, [2018-03-08T18:57:12.848835 #32625] DEBUG -- : Information scraped from: /wiki/Trond_Helge_Torsvik
+D, [2018-03-08T18:57:14.293337 #32625] DEBUG -- : Information scraped from: /wiki/Geophysics
+D, [2018-03-08T18:57:14.293592 #32625] DEBUG -- : we found a loop at: Geophysics
+
+
+D, [2018-03-08T18:57:14.336456 #32625] DEBUG -- : Starting loop 27
+D, [2018-03-08T18:57:15.641982 #32625] DEBUG -- : Information scraped from: /wiki/Eigenmannia_goajira
+D, [2018-03-08T18:57:15.642350 #32625] DEBUG -- : we found a loop at: Eigenmannia goajira
+
+
+D, [2018-03-08T18:57:15.686597 #32625] DEBUG -- : Starting loop 28
+D, [2018-03-08T18:57:16.699680 #32625] DEBUG -- : Information scraped from: /wiki/Shakespeare_Behind_Bars
+D, [2018-03-08T18:57:17.679046 #32625] DEBUG -- : Information scraped from: /wiki/La_Grange,_Kentucky
+D, [2018-03-08T18:57:19.889043 #32625] DEBUG -- : Information scraped from: /wiki/List_of_cities_in_Kentucky
+D, [2018-03-08T18:57:23.346581 #32625] DEBUG -- : Information scraped from: /wiki/Kentucky
+D, [2018-03-08T18:57:23.346822 #32625] DEBUG -- : we found a loop at: Kentucky
+
+
+D, [2018-03-08T18:57:23.404931 #32625] DEBUG -- : Starting loop 29
+D, [2018-03-08T18:57:25.286006 #32625] DEBUG -- : Information scraped from: /wiki/Jawdat_Al-Qazwini
+D, [2018-03-08T18:57:26.171356 #32625] DEBUG -- : Information scraped from: /wiki/Iraqis
+D, [2018-03-08T18:57:27.876540 #32625] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:57:27.876801 #32625] DEBUG -- : we found a loop at: Arabic
+
+
+D, [2018-03-08T18:57:27.938104 #32625] DEBUG -- : Starting loop 30
+D, [2018-03-08T18:57:29.524407 #32625] DEBUG -- : Information scraped from: /wiki/Wycz%C3%B3%C5%82ki,_Sochaczew_County
+D, [2018-03-08T18:57:29.524718 #32625] DEBUG -- : we found a loop at: Wyczółki, Sochaczew County
+
+
+D, [2018-03-08T18:57:29.585981 #32625] DEBUG -- : Starting loop 31
+D, [2018-03-08T18:57:30.641239 #32625] DEBUG -- : Information scraped from: /wiki/La_Palma_giant_lizard
+D, [2018-03-08T18:57:31.455084 #32625] DEBUG -- : Information scraped from: /wiki/Lacertidae
+D, [2018-03-08T18:57:32.043202 #32625] DEBUG -- : Information scraped from: /wiki/Family_(biology)
+D, [2018-03-08T18:57:32.931255 #32625] DEBUG -- : Information scraped from: /wiki/Taxonomy_(biology)
+D, [2018-03-08T18:57:34.051720 #32625] DEBUG -- : Information scraped from: /wiki/Ancient_Greek
+D, [2018-03-08T18:57:34.051985 #32625] DEBUG -- : we found a loop at: Ancient Greek
+
+
+D, [2018-03-08T18:57:34.100402 #32625] DEBUG -- : Starting loop 32
+D, [2018-03-08T18:57:35.201771 #32625] DEBUG -- : Information scraped from: /wiki/City_Police_(film)
+D, [2018-03-08T18:57:36.781312 #32625] DEBUG -- : Information scraped from: /wiki/List_of_Malayalam_films_of_1993
+D, [2018-03-08T18:57:37.736423 #32625] DEBUG -- : Information scraped from: /wiki/Malayalam_cinema
+D, [2018-03-08T18:57:39.606285 #32625] DEBUG -- : Information scraped from: /wiki/Cinema_of_India
+D, [2018-03-08T18:57:39.606533 #32625] DEBUG -- : we found a loop at: Cinema of India
+
+
+D, [2018-03-08T18:57:39.663966 #32625] DEBUG -- : Starting loop 33
+D, [2018-03-08T18:57:40.795419 #32625] DEBUG -- : Information scraped from: /wiki/Henry_Loring
+D, [2018-03-08T18:57:41.393760 #32625] DEBUG -- : Information scraped from: /wiki/Archdeacon_of_Calcutta
+D, [2018-03-08T18:57:42.195732 #32625] DEBUG -- : Information scraped from: /wiki/Ecclesiology
+D, [2018-03-08T18:57:43.825772 #32625] DEBUG -- : Information scraped from: /wiki/Christian_theology
+D, [2018-03-08T18:57:44.860104 #32625] DEBUG -- : Information scraped from: /wiki/Theology
+D, [2018-03-08T18:57:45.716786 #32625] DEBUG -- : Information scraped from: /wiki/Divinity
+D, [2018-03-08T18:57:47.261628 #32625] DEBUG -- : Information scraped from: /wiki/Religion
+D, [2018-03-08T18:57:48.539824 #32625] DEBUG -- : Information scraped from: /wiki/Cultural_system
+D, [2018-03-08T18:57:48.540066 #32625] DEBUG -- : we found a loop at: Cultural system
+
+
+D, [2018-03-08T18:57:48.608166 #32625] DEBUG -- : Starting loop 34
+D, [2018-03-08T18:57:50.150024 #32625] DEBUG -- : Information scraped from: /wiki/Veena_Verma
+D, [2018-03-08T18:57:51.368178 #32625] DEBUG -- : Information scraped from: /wiki/Veena_Verma_(politician)
+D, [2018-03-08T18:57:52.049455 #32625] DEBUG -- : Information scraped from: /wiki/Member_of_parliament
+D, [2018-03-08T18:57:53.293715 #32625] DEBUG -- : Information scraped from: /wiki/Parliament
+D, [2018-03-08T18:57:54.078583 #32625] DEBUG -- : Information scraped from: /wiki/Legislature
+D, [2018-03-08T18:57:54.672427 #32625] DEBUG -- : Information scraped from: /wiki/Deliberative_assembly
+D, [2018-03-08T18:57:55.367834 #32625] DEBUG -- : Information scraped from: /wiki/Collective
+D, [2018-03-08T18:57:56.586360 #32625] DEBUG -- : Information scraped from: /wiki/Wikipedia:Citation_needed
+D, [2018-03-08T18:57:57.352124 #32625] DEBUG -- : Information scraped from: /wiki/Wikipedia:Verifiability
+D, [2018-03-08T18:57:58.699025 #32625] DEBUG -- : Information scraped from: /wiki/Wikipedia:No_original_research
+D, [2018-03-08T18:57:59.445479 #32625] DEBUG -- : Information scraped from: /wiki/Wikipedia:Verifiability#Reliable_sources
+D, [2018-03-08T18:57:59.445735 #32625] DEBUG -- : we found a loop at: Wikipedia:Verifiability
+
+
+D, [2018-03-08T18:57:59.495852 #32625] DEBUG -- : Starting loop 35
+D, [2018-03-08T18:58:00.576680 #32625] DEBUG -- : Information scraped from: /wiki/London_Buses_route_16
+D, [2018-03-08T18:58:01.435543 #32625] DEBUG -- : Information scraped from: /wiki/Transport_for_London
+D, [2018-03-08T18:58:02.530792 #32625] DEBUG -- : Information scraped from: /wiki/Transport_network
+D, [2018-03-08T18:58:03.138851 #32625] DEBUG -- : Information scraped from: /wiki/Spatial_network
+D, [2018-03-08T18:58:03.776372 #32625] DEBUG -- : Information scraped from: /wiki/Geometric_graph_theory
+D, [2018-03-08T18:58:03.776633 #32625] DEBUG -- : we found a loop at: Geometric graph theory
+
+
+D, [2018-03-08T18:58:03.830114 #32625] DEBUG -- : Starting loop 36
+D, [2018-03-08T18:58:04.792460 #32625] DEBUG -- : Information scraped from: /wiki/Colin_Eatock
+D, [2018-03-08T18:58:06.388079 #32625] DEBUG -- : Information scraped from: /wiki/Canadians
+D, [2018-03-08T18:58:06.388309 #32625] DEBUG -- : we found a loop at: Canadians
+
+
+D, [2018-03-08T18:58:06.422640 #32625] DEBUG -- : Starting loop 37
+D, [2018-03-08T18:58:07.625034 #32625] DEBUG -- : Information scraped from: /wiki/2003_Houston_Astros_season
+D, [2018-03-08T18:58:09.193676 #32625] DEBUG -- : Information scraped from: /wiki/Houston_Astros
+D, [2018-03-08T18:58:09.794822 #32625] DEBUG -- : Information scraped from: /wiki/Professional_baseball
+D, [2018-03-08T18:58:10.524934 #32625] DEBUG -- : Information scraped from: /wiki/List_of_organized_baseball_leagues
+D, [2018-03-08T18:58:12.244867 #32625] DEBUG -- : Information scraped from: /wiki/Baseball
+D, [2018-03-08T18:58:12.246449 #32625] DEBUG -- : we found a loop at: Baseball
+
+
+D, [2018-03-08T18:58:12.289221 #32625] DEBUG -- : Starting loop 38
+D, [2018-03-08T18:58:13.491286 #32625] DEBUG -- : Information scraped from: /wiki/Arivaca_albicostella
+D, [2018-03-08T18:58:14.145153 #32625] DEBUG -- : Information scraped from: /wiki/Pyralidae
+D, [2018-03-08T18:58:14.145425 #32625] DEBUG -- : we found a loop at: Pyralidae
+
+
+D, [2018-03-08T18:58:14.201227 #32625] DEBUG -- : Starting loop 39
+D, [2018-03-08T18:58:15.226430 #32625] DEBUG -- : Information scraped from: /wiki/Syllepte_pseudovialis
+D, [2018-03-08T18:58:15.226688 #32625] DEBUG -- : we found a loop at: Syllepte pseudovialis
+
+
+D, [2018-03-08T18:58:15.269161 #32625] DEBUG -- : Starting loop 40
+D, [2018-03-08T18:58:16.248263 #32625] DEBUG -- : Information scraped from: /wiki/George_Dougherty
+D, [2018-03-08T18:58:16.248680 #32625] DEBUG -- : we found a loop at: George Dougherty
+
+
+D, [2018-03-08T18:58:16.293712 #32625] DEBUG -- : Starting loop 41
+D, [2018-03-08T18:58:17.885136 #32625] DEBUG -- : Information scraped from: /wiki/Ian_Shaw_(Egyptologist)
+D, [2018-03-08T18:58:18.630569 #32625] DEBUG -- : Information scraped from: /wiki/Egyptology
+D, [2018-03-08T18:58:18.630811 #32625] DEBUG -- : we found a loop at: Egyptology
+
+
+D, [2018-03-08T18:58:18.668241 #32625] DEBUG -- : Starting loop 42
+D, [2018-03-08T18:58:20.270956 #32625] DEBUG -- : Information scraped from: /wiki/Ko-Ko_Joe
+D, [2018-03-08T18:58:21.594073 #32625] DEBUG -- : Information scraped from: /wiki/Country_music
+D, [2018-03-08T18:58:23.942920 #32625] DEBUG -- : Information scraped from: /wiki/Southern_United_States
+D, [2018-03-08T18:58:24.851095 #32625] DEBUG -- : Information scraped from: /wiki/Dixie
+D, [2018-03-08T18:58:24.851362 #32625] DEBUG -- : we found a loop at: Dixie
+
+
+D, [2018-03-08T18:58:24.887537 #32625] DEBUG -- : Starting loop 43
+D, [2018-03-08T18:58:26.436578 #32625] DEBUG -- : Information scraped from: /wiki/Nagzari,_Vikramgad
+D, [2018-03-08T18:58:27.421838 #32625] DEBUG -- : Information scraped from: /wiki/Palghar_district
+D, [2018-03-08T18:58:28.355041 #32625] DEBUG -- : Information scraped from: /wiki/List_of_districts_of_Maharashtra
+D, [2018-03-08T18:58:30.065702 #32625] DEBUG -- : Information scraped from: /wiki/States_and_union_territories_of_India
+D, [2018-03-08T18:58:30.065955 #32625] DEBUG -- : we found a loop at: States and union territories of India
+
+
+D, [2018-03-08T18:58:30.104875 #32625] DEBUG -- : Starting loop 44
+D, [2018-03-08T18:58:31.428821 #32625] DEBUG -- : Information scraped from: /wiki/Saint-Paul-sur-Save
+D, [2018-03-08T18:58:32.470269 #32625] DEBUG -- : Information scraped from: /wiki/Communes_of_France
+D, [2018-03-08T18:58:33.280572 #32625] DEBUG -- : Information scraped from: /wiki/Administrative_division
+D, [2018-03-08T18:58:33.280805 #32625] DEBUG -- : we found a loop at: Administrative division
+
+
+D, [2018-03-08T18:58:33.328441 #32625] DEBUG -- : Starting loop 45

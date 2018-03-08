@@ -25,11 +25,12 @@ class WikiScraper
     # if the url for the next page is a new url, we recur
     # otherwise we save the @allPages to the record file
     scrapePage()
-    correctUrl()
     if latestTitleIsNew?()
+      correctUrl()
       visitLink(nextUrl())
       scrapeAgain()
     else
+      correctUrl()
       LOGGER.debug("we found a loop at: #{@allPages[-1][:title]}\n\n")
       writeToFile(@allPages) # file_helper
     end
