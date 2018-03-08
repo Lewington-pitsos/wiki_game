@@ -24,8 +24,8 @@ class WikiScraper
     # scrapes the page (updating the @allPages with a page entry for that page)
     # if the url for the next page is a new url, we recur
     # otherwise we save the @allPages to the record file
-    correctUrl()
     scrapePage()
+    correctUrl()
     if latestTitleIsNew?()
       visitLink(nextUrl())
       scrapeAgain()
@@ -36,19 +36,25 @@ class WikiScraper
   end
 
   def latestTitleIsNew?
-    !@allPages.map{ |page| page[:url] }.include?(nextUrl())
+    # to prevent loops where the same page keeps snedin us to itself through a redirect
+    !(@allPages.map{ |page| page[:url] }.include?(nextUrl()) ||
+      nextUrl == previousNextUrl)
   end
 
   def nextUrl
     @allPages[-1][:nextUrl]
   end
 
+  def previousNextUrl
+    @allPages[-2][:nextUrl]
+  end
+
   def correctUrl
     # sometimes urls redirect to different pages,
     # in such cases we want to change the recorded nextUrl for the previous page to match the actual page we navigated to
     url = urlEnding(@br.url)
-    if url != nextUrl()
-      @allPages[-1][:nextUrl] = url
+    if url != previousNextUrl()
+      @allPages[-2][:nextUrl] = url
     end
   end
 end

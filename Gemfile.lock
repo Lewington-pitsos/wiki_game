@@ -19,6 +19,7 @@ GEM
       paint (>= 0.9, < 3.0)
       unicode-display_width (~> 1.1)
     ffi (1.9.23)
+    headless (2.3.1)
     hirb (0.7.3)
     instance (0.2.0)
     interactive_editor (0.0.11)
@@ -71,6 +72,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  headless
   irbtools
   nokogiri
   watir
