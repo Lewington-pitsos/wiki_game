@@ -16,17 +16,18 @@ class WikiScraper
   def find_wiki_loop
     # visits a random wikipedia page defines a new empty array and starts continuous page scraping
     @br.goto('https://en.wikipedia.org/wiki/Special:Random')
-    scrapeAgain()
+    scrapeAgain(true)
   end
 
-  def scrapeAgain
-    # first ensures that the current url matches the one we just came from
+  def scrapeAgain(first=false)
     # scrapes the page (updating the @allPages with a page entry for that page)
     # if the url for the next page is a new url, we recur
     # otherwise we save the @allPages to the record file
+
+    # either way we ensure that the current url matches the one we just came from, and correct the previous next url if it doesn't (unless this is the first round for scraping this loop, in which case there should be a disconnect)
     scrapePage()
     if latestTitleIsNew?()
-      correctUrl()
+      correctUrl() unless first
       visitLink(nextUrl())
       scrapeAgain()
     else

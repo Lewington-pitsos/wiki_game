@@ -28,7 +28,25 @@ class Archivist
       entry = getNext(entry)
     end
 
-    p array
+    array
+  end
+
+  def popularEntries
+
+    # for every page, gets the page's title and number of pages that link to it (directly or indirectly) and puts them into a sorted array.
+
+    allEntries = []
+
+    @allEntries.each do |entry|
+      allEntries << {
+        title: entry[:title],
+        followers: getAllPreviousEntries(entry).length()
+      }
+    end
+
+    allEntries.sort_by do |entry|
+      entry[:followers]
+    end
   end
 
   def getPrevious(entry)
@@ -57,12 +75,13 @@ class Archivist
   end
 end
 
-=begin
 
 archivist = Archivist.new
 
-archivist.allEntries.each do |entry|
-  puts "#{entry[:title]}: #{archivist.getAllPreviousEntries(entry).length()}"
-end
+for i in 20.. 70 do
+  entry = archivist.allEntries[i]
 
-=end
+  puts archivist.getAllPreviousEntries(entry).length
+
+  puts entry[:title]
+end
