@@ -1,15 +1,15 @@
 module FileHelper
   FILENAME = 'test.yaml'
 
-  def saveTitleArray(array)
+  def saveTitleArray(entry)
     # loads the contents of the record file, pushes the new array to the resulting value (should be an array of arrays)
     # overwrites the record file with the modified array
-    allTitles = getAllTitles
-    allTitles << array
-    writeToFile(allTitles)
+    allEntries = getAllEntries
+    allEntries << entry
+    writeToFile(allEntries)
   end
 
-  def getAllTitles
+  def getAllEntries
     YAML.load(File.read(FILENAME))
   end
 

@@ -19,36 +19,39 @@ module PageScraper
     # expects to be passed in an array and a Watir:Browser object
     # gets the header from the current browser page, saves it and the page url to the array and navigates the browser to the first link of the current page
     page = getPage(br)
-    array << getPageRecord(page, br)
-    visitLink(page)
+    nextPageUrl =  getFirstLinkUrl(page)
+    array << getPageRecord(page, br, nextPageUrl)
+    visitLink(br, nextPageUrl)
 
     puts array[-1]
   end
-
 
   def getPage(br)
     # returns the parsed html of the passed in browser object
     Nokogiri::HTML(br.html)
   end
 
-  def getPageRecord(page, br)
+  def getFirstLinkUrl(page)
+    link = getFirstLink(page)
+    link.attribute('href').value
+  end
+
+  def getFirstLink(page)
+    page.xpath(FLS)[0]
+  end
+
+  def getPageRecord(page, br, nextUrl)
     # returns the header and page url in an object
     header = getHeader(page)
-    {title: header, url: br.url}
+    {title: header, url: br.url, nextUrl: nextUrl}
   end
 
   def getHeader(page)
     page.css("#firstHeading").text
   end
 
-  def visitLink(page)
+  def visitLink(br, path)
     # takes a Nokogiri Element, and nagivgates to the wikipedia page corresponding to it's href attributes
-    link = getFirstLink(page)
-    path = link.attribute('href').value
-    BR.goto(WIKI_BASE_ROUTE + path)
-  end
-
-  def getFirstLink(page)
-    page.xpath(FLS)[0]
+    br.goto(WIKI_BASE_ROUTE + path)
   end
 end
