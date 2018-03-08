@@ -9,15 +9,16 @@ class WikiScraper
   include FileHelper
 
   def initialize(br)
-    @br = br
-    @allPages = getAllEntries()
-    @currentPage = nil
-    @previousPage = nil
-    @redirectedUrls = []
+    @br = br                            # browser
+    @allPages = getAllEntries()         # working model of the saved database
+    @currentPage = nil                  # the page being scraped
+    @previousPage = nil                 # the previous page
+    @redirectedUrls = []                # urls that redirected into pages we
+                                        # visited (only record of these)
   end
 
   def find_wiki_loop
-    # visits a random wikipedia page defines a new empty array and starts continuous page scraping
+    # visits a random wikipedia and starts continuous page scraping
     @br.goto('https://en.wikipedia.org/wiki/Special:Random')
     scrapeAgain()
   end
@@ -25,19 +26,18 @@ class WikiScraper
   def scrapeAgain
     # scrapes the page (updating the @allPages with a page entry for that page)
     # if the url for the next page is a new url, we recur
-    # otherwise we save the @allPages to the record file
+    # otherwise we've hit a loop, so we save everything and prepair to find the netx loop
 
-    # either way we ensure that the current url matches the one we just came from, and correct the previous next url if it doesn't (unless this is the first round for scraping this loop, in which case there should be a disconnect)
     scrapePage()
     correctUrl()
     if latestPageIsNew?(@currentPage[:nextUrl])
       visitLink(@currentPage[:nextUrl])
       scrapeAgain()
     else
-      @currentPage = nil
-      @previousPage = nil
       LOGGER.debug("we found a loop at: #{@currentPage[:title]}\n\n")
       writeToFile(@allPages) # file_helper
+      @currentPage = nil
+      @previousPage = nil
     end
   end
 
@@ -47,7 +47,7 @@ class WikiScraper
   end
 
   def correctUrl
-    # sometimes urls redirect to different pages
+    # sometimes urls redirect to other pages (eg /wiki/Anciant_Greek_Language >>> /wiki/Ancient_Greek)
     # in such cases we want to change the recorded nextUrl for the previous page to match the url of the actual page we navigated to AND keep a record of the redirected url
     if @previousPage && @currentPage[:url] != @previousPage[:nextUrl]
       LOGGER.debug("Changing #{@previousPage[:nextUrl]} to #{@currentPage[:url]}")

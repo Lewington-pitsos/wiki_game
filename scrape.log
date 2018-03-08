@@ -486,3 +486,34 @@ D, [2018-03-08T23:00:35.989915 #12197] DEBUG -- : Starting loop 19
 D, [2018-03-08T23:00:37.237712 #12197] DEBUG -- : Information scraped from: /wiki/St._Leonard%27s_Church,_Zoutleeuw
 D, [2018-03-08T23:00:37.237819 #12197] DEBUG -- : Changing /wiki/Legislature to /wiki/St._Leonard%27s_Church,_Zoutleeuw
 D, [2018-03-08T23:00:38.531273 #12197] DEBUG -- : Information scraped from: /wiki/Zoutleeuw
+D, [2018-03-08T23:01:16.635082 #12746] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T23:01:16.635193 #12746] DEBUG -- : Starting loop 1
+D, [2018-03-08T23:01:20.829498 #12746] DEBUG -- : Information scraped from: /wiki/P2RY8
+D, [2018-03-08T23:01:23.299086 #12746] DEBUG -- : Information scraped from: /wiki/Protein
+D, [2018-03-08T23:01:24.029849 #12746] DEBUG -- : Information scraped from: /wiki/Biomolecule
+D, [2018-03-08T23:01:26.153450 #12746] DEBUG -- : Information scraped from: /wiki/Molecule
+D, [2018-03-08T23:01:27.693501 #12746] DEBUG -- : Information scraped from: /wiki/Electricity
+D, [2018-03-08T23:01:27.693563 #12746] DEBUG -- : Changing /wiki/Electrically to /wiki/Electricity
+D, [2018-03-08T23:01:29.278784 #12746] DEBUG -- : Information scraped from: /wiki/Physics
+D, [2018-03-08T23:01:30.755124 #12746] DEBUG -- : Information scraped from: /wiki/Ancient_Greek
+D, [2018-03-08T23:01:30.755185 #12746] DEBUG -- : Changing /wiki/Ancient_Greek_language to /wiki/Ancient_Greek
+D, [2018-03-08T23:01:32.555739 #12746] DEBUG -- : Information scraped from: /wiki/Greek_language
+D, [2018-03-08T23:01:34.061127 #12746] DEBUG -- : Information scraped from: /wiki/Modern_Greek
+D, [2018-03-08T23:01:35.414372 #12746] DEBUG -- : Information scraped from: /wiki/Colloquialism
+D, [2018-03-08T23:01:36.392215 #12746] DEBUG -- : Information scraped from: /wiki/Vernacular
+D, [2018-03-08T23:01:38.983568 #12746] DEBUG -- : Information scraped from: /wiki/Language
+D, [2018-03-08T23:01:41.478439 #12746] DEBUG -- : Information scraped from: /wiki/Communication
+D, [2018-03-08T23:01:42.771936 #12746] DEBUG -- : Information scraped from: /wiki/Meaning_(semiotics)
+D, [2018-03-08T23:01:43.635180 #12746] DEBUG -- : Information scraped from: /wiki/Semiotics
+D, [2018-03-08T23:01:44.567440 #12746] DEBUG -- : Information scraped from: /wiki/Research
+D, [2018-03-08T23:01:45.894556 #12746] DEBUG -- : Information scraped from: /wiki/Knowledge
+D, [2018-03-08T23:01:46.614774 #12746] DEBUG -- : Information scraped from: /wiki/Fact
+D, [2018-03-08T23:01:47.428813 #12746] DEBUG -- : Information scraped from: /wiki/Evidence
+D, [2018-03-08T23:01:48.798895 #12746] DEBUG -- : Information scraped from: /wiki/Logical_assertion
+D, [2018-03-08T23:01:50.831172 #12746] DEBUG -- : Information scraped from: /wiki/Logic
+D, [2018-03-08T23:08:49.369389 #13178] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T23:08:49.369498 #13178] DEBUG -- : Starting loop 1
