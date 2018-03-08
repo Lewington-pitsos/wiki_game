@@ -22,9 +22,10 @@ class WikiScraper
   end
 
   def scrapeAgain
-    # scrapes the page (updating the @allPages with a page entry for that page)
-    # if the url for the next page is a new url, we recur
-    # otherwise we've hit a loop, so we save everything and prepair to find the netx loop
+    # if the current page's url exists in the record we've hit a loop, so we save everything and prepair to find the netx loop
+    # otherwise we scrape the page (updating the @allPages)
+
+    # either way we are careful to correct any redirected urls so that the nextUrl of each page entry matches the url of some other page entry
 
     if pageIsNew?()
       scrapePage()

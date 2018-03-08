@@ -2,10 +2,13 @@ require_relative './wikiScraper.rb'
 
 class MetaScraper
 
+  # basically this guy manages the amount of scraping we want to do and automatically handles errors (which we are bound to have given how huge wikipedia is) so that the scrape will reach the specified goal
+  # it also does a bit of logging
+
   attr_accessor :scraper
 
   def initialize
-    @loops_wanted = 100
+    @loops_wanted = 100 #arbetrary
     @loops_found = 0
   end
 
@@ -23,13 +26,13 @@ class MetaScraper
     LOGGER.debug("Scraping finished, #{@loops_found} loops have been found")
   end
 
-  def startLazyScrape
+  def startSafetyScrape
     # starts scraping. If an error is encounted we log an error report and start scraping again.
     begin
       scrape()
     rescue
-      logErrorMessage
-      startLazyScrape
+      logErrorMessage()
+      startSafetyScrape()
     end
   end
 

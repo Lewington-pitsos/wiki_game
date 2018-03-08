@@ -2,6 +2,8 @@ require_relative './shared/fileHelper'
 
 class Archivist
 
+  # not very sophisticated, but it lets us do simple things like count how many pages are "upstream" or "downstream" from a given page
+
   attr_accessor :allPages
 
   include FileHelper
@@ -12,7 +14,6 @@ class Archivist
 
   def getNext(page)
     # returns the page whose url is the same as the nextUrl of this page (should only ever be one)
-    puts page
     @allPages[page[:nextUrl]]
   end
 
@@ -69,7 +70,7 @@ archivist = Archivist.new
 
 puts archivist.allPages
 
-entry =  archivist.allPages["/wiki/Language"]
+entry =  archivist.allPages["/wiki/Greek_language"]
 
 puts entry
 
