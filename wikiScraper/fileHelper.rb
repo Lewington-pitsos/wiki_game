@@ -1,7 +1,7 @@
 module FileHelper
   FILENAME = 'test.yaml'
 
-  def saveTitleArray(entry)
+  def saveEntry(entry)
     # loads the contents of the record file, pushes the new array to the resulting value (should be an array of arrays)
     # overwrites the record file with the modified array
     allEntries = getAllEntries

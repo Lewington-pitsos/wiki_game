@@ -13,17 +13,6 @@ module PageScraper
 
   FLS = "//*[@class='mw-parser-output']//a[not(ancestor::table|ancestor::*[contains(@class, 'hatnote')]|ancestor::*[contains(@class, 'thumb')]|ancestor::*[contains(@class, 'IPA')]|ancestor::*[contains(@class, 'haudio')])][not(starts-with(text(), '['))]"
 
-  def scrapePage(br, array)
-    # expects to be passed in an array and a Watir:Browser object
-    # gets the header from the current browser page, saves it and the page url to the array and navigates the browser to the first link of the current page
-    page = getPage(br)
-    nextPageUrl =  getFirstLinkUrl(page)
-    array << getPageRecord(page, br, nextPageUrl)
-    visitLink(br, nextPageUrl)
-
-    puts array[-1]
-  end
-
   def getPage(br)
     # returns the parsed html of the passed in browser object
     Nokogiri::HTML(br.html)
