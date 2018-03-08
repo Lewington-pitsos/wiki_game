@@ -31,28 +31,18 @@ class Archivist
     array
   end
 
-  def popularEntries
-
-    # for every page, gets the page's title and number of pages that link to it (directly or indirectly) and puts them into a sorted array.
-
-    allEntries = []
-
-    @allEntries.each do |entry|
-      allEntries << {
-        title: entry[:title],
-        followers: getAllPreviousEntries(entry).length()
-      }
-    end
-
-    allEntries.sort_by do |entry|
-      entry[:followers]
-    end
-  end
-
   def getPrevious(entry)
     # gets all entries form the list whose nextUrl properties match the url property of the current entry
     @allEntries.select do |otherEntry|
       otherEntry[:nextUrl] == entry[:url]
+    end
+  end
+
+  def pointingEntriesCount(entry)
+    # returns the number of entries that are "upriver" of the current entry (of those currently stored in @allEntries)
+
+    @allEntries.count do |candidateEntry|
+      pointsTo(candidateEntry, entry)
     end
   end
 
@@ -95,7 +85,7 @@ end
 
 archivist = Archivist.new
 
-for i in 20.. 80 do
+for i in 20.. 22 do
   entry = archivist.allEntries[i]
 
   puts archivist.getAllPreviousEntries(entry).length
@@ -103,4 +93,4 @@ for i in 20.. 80 do
   puts entry[:title] + ' ' + i.to_s
 end
 
-puts archivist.pointsTo(archivist.allEntries[73], archivist.allEntries[74])
+puts archivist.pointingEntriesCount(archivist.allEntries[20])
