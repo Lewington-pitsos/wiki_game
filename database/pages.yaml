@@ -1,0 +1,613 @@
+---
+- :title: Cantons of the Haute-Loire department
+  :url: "/wiki/Cantons_of_the_Haute-Loire_department"
+  :nextUrl: "/wiki/Cantons_of_France"
+- :title: Cantons of France
+  :url: "/wiki/Cantons_of_France"
+  :nextUrl: "/wiki/Arrondissements_of_France"
+- :title: Arrondissements of France
+  :url: "/wiki/Arrondissements_of_France"
+  :nextUrl: "/wiki/Administrative_divisions_of_France"
+- :title: Administrative divisions of France
+  :url: "/wiki/Administrative_divisions_of_France"
+  :nextUrl: "/wiki/Hauts-de-France"
+- :title: Hauts-de-France
+  :url: "/wiki/Hauts-de-France"
+  :nextUrl: "/wiki/Regions_of_France"
+- :title: Regions of France
+  :url: "/wiki/Regions_of_France"
+  :nextUrl: "/wiki/France"
+- :title: France
+  :url: "/wiki/France"
+  :nextUrl: "/wiki/French_language"
+- :title: French language
+  :url: "/wiki/French_language"
+  :nextUrl: "/wiki/Romance_languages"
+- :title: Romance languages
+  :url: "/wiki/Romance_languages"
+  :nextUrl: "/wiki/Vulgar_Latin"
+- :title: Vulgar Latin
+  :url: "/wiki/Vulgar_Latin"
+  :nextUrl: "/wiki/Sociolect"
+- :title: Sociolect
+  :url: "/wiki/Sociolect"
+  :nextUrl: "/wiki/Sociolinguistics"
+- :title: Sociolinguistics
+  :url: "/wiki/Sociolinguistics"
+  :nextUrl: "/wiki/Society"
+- :title: Society
+  :url: "/wiki/Society"
+  :nextUrl: "/wiki/Social_group"
+- :title: Social group
+  :url: "/wiki/Social_group"
+  :nextUrl: "/wiki/Social_science"
+- :title: Social science
+  :url: "/wiki/Social_science"
+  :nextUrl: "/wiki/Discipline_(academia)"
+- :title: Discipline (academia)
+  :url: "/wiki/Discipline_(academia)"
+  :nextUrl: "/wiki/Outline_of_academic_disciplines"
+- :title: Outline of academic disciplines
+  :url: "/wiki/Outline_of_academic_disciplines"
+  :nextUrl: "/wiki/Knowledge"
+- :title: Knowledge
+  :url: "/wiki/Knowledge"
+  :nextUrl: "/wiki/Fact"
+- :title: Fact
+  :url: "/wiki/Fact"
+  :nextUrl: "/wiki/Evidence"
+- :title: Evidence
+  :url: "/wiki/Evidence"
+  :nextUrl: "/wiki/Logical_assertion"
+- :title: Logical assertion
+  :url: "/wiki/Logical_assertion"
+  :nextUrl: "/wiki/Logic"
+- :title: Logic
+  :url: "/wiki/Logic"
+  :nextUrl: "/wiki/Ancient_Greek"
+- :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
+  :nextUrl: "/wiki/Greek_language"
+- :title: Greek language
+  :url: "/wiki/Greek_language"
+  :nextUrl: "/wiki/Modern_Greek"
+- :title: Modern Greek
+  :url: "/wiki/Modern_Greek"
+  :nextUrl: "/wiki/Colloquialism"
+- :title: Colloquialism
+  :url: "/wiki/Colloquialism"
+  :nextUrl: "/wiki/Vernacular"
+- :title: Vernacular
+  :url: "/wiki/Vernacular"
+  :nextUrl: "/wiki/Language"
+- :title: Language
+  :url: "/wiki/Language"
+  :nextUrl: "/wiki/Communication"
+- :title: Communication
+  :url: "/wiki/Communication"
+  :nextUrl: "/wiki/Meaning_(semiotics)"
+- :title: Meaning (semiotics)
+  :url: "/wiki/Meaning_(semiotics)"
+  :nextUrl: "/wiki/Semiotics"
+- :title: Semiotics
+  :url: "/wiki/Semiotics"
+  :nextUrl: "/wiki/Research"
+- :title: Research
+  :url: "/wiki/Research"
+  :nextUrl: "/wiki/Jehuda_L._Wallach"
+- :title: Jehuda L. Wallach
+  :url: "/wiki/Jehuda_L._Wallach"
+  :nextUrl: "/wiki/Haigerloch"
+- :title: Haigerloch
+  :url: "/wiki/Haigerloch"
+  :nextUrl: "/wiki/Swabian_Jura"
+- :title: Swabian Jura
+  :url: "/wiki/Swabian_Jura"
+  :nextUrl: "/wiki/Baden-W%C3%BCrttemberg"
+- :title: Baden-Württemberg
+  :url: "/wiki/Baden-W%C3%BCrttemberg"
+  :nextUrl: "/wiki/States_of_Germany"
+- :title: States of Germany
+  :url: "/wiki/States_of_Germany"
+  :nextUrl: "/wiki/Germany"
+- :title: Germany
+  :url: "/wiki/Germany"
+  :nextUrl: "/wiki/Geographic_coordinate_system"
+- :title: Geographic coordinate system
+  :url: "/wiki/Geographic_coordinate_system"
+  :nextUrl: "/wiki/Coordinate_system"
+- :title: Coordinate system
+  :url: "/wiki/Coordinate_system"
+  :nextUrl: "/wiki/Geometry"
+- :title: Geometry
+  :url: "/wiki/Geometry"
+  :nextUrl: "/wiki/Ancient_Greek"
+- :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
+  :nextUrl: "/wiki/Oberfeldwebel"
+- :title: Oberfeldwebel
+  :url: "/wiki/Oberfeldwebel"
+  :nextUrl: "/wiki/Non-commissioned_officer"
+- :title: Non-commissioned officer
+  :url: "/wiki/Non-commissioned_officer"
+  :nextUrl: "/wiki/Officer_(armed_forces)"
+- :title: Officer (armed forces)
+  :url: "/wiki/Officer_(armed_forces)"
+  :nextUrl: "/wiki/Military"
+- :title: Military
+  :url: "/wiki/Military"
+  :nextUrl: "/wiki/Use_of_force"
+- :title: Use of force
+  :url: "/wiki/Use_of_force"
+  :nextUrl: "/wiki/Law_enforcement"
+- :title: Law enforcement
+  :url: "/wiki/Law_enforcement"
+  :nextUrl: "/wiki/Common_law_copyright"
+- :title: Common law copyright
+  :url: "/wiki/Common_law_copyright"
+  :nextUrl: "/wiki/Common_law"
+- :title: Common law
+  :url: "/wiki/Common_law"
+  :nextUrl: "/wiki/Precedent"
+- :title: Precedent
+  :url: "/wiki/Precedent"
+  :nextUrl: "/wiki/List_of_national_legal_systems"
+- :title: List of national legal systems
+  :url: "/wiki/List_of_national_legal_systems"
+  :nextUrl: "/wiki/System"
+- :title: System
+  :url: "/wiki/System"
+  :nextUrl: "/wiki/Latin"
+- :title: Latin
+  :url: "/wiki/Latin"
+  :nextUrl: "/wiki/Classical_language"
+- :title: Classical language
+  :url: "/wiki/Classical_language"
+  :nextUrl: "/wiki/TouchTone"
+- :title: TouchTone
+  :url: "/wiki/TouchTone"
+  :nextUrl: "/wiki/Puzzle_video_game"
+- :title: Puzzle video game
+  :url: "/wiki/Puzzle_video_game"
+  :nextUrl: "/wiki/Video_game"
+- :title: Video game
+  :url: "/wiki/Video_game"
+  :nextUrl: "/wiki/Electronic_game"
+- :title: Electronic game
+  :url: "/wiki/Electronic_game"
+  :nextUrl: "/wiki/Game"
+- :title: Game
+  :url: "/wiki/Game"
+  :nextUrl: "/wiki/Play_(activity)"
+- :title: Play (activity)
+  :url: "/wiki/Play_(activity)"
+  :nextUrl: "/wiki/Psychology"
+- :title: Psychology
+  :url: "/wiki/Psychology"
+  :nextUrl: "/wiki/Science"
+- :title: Science
+  :url: "/wiki/Science"
+  :nextUrl: "/wiki/Latin"
+- :title: Latin
+  :url: "/wiki/Latin"
+  :nextUrl: "/wiki/Arlene_Martel"
+- :title: Arlene Martel
+  :url: "/wiki/Arlene_Martel"
+  :nextUrl: "/wiki/What_You_Need_(The_Twilight_Zone)"
+- :title: What You Need (The Twilight Zone)
+  :url: "/wiki/What_You_Need_(The_Twilight_Zone)"
+  :nextUrl: "/wiki/Television_in_the_United_States"
+- :title: Television in the United States
+  :url: "/wiki/Television_in_the_United_States"
+  :nextUrl: "/wiki/Television"
+- :title: Television
+  :url: "/wiki/Television"
+  :nextUrl: "/wiki/Monochrome"
+- :title: Monochrome
+  :url: "/wiki/Monochrome"
+  :nextUrl: "/wiki/Lightness"
+- :title: Lightness
+  :url: "/wiki/Lightness"
+  :nextUrl: "/wiki/Colorimetry"
+- :title: Colorimetry
+  :url: "/wiki/Colorimetry"
+  :nextUrl: "/wiki/Technology"
+- :title: Technology
+  :url: "/wiki/Technology"
+  :nextUrl: "/wiki/List_of_Hollyoaks_characters_(2006)"
+- :title: List of Hollyoaks characters (2006)
+  :url: "/wiki/List_of_Hollyoaks_characters_(2006)"
+  :nextUrl: "/wiki/Channel_4"
+- :title: Channel 4
+  :url: "/wiki/Channel_4"
+  :nextUrl: "/wiki/Public_service_broadcasting_in_the_United_Kingdom"
+- :title: Public service broadcasting in the United Kingdom
+  :url: "/wiki/Public_service_broadcasting_in_the_United_Kingdom"
+  :nextUrl: "/wiki/Ofcom"
+- :title: Ofcom
+  :url: "/wiki/Ofcom"
+  :nextUrl: "/wiki/Welsh_language"
+- :title: Welsh language
+  :url: "/wiki/Welsh_language"
+  :nextUrl: "/wiki/Brittonic_languages"
+- :title: Brittonic languages
+  :url: "/wiki/Brittonic_languages"
+  :nextUrl: "/wiki/William_Durie_Lyon"
+- :title: William Durie Lyon
+  :url: "/wiki/William_Durie_Lyon"
+  :nextUrl: "/wiki/Ontario"
+- :title: Ontario
+  :url: "/wiki/Ontario"
+  :nextUrl: "/wiki/Provinces_and_territories_of_Canada"
+- :title: Provinces and territories of Canada
+  :url: "/wiki/Provinces_and_territories_of_Canada"
+  :nextUrl: "/wiki/Administrative_division"
+- :title: Administrative division
+  :url: "/wiki/Administrative_division"
+  :nextUrl: "/wiki/Country"
+- :title: Country
+  :url: "/wiki/Country"
+  :nextUrl: "/wiki/Political_geography"
+- :title: Political geography
+  :url: "/wiki/Political_geography"
+  :nextUrl: "/wiki/Politics"
+- :title: Politics
+  :url: "/wiki/Politics"
+  :nextUrl: "/wiki/Halzan_Buregtei_mine"
+- :title: Halzan Buregtei mine
+  :url: "/wiki/Halzan_Buregtei_mine"
+  :nextUrl: "/wiki/Mongolia"
+- :title: Mongolia
+  :url: "/wiki/Mongolia"
+  :nextUrl: "/wiki/Mongolian_language"
+- :title: Mongolian language
+  :url: "/wiki/Mongolian_language"
+  :nextUrl: "/wiki/Mongolian_script"
+- :title: Mongolian script
+  :url: "/wiki/Mongolian_script"
+  :nextUrl: "/wiki/Mongolian_Cyrillic_alphabet"
+- :title: Mongolian Cyrillic alphabet
+  :url: "/wiki/Mongolian_Cyrillic_alphabet"
+  :nextUrl: "/wiki/Love_and_Happiness"
+- :title: Love and Happiness
+  :url: "/wiki/Love_and_Happiness"
+  :nextUrl: "/wiki/Al_Green"
+- :title: Al Green
+  :url: "/wiki/Al_Green"
+  :nextUrl: "/wiki/Soul_music"
+- :title: Soul music
+  :url: "/wiki/Soul_music"
+  :nextUrl: "/wiki/Music_genre"
+- :title: Music genre
+  :url: "/wiki/Music_genre"
+  :nextUrl: "/wiki/Music"
+- :title: Music
+  :url: "/wiki/Music"
+  :nextUrl: "/wiki/Culture"
+- :title: Culture
+  :url: "/wiki/Culture"
+  :nextUrl: "/wiki/Social_behavior"
+- :title: Social behavior
+  :url: "/wiki/Social_behavior"
+  :nextUrl: "/wiki/Behavior"
+- :title: Behavior
+  :url: "/wiki/Behavior"
+  :nextUrl: "/wiki/American_English"
+- :title: American English
+  :url: "/wiki/American_English"
+  :nextUrl: "/wiki/United_States"
+- :title: United States
+  :url: "/wiki/United_States"
+  :nextUrl: "/wiki/C.F._Estrela_da_Amadora"
+- :title: C.F. Estrela da Amadora
+  :url: "/wiki/C.F._Estrela_da_Amadora"
+  :nextUrl: "/wiki/Portugal"
+- :title: Portugal
+  :url: "/wiki/Portugal"
+  :nextUrl: "/wiki/Portuguese_language"
+- :title: Portuguese language
+  :url: "/wiki/Portuguese_language"
+  :nextUrl: "/wiki/Western_Romance_languages"
+- :title: Western Romance languages
+  :url: "/wiki/Western_Romance_languages"
+  :nextUrl: "/wiki/China_Renaissance"
+- :title: China Renaissance
+  :url: "/wiki/China_Renaissance"
+  :nextUrl: "/wiki/Fan_Bao"
+- :title: Fan Bao
+  :url: "/wiki/Fan_Bao"
+  :nextUrl: "/wiki/Taprobane_Island"
+- :title: Taprobane Island
+  :url: "/wiki/Taprobane_Island"
+  :nextUrl: "/wiki/Private_island"
+- :title: Private island
+  :url: "/wiki/Private_island"
+  :nextUrl: "/wiki/Desert_island"
+- :title: Desert island
+  :url: "/wiki/Desert_island"
+  :nextUrl: "/wiki/Island"
+- :title: Island
+  :url: "/wiki/Island"
+  :nextUrl: "/wiki/Continent"
+- :title: Continent
+  :url: "/wiki/Continent"
+  :nextUrl: "/wiki/Land#Land_mass"
+- :title: Land
+  :url: "/wiki/Land#Land_mass"
+  :nextUrl: "/wiki/Earth"
+- :title: Earth
+  :url: "/wiki/Earth"
+  :nextUrl: "/wiki/Planet"
+- :title: Planet
+  :url: "/wiki/Planet"
+  :nextUrl: "/wiki/Astronomical_object"
+- :title: Astronomical object
+  :url: "/wiki/Astronomical_object"
+  :nextUrl: "/wiki/Physical_body"
+- :title: Physical body
+  :url: "/wiki/Physical_body"
+  :nextUrl: "/wiki/Physics"
+- :title: Physics
+  :url: "/wiki/Physics"
+  :nextUrl: "/wiki/Ancient_Greek"
+- :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
+  :nextUrl: "/wiki/Joe_Murdoch"
+- :title: Joe Murdoch
+  :url: "/wiki/Joe_Murdoch"
+  :nextUrl: "/wiki/Australian_rules_football"
+- :title: Australian rules football
+  :url: "/wiki/Australian_rules_football"
+  :nextUrl: "/wiki/Contact_sport"
+- :title: Contact sport
+  :url: "/wiki/Contact_sport"
+  :nextUrl: "/wiki/Sport"
+- :title: Sport
+  :url: "/wiki/Sport"
+  :nextUrl: "/wiki/British_English"
+- :title: British English
+  :url: "/wiki/British_English"
+  :nextUrl: "/wiki/English_language"
+- :title: English language
+  :url: "/wiki/English_language"
+  :nextUrl: "/wiki/West_Germanic_languages"
+- :title: West Germanic languages
+  :url: "/wiki/West_Germanic_languages"
+  :nextUrl: "/wiki/Germanic_languages"
+- :title: Germanic languages
+  :url: "/wiki/Germanic_languages"
+  :nextUrl: "/wiki/Indo-European_languages"
+- :title: Indo-European languages
+  :url: "/wiki/Indo-European_languages"
+  :nextUrl: "/wiki/Language_family"
+- :title: Language family
+  :url: "/wiki/Language_family"
+  :nextUrl: "/wiki/Demise"
+- :title: Demise
+  :url: "/wiki/Demise"
+  :nextUrl: "/wiki/Law_French"
+- :title: Law French
+  :url: "/wiki/Law_French"
+  :nextUrl: "/wiki/Old_Norman"
+- :title: Old Norman
+  :url: "/wiki/Old_Norman"
+  :nextUrl: "/wiki/Langues_d%27o%C3%AFl"
+- :title: Langues d'oïl
+  :url: "/wiki/Langues_d%27o%C3%AFl"
+  :nextUrl: "/wiki/Krunoslav_Renduli%C4%87"
+- :title: Krunoslav Rendulić
+  :url: "/wiki/Krunoslav_Renduli%C4%87"
+  :nextUrl: "/wiki/Croatia"
+- :title: Croatia
+  :url: "/wiki/Croatia"
+  :nextUrl: "/wiki/Achaea_leucopera"
+- :title: Achaea leucopera
+  :url: "/wiki/Achaea_leucopera"
+  :nextUrl: "/wiki/Moth"
+- :title: Moth
+  :url: "/wiki/Moth"
+  :nextUrl: "/wiki/Insect"
+- :title: Insect
+  :url: "/wiki/Insect"
+  :nextUrl: "/wiki/Duncan_Lamont_Clinch"
+- :title: Duncan Lamont Clinch
+  :url: "/wiki/Duncan_Lamont_Clinch"
+  :nextUrl: "/wiki/Seminole_Wars#First_Seminole_War"
+- :title: Seminole Wars
+  :url: "/wiki/Seminole_Wars#First_Seminole_War"
+  :nextUrl: "/wiki/Florida"
+- :title: Florida
+  :url: "/wiki/Florida"
+  :nextUrl: "/wiki/U.S._state"
+- :title: U.S. state
+  :url: "/wiki/U.S._state"
+  :nextUrl: "/wiki/Polity"
+- :title: Polity
+  :url: "/wiki/Polity"
+  :nextUrl: "/wiki/Identity_(social_science)"
+- :title: Identity (social science)
+  :url: "/wiki/Identity_(social_science)"
+  :nextUrl: "/wiki/Wilshire_Branch"
+- :title: Wilshire Branch
+  :url: "/wiki/Wilshire_Branch"
+  :nextUrl: "/wiki/Los_Angeles_Public_Library"
+- :title: Los Angeles Public Library
+  :url: "/wiki/Los_Angeles_Public_Library"
+  :nextUrl: "/wiki/Los_Angeles"
+- :title: Los Angeles
+  :url: "/wiki/Los_Angeles"
+  :nextUrl: "/wiki/Spanish_language"
+- :title: Spanish language
+  :url: "/wiki/Spanish_language"
+  :nextUrl: "/wiki/Baldomero_Toledo"
+- :title: Baldomero Toledo
+  :url: "/wiki/Baldomero_Toledo"
+  :nextUrl: "/wiki/Major_League_Soccer"
+- :title: Major League Soccer
+  :url: "/wiki/Major_League_Soccer"
+  :nextUrl: "/wiki/Association_football"
+- :title: Association football
+  :url: "/wiki/Association_football"
+  :nextUrl: "/wiki/Team_sport"
+- :title: Team sport
+  :url: "/wiki/Team_sport"
+  :nextUrl: "/wiki/Chongli_District"
+- :title: Chongli District
+  :url: "/wiki/Chongli_District"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+- :title: Simplified Chinese characters
+  :url: "/wiki/Simplified_Chinese_characters"
+  :nextUrl: "/wiki/Chinese_characters"
+- :title: Chinese characters
+  :url: "/wiki/Chinese_characters"
+  :nextUrl: "/wiki/Logogram"
+- :title: Logogram
+  :url: "/wiki/Logogram"
+  :nextUrl: "/wiki/Written_language"
+- :title: Written language
+  :url: "/wiki/Written_language"
+  :nextUrl: "/wiki/Jo_Sung-hee"
+- :title: Jo Sung-hee
+  :url: "/wiki/Jo_Sung-hee"
+  :nextUrl: "/wiki/Film_director"
+- :title: Film director
+  :url: "/wiki/Film_director"
+  :nextUrl: "/wiki/Film"
+- :title: Film
+  :url: "/wiki/Film"
+  :nextUrl: "/wiki/Projection_screen"
+- :title: Projection screen
+  :url: "/wiki/Projection_screen"
+  :nextUrl: "/wiki/Projector"
+- :title: Projector
+  :url: "/wiki/Projector"
+  :nextUrl: "/wiki/Optics"
+- :title: Optics
+  :url: "/wiki/Optics"
+  :nextUrl: "/wiki/List_of_programs_broadcast_by_The_Pet_Network"
+- :title: List of programs broadcast by The Pet Network
+  :url: "/wiki/List_of_programs_broadcast_by_The_Pet_Network"
+  :nextUrl: "/wiki/Canada"
+- :title: Canada
+  :url: "/wiki/Canada"
+  :nextUrl: "/wiki/Koshiki-no-kata"
+- :title: Koshiki-no-kata
+  :url: "/wiki/Koshiki-no-kata"
+  :nextUrl: "/wiki/Kata"
+- :title: Kata
+  :url: "/wiki/Kata"
+  :nextUrl: "/wiki/Japanese_language"
+- :title: Japanese language
+  :url: "/wiki/Japanese_language"
+  :nextUrl: "/wiki/East_Asian_languages"
+- :title: East Asian languages
+  :url: "/wiki/East_Asian_languages"
+  :nextUrl: "/wiki/East_Asia"
+- :title: East Asia
+  :url: "/wiki/East_Asia"
+  :nextUrl: "/wiki/Subregion"
+- :title: Subregion
+  :url: "/wiki/Subregion"
+  :nextUrl: "/wiki/Region"
+- :title: Region
+  :url: "/wiki/Region"
+  :nextUrl: "/wiki/Geography"
+- :title: Geography
+  :url: "/wiki/Geography"
+  :nextUrl: "/wiki/Sea_Life_Porto"
+- :title: Sea Life Porto
+  :url: "/wiki/Sea_Life_Porto"
+  :nextUrl: "/wiki/Public_aquarium"
+- :title: Public aquarium
+  :url: "/wiki/Public_aquarium"
+  :nextUrl: "/wiki/Zoo"
+- :title: Zoo
+  :url: "/wiki/Zoo"
+  :nextUrl: "/wiki/Animal"
+- :title: Animal
+  :url: "/wiki/Animal"
+  :nextUrl: "/wiki/Multicellular_organism"
+- :title: Multicellular organism
+  :url: "/wiki/Multicellular_organism"
+  :nextUrl: "/wiki/Organism"
+- :title: Organism
+  :url: "/wiki/Organism"
+  :nextUrl: "/wiki/Biology"
+- :title: Biology
+  :url: "/wiki/Biology"
+  :nextUrl: "/wiki/Natural_science"
+- :title: Natural science
+  :url: "/wiki/Natural_science"
+  :nextUrl: "/wiki/Origin_(software)"
+- :title: Origin (software)
+  :url: "/wiki/Origin_(software)"
+  :nextUrl: "/wiki/Plot_(graphics)"
+- :title: Plot (graphics)
+  :url: "/wiki/Plot_(graphics)"
+  :nextUrl: "/wiki/Statistical_graphics"
+- :title: Statistical graphics
+  :url: "/wiki/Statistical_graphics"
+  :nextUrl: "/wiki/Statistics"
+- :title: Statistics
+  :url: "/wiki/Statistics"
+  :nextUrl: "/wiki/Mathematics"
+- :title: Mathematics
+  :url: "/wiki/Mathematics"
+  :nextUrl: "/wiki/Belciades"
+- :title: Belciades
+  :url: "/wiki/Belciades"
+  :nextUrl: "/wiki/Genus"
+- :title: Genus
+  :url: "/wiki/Genus"
+  :nextUrl: "/wiki/Taxonomy_(biology)"
+- :title: Taxonomy (biology)
+  :url: "/wiki/Taxonomy_(biology)"
+  :nextUrl: "/wiki/Ancient_Greek"
+- :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
+  :nextUrl: "/wiki/List_of_number-one_singles_of_1974_(Canada)"
+- :title: List of number-one singles of 1974 (Canada)
+  :url: "/wiki/List_of_number-one_singles_of_1974_(Canada)"
+  :nextUrl: "/wiki/RPM_(magazine)"
+- :title: RPM (magazine)
+  :url: "/wiki/RPM_(magazine)"
+  :nextUrl: "/wiki/International_Standard_Serial_Number"
+- :title: International Standard Serial Number
+  :url: "/wiki/International_Standard_Serial_Number"
+  :nextUrl: "/wiki/Serial_code"
+- :title: Serial code
+  :url: "/wiki/Serial_code"
+  :nextUrl: "/wiki/Unique_identifier"
+- :title: Unique identifier
+  :url: "/wiki/Unique_identifier"
+  :nextUrl: "/wiki/Identifier"
+- :title: Identifier
+  :url: "/wiki/Identifier"
+  :nextUrl: "/wiki/Name"
+- :title: Name
+  :url: "/wiki/Name"
+  :nextUrl: "/wiki/Terminology"
+- :title: Terminology
+  :url: "/wiki/Terminology"
+  :nextUrl: "/wiki/Word"
+- :title: Word
+  :url: "/wiki/Word"
+  :nextUrl: "/wiki/Linguistics"
+- :title: Linguistics
+  :url: "/wiki/Linguistics"
+  :nextUrl: "/wiki/Trantor"
+- :title: Trantor
+  :url: "/wiki/Trantor"
+  :nextUrl: "/wiki/Planets_in_science_fiction"
+- :title: Planets in science fiction
+  :url: "/wiki/Planets_in_science_fiction"
+  :nextUrl: "/wiki/Grey-headed_honeyeater"
+- :title: Grey-headed honeyeater
+  :url: "/wiki/Grey-headed_honeyeater"
+  :nextUrl: "/wiki/Bird"
+- :title: Bird
+  :url: "/wiki/Bird"
+  :nextUrl: "/wiki/Endotherm"
+- :title: Endotherm
+  :url: "/wiki/Endotherm"
+  :nextUrl: "/wiki/Ancient_Greek"

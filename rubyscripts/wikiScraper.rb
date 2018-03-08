@@ -44,7 +44,7 @@ class WikiScraper
     # sometimes urls redirect to different pages,
     # in such cases we want to change the recorded nextUrl for the previous page to match the actual page we navigated to
     url = urlEnding(@br.url)
-    if url != @nextUrl
+    if @nextUrl && url != @nextUrl
       @allPages[-1][:nextUrl] = url
     end
   end
