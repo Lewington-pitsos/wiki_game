@@ -2,19 +2,17 @@ require_relative './shared/fileHelper'
 
 class Archivist
 
-  attr_accessor :allEntries
+  attr_accessor :allPages
 
   include FileHelper
 
   def initialize
-    @allEntries = getAllEntries()
+    @allPages = getAllEntries()
   end
 
-  def getNext(entry)
+  def getNext(page)
     # returns the entry whose url is the same as the nextUrl of this entry (should only ever be one)
-    @allEntries.detect do |otherEntry|
-      otherEntry[:url] == entry[:nextUrl]
-    end
+    @allPages[page[:nextUrl]]
   end
 
   def getAllFurtherEntries(entry)
@@ -31,68 +29,49 @@ class Archivist
     array
   end
 
-  def getPrevious(entry)
-    # gets all entries form the list whose nextUrl properties match the url property of the current entry
-    @allEntries.select do |otherEntry|
-      otherEntry[:nextUrl] == entry[:url]
-    end
-  end
-
   def pointingEntriesCount(entry)
-    # returns the number of entries that are "upriver" of the current entry (of those currently stored in @allEntries)
+    # returns the number of entries that are "upriver" of the current entry (of those currently stored in @allPages)
 
-    @allEntries.count do |candidateEntry|
+    @allPages.count do |_, candidateEntry|
       pointsTo(candidateEntry, entry)
     end
   end
 
-  def pointsTo(entry, otherEntry)
+  def pointingPages(page)
+    @allPages.select do |_, candidatePage|
+      pointsTo(candidatePage, page)
+    end
+  end
+
+  def pointsTo(page, otherPage)
     # returns boolean of whether or not the chain of links starting an entry ever points to otherEntry
 
-    passedEntries = []
 
-    while !passedEntries.include?(entry)
-      if entry == otherEntry
+    passedPages = []
+
+    while !passedPages.include?(page)
+      if page == otherPage
         return true
       else
-        passedEntries << entry
-        entry = getNext(entry)
+        passedPages << page
+        page = getNext(page)
       end
     end
 
     false
   end
-
-  def getAllPreviousEntries(entry, allEntries=[])
-    # is passed in a page entry and an array representing all the page entries found so far
-    # if the current entry isn't already in the allEntries we add entry to the array, gather all those elements directly previous (linkiing) to the current entry, and call this same function on all of them with the same array passed in
-    # each function call returns allEntries
-
-    if !allEntries.include?(entry)
-      allEntries << entry
-
-      directlyPrevious = getPrevious(entry)
-
-      directlyPrevious.each do |prevEntry|
-        getAllPreviousEntries(prevEntry, allEntries)
-      end
-    end
-
-    allEntries
-  end
 end
 
-=begin
+
 
 archivist = Archivist.new
 
-for i in 20.. 22 do
-  entry = archivist.allEntries[i]
+puts archivist.allPages
 
-  puts archivist.getAllPreviousEntries(entry).length
+entry =  archivist.allPages["/wiki/Tahla_Mosque"]
+entry =  archivist.allPages["/wiki/Stationary_steam_engine"]
 
-  puts entry[:title] + ' ' + i.to_s
-end
 
-puts archivist.pointingEntriesCount(archivist.allEntries[20])
-=end
+puts entry
+
+puts archivist.pointingEntriesCount(entry)
