@@ -1,9 +1,8 @@
 require 'irbtools'
 require 'watir'
 require 'nokogiri'
-require 'yaml'
 
-require_relative './wikiScraper.rb'
+require_relative './rubyscripts/wikiScraper.rb'
 
 BR = Watir::Browser.new :firefox
 
