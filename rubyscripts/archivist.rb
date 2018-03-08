@@ -82,6 +82,7 @@ class Archivist
   end
 end
 
+=begin
 
 archivist = Archivist.new
 
@@ -94,3 +95,4 @@ for i in 20.. 22 do
 end
 
 puts archivist.pointingEntriesCount(archivist.allEntries[20])
+=end

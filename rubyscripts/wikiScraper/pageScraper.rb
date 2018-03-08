@@ -17,14 +17,13 @@ module PageScraper
   def scrapePage
     # expects to be passed in a Watir:Browser object
     # gets the header from the current browser page and records it, the page url and the next page's url to the array
-    page = getPage
-    nextPageUrl =  getFirstLinkUrl(page)
-    entry = getPageRecord(page, nextPageUrl)
-    recordEntry(entry)
+    pageDoc = getPage
+    nextPageUrl = getFirstLinkUrl(pageDoc)
+    pageEntry = getPageRecord(pageDoc, nextPageUrl)
+    recordEntry(pageEntry)
 
-    LOGGER.debug("Information scraped from: #{entry[:url]}")
+    LOGGER.debug("Information scraped from: #{pageEntry[:url]}")
   end
-
 
   def getPage
     # returns the parsed html of the passed in browser object
@@ -36,13 +35,13 @@ module PageScraper
     link.attribute('href').value
   end
 
-  def getFirstLink(page)
-    page.xpath(FLS)[0]
+  def getFirstLink(pageDoc)
+    pageDoc.xpath(FLS)[0]
   end
 
-  def getPageRecord(page, nextUrl)
+  def getPageRecord(pageDoc, nextUrl)
     # returns the header, page url ending and passed in nextUrl in an object
-    header = getHeader(page)
+    header = getHeader(pageDoc)
     url = urlEnding(@br.url)
     {title: header, url: url, nextUrl: nextUrl}
   end
@@ -51,8 +50,15 @@ module PageScraper
     page.css("#firstHeading").text
   end
 
-  def recordEntry(entry)
-    @allPages[entry[:title]] = entry
+  def recordEntry(page)
+    updateTrackedPages(page)
+    # all pages should have unique urls
+    @allPages[page[:url]] = page
+  end
+
+  def updateTrackedPages(page)
+    @previousPage = @currentPage
+    @currentPage = page
   end
 
   def visitLink(path)

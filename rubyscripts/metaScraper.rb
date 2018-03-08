@@ -37,12 +37,11 @@ class MetaScraper
     LOGGER.error <<~MESSAGE
       WARNING: there was a terrible error of some kind. Details:\n
 
-      Current page: #{@scraper.allPages[-1][:url]}
-      Current next page: #{@scraper.allPages[-1][:nextUrl]}
-      Current @nextUrl: #{@scraper.nextUrl} (should be same as above)
+      Current page: #{@scraper.currentPage[:url]}
+      Current next page: #{@scraper.currentPage[:nextUrl]}
 
-      Previous page: #{@scraper.allPages[-2][:url]}
-      Previous next page: #{@scraper.allPages[-2][:nextUrl]}\n\n
+      Previous page: #{@scraper.previousPage[:url]}
+      Previous next page: #{@scraper.previousPage[:nextUrl]}\n\n
 
       Ok, now we'll keep going with a new scraper...
       NO data from that last loop will be added to the database\n\n

@@ -15,4 +15,4 @@ LOGGER = Logger.new('scrape.log')
 
 metaScraper = MetaScraper.new()
 
-metaScraper.startLazyScrape()
+metaScraper.scrape()
