@@ -425,3 +425,91 @@ D, [2018-03-08T18:12:08.935617 #29910] DEBUG -- : Information scraped from: /wik
 D, [2018-03-08T18:12:08.935743 #29910] DEBUG -- : we found a loop at: Czech language
 D, [2018-03-08T18:12:08.961764 #29910] DEBUG -- : Starting loop 7
 
+D, [2018-03-08T18:13:29.972113 #30164] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T18:13:29.972238 #30164] DEBUG -- : Starting loop 1
+
+D, [2018-03-08T18:13:33.384612 #30164] DEBUG -- : Information scraped from: /wiki/Auchenipterichthys_coracoideus
+D, [2018-03-08T18:13:34.159775 #30164] DEBUG -- : Information scraped from: /wiki/Driftwood_catfish
+D, [2018-03-08T18:13:35.736369 #30164] DEBUG -- : Information scraped from: /wiki/Catfish
+D, [2018-03-08T18:13:36.863704 #30164] DEBUG -- : Information scraped from: /wiki/Order_(biology)
+D, [2018-03-08T18:13:38.623264 #30164] DEBUG -- : Information scraped from: /wiki/Taxonomy_(biology)
+D, [2018-03-08T18:13:39.688498 #30164] DEBUG -- : Information scraped from: /wiki/Ancient_Greek
+D, [2018-03-08T18:13:39.688632 #30164] DEBUG -- : we found a loop at: Ancient Greek
+D, [2018-03-08T18:13:39.712347 #30164] DEBUG -- : Starting loop 2
+
+D, [2018-03-08T18:13:41.281029 #30164] DEBUG -- : Information scraped from: /wiki/Metropolitan_regions_in_Germany
+D, [2018-03-08T18:13:45.190027 #30164] DEBUG -- : Information scraped from: /wiki/Germany
+D, [2018-03-08T18:13:45.190157 #30164] DEBUG -- : we found a loop at: Germany
+D, [2018-03-08T18:13:45.205176 #30164] DEBUG -- : Starting loop 3
+
+E, [2018-03-08T18:13:46.781727 #30164] ERROR -- : WARNING: there was a terrible error of some kind. Details:
+
+
+Current page: /wiki/Germany
+Current next page: /wiki/1988_Alpine_Skiing_World_Cup_%E2%80%93_Men%27s_Downhill
+Current @nextUrl: /wiki/Geographic_coordinate_system (should be same as above)
+
+Previous page: /wiki/Metropolitan_regions_in_Germany
+Previous next page: /wiki/Germany
+
+
+
+Ok, now we'll keep going with a new scraper...
+NO data from that last loop will be added to the database
+
+
+
+
+D, [2018-03-08T18:13:46.787636 #30164] DEBUG -- : Beginning new scrape...
+
+
+D, [2018-03-08T18:13:46.787694 #30164] DEBUG -- : Starting loop 3
+
+D, [2018-03-08T18:13:48.618103 #30164] DEBUG -- : Information scraped from: /wiki/CMB_Televisi%C3%B3n
+D, [2018-03-08T18:13:51.358455 #30164] DEBUG -- : Information scraped from: /wiki/Colombia
+D, [2018-03-08T18:13:51.358592 #30164] DEBUG -- : we found a loop at: Colombia
+D, [2018-03-08T18:13:51.378945 #30164] DEBUG -- : Starting loop 4
+
+D, [2018-03-08T18:13:53.014101 #30164] DEBUG -- : Information scraped from: /wiki/Andrew_Law_(artist)
+D, [2018-03-08T18:13:53.857049 #30164] DEBUG -- : Information scraped from: /wiki/Crosshouse
+D, [2018-03-08T18:13:55.351899 #30164] DEBUG -- : Information scraped from: /wiki/Kilmarnock
+D, [2018-03-08T18:13:56.520537 #30164] DEBUG -- : Information scraped from: /wiki/Scottish_Gaelic
+D, [2018-03-08T18:13:57.591710 #30164] DEBUG -- : Information scraped from: /wiki/Celtic_languages
+D, [2018-03-08T18:13:58.481461 #30164] DEBUG -- : Information scraped from: /wiki/Names_of_the_Celts#Pronunciation
+D, [2018-03-08T18:13:59.575898 #30164] DEBUG -- : Information scraped from: /wiki/Classical_antiquity
+D, [2018-03-08T18:14:00.568057 #30164] DEBUG -- : Information scraped from: /wiki/History
+D, [2018-03-08T18:14:01.406259 #30164] DEBUG -- : Information scraped from: /wiki/George_Santayana
+D, [2018-03-08T18:14:02.682465 #30164] DEBUG -- : Information scraped from: /wiki/Intellectual#Man_of_Letters
+D, [2018-03-08T18:14:03.464674 #30164] DEBUG -- : Information scraped from: /wiki/Critical_thinking
+D, [2018-03-08T18:14:03.464820 #30164] DEBUG -- : we found a loop at: Critical thinking
+D, [2018-03-08T18:14:03.496113 #30164] DEBUG -- : Starting loop 5
+
+D, [2018-03-08T18:14:04.634525 #30164] DEBUG -- : Information scraped from: /wiki/Authority_for_the_Financing_of_the_Infrastructure_of_Puerto_Rico
+D, [2018-03-08T18:14:04.634655 #30164] DEBUG -- : we found a loop at: Authority for the Financing of the Infrastructure of Puerto Rico
+D, [2018-03-08T18:14:04.662105 #30164] DEBUG -- : Starting loop 6
+
+D, [2018-03-08T18:14:06.126304 #30164] DEBUG -- : Information scraped from: /wiki/Unlocked_(Meisa_Kuroki_album)
+D, [2018-03-08T18:14:08.814844 #30164] DEBUG -- : Information scraped from: /wiki/Japan
+D, [2018-03-08T18:14:08.814977 #30164] DEBUG -- : we found a loop at: Japan
+D, [2018-03-08T18:14:08.831599 #30164] DEBUG -- : Starting loop 7
+
+D, [2018-03-08T18:14:10.305895 #30164] DEBUG -- : Information scraped from: /wiki/Invasion_of_Banu_Qurayza
+D, [2018-03-08T18:14:11.321702 #30164] DEBUG -- : Information scraped from: /wiki/Banu_Qurayza
+D, [2018-03-08T18:14:13.226279 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:14.975374 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:16.676834 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:17.816992 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:19.374112 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:20.657663 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:21.950578 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:23.136588 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:24.852103 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:26.027817 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:27.244208 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:28.465273 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:29.876485 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:31.221697 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:32.451139 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
+D, [2018-03-08T18:14:33.803973 #30164] DEBUG -- : Information scraped from: /wiki/Arabic
