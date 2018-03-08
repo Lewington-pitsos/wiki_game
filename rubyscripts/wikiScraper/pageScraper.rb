@@ -25,7 +25,7 @@ module PageScraper
     recordEntry(entry)
     @nextUrl =  nextPageUrl
 
-    LOGGER.debug("Information scraped from: #{entry[:url]}\n"}
+    LOGGER.debug("Information scraped from: #{entry[:url]}")
   end
 
 
