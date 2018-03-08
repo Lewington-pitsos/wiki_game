@@ -17,12 +17,10 @@ module PageScraper
   def scrapePage
     # expects to be passed in a Watir:Browser object
     # gets the header from the current browser page and records it, the page url and the next page's url to the array
-    # sets the @nextUrl attr variable to the next pag's url
     page = getPage
     nextPageUrl =  getFirstLinkUrl(page)
     entry = getPageRecord(page, nextPageUrl)
     recordEntry(entry)
-    @nextUrl =  nextPageUrl
 
     LOGGER.debug("Information scraped from: #{entry[:url]}")
   end

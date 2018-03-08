@@ -3,14 +3,13 @@ require_relative './wikiScraper/pageScraper'
 
 class WikiScraper
 
-  attr_accessor :nextUrl, :br, :allPages
+  attr_accessor :br, :allPages
 
   include PageScraper
   include FileHelper
 
   def initialize(br)
     @br = br
-    @nextUrl = nil
     @allPages = getAllEntries()
   end
 
@@ -28,7 +27,7 @@ class WikiScraper
     correctUrl()
     scrapePage()
     if latestTitleIsNew?()
-      visitLink(@nextUrl)
+      visitLink(nextUrl())
       scrapeAgain()
     else
       LOGGER.debug("we found a loop at: #{@allPages[-1][:title]}")
@@ -37,14 +36,18 @@ class WikiScraper
   end
 
   def latestTitleIsNew?
-    !@allPages.map{ |page| page[:url] }.include?(@nextUrl)
+    !@allPages.map{ |page| page[:url] }.include?(nextUrl())
+  end
+
+  def nextUrl
+    @allPages[-1][:nextUrl]
   end
 
   def correctUrl
     # sometimes urls redirect to different pages,
     # in such cases we want to change the recorded nextUrl for the previous page to match the actual page we navigated to
     url = urlEnding(@br.url)
-    if @nextUrl && url != @nextUrl
+    if url != nextUrl()
       @allPages[-1][:nextUrl] = url
     end
   end
