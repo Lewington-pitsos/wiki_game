@@ -13,8 +13,6 @@ module PageScraper
 
   FLS = "//*[@class='mw-parser-output']//a[not(ancestor::table|ancestor::*[contains(@class, 'hatnote')]|ancestor::*[contains(@class, 'thumb')]|ancestor::*[contains(@class, 'IPA')]|ancestor::*[contains(@class, 'haudio')])][not(starts-with(text(), '['))]"
 
-
-
   def scrapePage(br, array)
     # expects to be passed in an array and a Watir:Browser object
     # gets the header from the current browser page, saves it and the page url to the array and navigates the browser to the first link of the current page
@@ -41,9 +39,10 @@ module PageScraper
   end
 
   def getPageRecord(page, br, nextUrl)
-    # returns the header and page url in an object
+    # returns the header, page url ending and passed in nextUrl in an object
     header = getHeader(page)
-    {title: header, url: br.url, nextUrl: nextUrl}
+    url = br.url.gsub(WIKI_BASE_ROUTE, '')
+    {title: header, url: url, nextUrl: nextUrl}
   end
 
   def getHeader(page)
