@@ -2,17 +2,17 @@ require_relative './shared/fileHelper'
 
 class Archivist
 
-  attr_accessor :allPages
+  attr_accessor :allEntries
 
   include FileHelper
 
   def initialize
-    @allPages = getAllEntries()
+    @allEntries = getAllEntries()
   end
 
   def getNext(entry)
     # returns the entry whose url is the same as the nextUrl of this entry (should only ever be one)
-    @allPages.detect do |otherEntry|
+    @allEntries.detect do |otherEntry|
       otherEntry[:url] == entry[:nextUrl]
     end
   end
@@ -33,7 +33,7 @@ class Archivist
 
   def getPrevious(entry)
     # gets all entries form the list whose nextUrl properties match the url property of the current entry
-    @allPages.select do |otherEntry|
+    @allEntries.select do |otherEntry|
       otherEntry[:nextUrl] == entry[:url]
     end
   end
@@ -57,11 +57,12 @@ class Archivist
   end
 end
 
+=begin
 
 archivist = Archivist.new
 
-entry =  archivist.allPages[8]
+archivist.allEntries.each do |entry|
+  puts "#{entry[:title]}: #{archivist.getAllPreviousEntries(entry).length()}"
+end
 
-p entry
-
-p archivist.getAllPreviousEntries(entry).map {|e| e[:title] }
+=end

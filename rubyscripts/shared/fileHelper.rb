@@ -1,7 +1,7 @@
 require 'yaml'
 
 module FileHelper
-  FILENAME = './database/test.yaml'
+  FILENAME = './database/pages.yaml'
   # path always from root dir (of project or terminal I guess)
 
   def saveEntry(entry)
