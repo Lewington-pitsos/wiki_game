@@ -34,6 +34,8 @@ class WikiScraper
       visitLink(@currentPage[:nextUrl])
       scrapeAgain()
     else
+      @currentPage = nil
+      @previousPage = nil
       LOGGER.debug("we found a loop at: #{@currentPage[:title]}\n\n")
       writeToFile(@allPages) # file_helper
     end

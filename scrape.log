@@ -350,3 +350,139 @@ D, [2018-03-08T22:58:46.388695 #12197] DEBUG -- : Information scraped from: /wik
 D, [2018-03-08T22:58:47.105582 #12197] DEBUG -- : Information scraped from: /wiki/Guarani_language
 D, [2018-03-08T22:58:47.787115 #12197] DEBUG -- : Information scraped from: /wiki/Exonym_and_endonym
 D, [2018-03-08T22:58:47.787176 #12197] DEBUG -- : Changing /wiki/Endonym to /wiki/Exonym_and_endonym
+D, [2018-03-08T22:58:49.038819 #12197] DEBUG -- : Information scraped from: /wiki/Location_(geography)
+D, [2018-03-08T22:58:49.038893 #12197] DEBUG -- : Changing /wiki/Geographical_place to /wiki/Location_(geography)
+D, [2018-03-08T22:58:51.810816 #12197] DEBUG -- : Information scraped from: /wiki/Geography
+D, [2018-03-08T22:58:51.810894 #12197] DEBUG -- : we found a loop at: Geography
+
+
+D, [2018-03-08T22:58:51.816743 #12197] DEBUG -- : Starting loop 7
+D, [2018-03-08T22:58:52.818282 #12197] DEBUG -- : Information scraped from: /wiki/ACG_Education
+D, [2018-03-08T22:58:52.818356 #12197] DEBUG -- : Changing /wiki/Greek_language to /wiki/ACG_Education
+D, [2018-03-08T22:58:53.620784 #12197] DEBUG -- : Information scraped from: /wiki/Private_school
+D, [2018-03-08T22:58:53.620847 #12197] DEBUG -- : Changing /wiki/Private_education to /wiki/Private_school
+D, [2018-03-08T22:58:54.471838 #12197] DEBUG -- : Information scraped from: /wiki/Independent_school
+D, [2018-03-08T22:58:56.332046 #12197] DEBUG -- : Information scraped from: /wiki/Government
+D, [2018-03-08T22:58:57.488207 #12197] DEBUG -- : Information scraped from: /wiki/State_(polity)
+D, [2018-03-08T22:58:58.890825 #12197] DEBUG -- : Information scraped from: /wiki/Politics
+D, [2018-03-08T22:58:58.890901 #12197] DEBUG -- : Changing /wiki/Political to /wiki/Politics
+D, [2018-03-08T22:58:58.890948 #12197] DEBUG -- : we found a loop at: Politics
+
+
+D, [2018-03-08T22:58:58.898214 #12197] DEBUG -- : Starting loop 8
+D, [2018-03-08T22:59:00.528257 #12197] DEBUG -- : Information scraped from: /wiki/Igerna_(genus)
+D, [2018-03-08T22:59:00.528319 #12197] DEBUG -- : Changing /wiki/Greek_language to /wiki/Igerna_(genus)
+D, [2018-03-08T22:59:01.429238 #12197] DEBUG -- : Information scraped from: /wiki/Genus
+D, [2018-03-08T22:59:02.602081 #12197] DEBUG -- : Information scraped from: /wiki/Taxonomy_(biology)
+D, [2018-03-08T22:59:03.772829 #12197] DEBUG -- : Information scraped from: /wiki/Ancient_Greek
+D, [2018-03-08T22:59:03.772889 #12197] DEBUG -- : Changing /wiki/Ancient_Greek_language to /wiki/Ancient_Greek
+D, [2018-03-08T22:59:03.772917 #12197] DEBUG -- : we found a loop at: Ancient Greek
+
+
+D, [2018-03-08T22:59:03.778992 #12197] DEBUG -- : Starting loop 9
+D, [2018-03-08T22:59:04.850217 #12197] DEBUG -- : Information scraped from: /wiki/Make_It_Right_Foundation
+D, [2018-03-08T22:59:04.850280 #12197] DEBUG -- : Changing /wiki/Greek_language to /wiki/Make_It_Right_Foundation
+D, [2018-03-08T22:59:05.561411 #12197] DEBUG -- : Information scraped from: /wiki/Nonprofit_organization
+D, [2018-03-08T22:59:05.561473 #12197] DEBUG -- : Changing /wiki/Non-profit_organization to /wiki/Nonprofit_organization
+D, [2018-03-08T22:59:07.104474 #12197] DEBUG -- : Information scraped from: /wiki/501(c)(3)_organization
+D, [2018-03-08T22:59:07.763995 #12197] DEBUG -- : Information scraped from: /wiki/Internal_Revenue_Code
+D, [2018-03-08T22:59:08.509701 #12197] DEBUG -- : Information scraped from: /wiki/United_States_Statutes_at_Large
+D, [2018-03-08T22:59:09.744258 #12197] DEBUG -- : Information scraped from: /wiki/Act_of_Congress
+D, [2018-03-08T22:59:10.423172 #12197] DEBUG -- : Information scraped from: /wiki/Statute
+D, [2018-03-08T22:59:12.334565 #12197] DEBUG -- : Information scraped from: /wiki/Legislature
+D, [2018-03-08T22:59:13.477801 #12197] DEBUG -- : Information scraped from: /wiki/Deliberative_assembly
+D, [2018-03-08T22:59:15.082042 #12197] DEBUG -- : Information scraped from: /wiki/Collective
+D, [2018-03-08T22:59:16.523060 #12197] DEBUG -- : Information scraped from: /wiki/Wikipedia:Citation_needed
+D, [2018-03-08T22:59:17.244520 #12197] DEBUG -- : Information scraped from: /wiki/Wikipedia:Verifiability
+D, [2018-03-08T22:59:18.739869 #12197] DEBUG -- : Information scraped from: /wiki/Wikipedia:No_original_research
+D, [2018-03-08T22:59:19.398430 #12197] DEBUG -- : Information scraped from: /wiki/Wikipedia:Verifiability#Reliable_sources
+D, [2018-03-08T22:59:19.398506 #12197] DEBUG -- : we found a loop at: Wikipedia:Verifiability
+
+
+D, [2018-03-08T22:59:19.404770 #12197] DEBUG -- : Starting loop 10
+D, [2018-03-08T22:59:20.996350 #12197] DEBUG -- : Information scraped from: /wiki/Junior_Alexander_Ore
+D, [2018-03-08T22:59:20.996412 #12197] DEBUG -- : Changing /wiki/Wikipedia:No_original_research to /wiki/Junior_Alexander_Ore
+D, [2018-03-08T22:59:20.996441 #12197] DEBUG -- : we found a loop at: Junior Alexander Ore
+
+
+D, [2018-03-08T22:59:21.005854 #12197] DEBUG -- : Starting loop 11
+D, [2018-03-08T22:59:22.922684 #12197] DEBUG -- : Information scraped from: /wiki/Larry_H._Miller_Field
+D, [2018-03-08T22:59:22.922744 #12197] DEBUG -- : Changing /wiki/United_States to /wiki/Larry_H._Miller_Field
+D, [2018-03-08T22:59:24.105295 #12197] DEBUG -- : Information scraped from: /wiki/Stadium
+D, [2018-03-08T22:59:24.809718 #12197] DEBUG -- : Information scraped from: /wiki/Pausanias_of_Athens
+D, [2018-03-08T22:59:24.809792 #12197] DEBUG -- : we found a loop at: Pausanias of Athens
+
+
+D, [2018-03-08T22:59:24.824294 #12197] DEBUG -- : Starting loop 12
+D, [2018-03-08T22:59:25.772540 #12197] DEBUG -- : Information scraped from: /wiki/Carlos_Melo
+D, [2018-03-08T22:59:25.772605 #12197] DEBUG -- : Changing /wiki/Greek_language to /wiki/Carlos_Melo
+D, [2018-03-08T22:59:57.286820 #12197] DEBUG -- : Information scraped from: /wiki/Panama_City
+D, [2018-03-08T22:59:59.034017 #12197] DEBUG -- : Information scraped from: /wiki/Capital_city
+D, [2018-03-08T22:59:59.034102 #12197] DEBUG -- : Changing /wiki/Capital_(political) to /wiki/Capital_city
+D, [2018-03-08T23:00:00.307671 #12197] DEBUG -- : Information scraped from: /wiki/Municipality
+D, [2018-03-08T23:00:03.513663 #12197] DEBUG -- : Information scraped from: /wiki/Urban_area
+D, [2018-03-08T23:00:04.234880 #12197] DEBUG -- : Information scraped from: /wiki/Human_settlement
+D, [2018-03-08T23:00:04.234944 #12197] DEBUG -- : we found a loop at: Human settlement
+
+
+D, [2018-03-08T23:00:04.249445 #12197] DEBUG -- : Starting loop 13
+D, [2018-03-08T23:00:05.401468 #12197] DEBUG -- : Information scraped from: /wiki/Balash
+D, [2018-03-08T23:00:05.401529 #12197] DEBUG -- : Changing /wiki/Geography to /wiki/Balash
+D, [2018-03-08T23:00:07.232229 #12197] DEBUG -- : Information scraped from: /wiki/Persian_language
+D, [2018-03-08T23:00:07.232293 #12197] DEBUG -- : we found a loop at: Persian language
+
+
+D, [2018-03-08T23:00:07.238817 #12197] DEBUG -- : Starting loop 14
+D, [2018-03-08T23:00:08.757625 #12197] DEBUG -- : Information scraped from: /wiki/Amblyglyphidodon
+D, [2018-03-08T23:00:08.757713 #12197] DEBUG -- : Changing /wiki/Endonym to /wiki/Amblyglyphidodon
+D, [2018-03-08T23:00:08.757781 #12197] DEBUG -- : we found a loop at: Amblyglyphidodon
+
+
+D, [2018-03-08T23:00:08.767555 #12197] DEBUG -- : Starting loop 15
+D, [2018-03-08T23:00:09.919653 #12197] DEBUG -- : Information scraped from: /wiki/Swanson_v_Citibank_NA
+D, [2018-03-08T23:00:09.919718 #12197] DEBUG -- : Changing /wiki/Genus to /wiki/Swanson_v_Citibank_NA
+D, [2018-03-08T23:00:10.721776 #12197] DEBUG -- : Information scraped from: /wiki/Anti-discrimination_law
+D, [2018-03-08T23:00:10.721836 #12197] DEBUG -- : Changing /wiki/Discrimination_law to /wiki/Anti-discrimination_law
+D, [2018-03-08T23:00:11.843128 #12197] DEBUG -- : Information scraped from: /wiki/Equality_before_the_law
+D, [2018-03-08T23:00:13.346446 #12197] DEBUG -- : Information scraped from: /wiki/Isonomia#Isonomy
+D, [2018-03-08T23:00:13.346592 #12197] DEBUG -- : Changing /wiki/Isonomy to /wiki/Isonomia#Isonomy
+D, [2018-03-08T23:00:14.080371 #12197] DEBUG -- : Information scraped from: /wiki/Civil_and_political_rights
+D, [2018-03-08T23:00:14.950675 #12197] DEBUG -- : Information scraped from: /wiki/Rights
+D, [2018-03-08T23:00:17.566630 #12197] DEBUG -- : Information scraped from: /wiki/Law
+D, [2018-03-08T23:00:18.344616 #12197] DEBUG -- : Information scraped from: /wiki/System
+D, [2018-03-08T23:00:18.344687 #12197] DEBUG -- : we found a loop at: System
+
+
+D, [2018-03-08T23:00:18.364370 #12197] DEBUG -- : Starting loop 16
+D, [2018-03-08T23:00:19.558389 #12197] DEBUG -- : Information scraped from: /wiki/The_Soundtrack_from_Dane_Cook%27s_Tourgasm
+D, [2018-03-08T23:00:19.558492 #12197] DEBUG -- : Changing /wiki/Latin to /wiki/The_Soundtrack_from_Dane_Cook%27s_Tourgasm
+D, [2018-03-08T23:00:20.372663 #12197] DEBUG -- : Information scraped from: /wiki/Rhino_Entertainment
+D, [2018-03-08T23:00:20.372788 #12197] DEBUG -- : Changing /wiki/Rhino_Records to /wiki/Rhino_Entertainment
+D, [2018-03-08T23:00:20.372893 #12197] DEBUG -- : we found a loop at: Rhino Entertainment
+
+
+D, [2018-03-08T23:00:20.389003 #12197] DEBUG -- : Starting loop 17
+D, [2018-03-08T23:00:21.290653 #12197] DEBUG -- : Information scraped from: /wiki/List_of_radio_stations_in_Hong_Kong
+D, [2018-03-08T23:00:21.290737 #12197] DEBUG -- : Changing /wiki/United_States to /wiki/List_of_radio_stations_in_Hong_Kong
+D, [2018-03-08T23:00:24.718464 #12197] DEBUG -- : Information scraped from: /wiki/Hong_Kong
+D, [2018-03-08T23:00:26.927755 #12197] DEBUG -- : Information scraped from: /wiki/Chinese_language
+D, [2018-03-08T23:00:28.186476 #12197] DEBUG -- : Information scraped from: /wiki/Simplified_Chinese_characters
+D, [2018-03-08T23:00:30.225882 #12197] DEBUG -- : Information scraped from: /wiki/Chinese_characters
+D, [2018-03-08T23:00:30.225941 #12197] DEBUG -- : Changing /wiki/Chinese_character to /wiki/Chinese_characters
+D, [2018-03-08T23:00:31.099258 #12197] DEBUG -- : Information scraped from: /wiki/Logogram
+D, [2018-03-08T23:00:32.222521 #12197] DEBUG -- : Information scraped from: /wiki/Written_language
+D, [2018-03-08T23:00:32.222589 #12197] DEBUG -- : we found a loop at: Written language
+
+
+D, [2018-03-08T23:00:32.236704 #12197] DEBUG -- : Starting loop 18
+D, [2018-03-08T23:00:33.904467 #12197] DEBUG -- : Information scraped from: /wiki/Renuka_Sinha
+D, [2018-03-08T23:00:33.904530 #12197] DEBUG -- : Changing /wiki/Language to /wiki/Renuka_Sinha
+D, [2018-03-08T23:00:34.558861 #12197] DEBUG -- : Information scraped from: /wiki/Member_of_parliament
+D, [2018-03-08T23:00:35.968166 #12197] DEBUG -- : Information scraped from: /wiki/Parliament
+D, [2018-03-08T23:00:35.968230 #12197] DEBUG -- : we found a loop at: Parliament
+
+
+D, [2018-03-08T23:00:35.989915 #12197] DEBUG -- : Starting loop 19
+D, [2018-03-08T23:00:37.237712 #12197] DEBUG -- : Information scraped from: /wiki/St._Leonard%27s_Church,_Zoutleeuw
+D, [2018-03-08T23:00:37.237819 #12197] DEBUG -- : Changing /wiki/Legislature to /wiki/St._Leonard%27s_Church,_Zoutleeuw
+D, [2018-03-08T23:00:38.531273 #12197] DEBUG -- : Information scraped from: /wiki/Zoutleeuw

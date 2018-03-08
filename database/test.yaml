@@ -34,7 +34,7 @@
 "/wiki/Ancient_Greek":
   :title: Ancient Greek
   :url: "/wiki/Ancient_Greek"
-  :nextUrl: "/wiki/Greek_language"
+  :nextUrl: "/wiki/Make_It_Right_Foundation"
 "/wiki/Greek_language":
   :title: Greek language
   :url: "/wiki/Greek_language"
@@ -114,7 +114,7 @@
 "/wiki/Politics":
   :title: Politics
   :url: "/wiki/Politics"
-  :nextUrl: "/wiki/Greek_language"
+  :nextUrl: "/wiki/Igerna_(genus)"
 "/wiki/Montreal_Institute_for_Genocide_and_Human_Rights_Studies":
   :title: Montreal Institute for Genocide and Human Rights Studies
   :url: "/wiki/Montreal_Institute_for_Genocide_and_Human_Rights_Studies"
@@ -206,7 +206,7 @@
 "/wiki/Latin":
   :title: Latin
   :url: "/wiki/Latin"
-  :nextUrl: "/wiki/Classical_language"
+  :nextUrl: "/wiki/Misiones_Department"
 "/wiki/Classical_language":
   :title: Classical language
   :url: "/wiki/Classical_language"
@@ -335,3 +335,251 @@
   :title: Science
   :url: "/wiki/Science"
   :nextUrl: "/wiki/Latin"
+"/wiki/Misiones_Department":
+  :title: Misiones Department
+  :url: "/wiki/Misiones_Department"
+  :nextUrl: "/wiki/Departments_of_Paraguay"
+"/wiki/Departments_of_Paraguay":
+  :title: Departments of Paraguay
+  :url: "/wiki/Departments_of_Paraguay"
+  :nextUrl: "/wiki/Paraguay"
+"/wiki/Paraguay":
+  :title: Paraguay
+  :url: "/wiki/Paraguay"
+  :nextUrl: "/wiki/Guarani_language"
+"/wiki/Guarani_language":
+  :title: Guarani language
+  :url: "/wiki/Guarani_language"
+  :nextUrl: "/wiki/Exonym_and_endonym"
+"/wiki/Exonym_and_endonym":
+  :title: Exonym and endonym
+  :url: "/wiki/Exonym_and_endonym"
+  :nextUrl: "/wiki/Location_(geography)"
+"/wiki/Location_(geography)":
+  :title: Location (geography)
+  :url: "/wiki/Location_(geography)"
+  :nextUrl: "/wiki/Geography"
+"/wiki/Geography":
+  :title: Geography
+  :url: "/wiki/Geography"
+  :nextUrl: "/wiki/ACG_Education"
+"/wiki/ACG_Education":
+  :title: ACG Education
+  :url: "/wiki/ACG_Education"
+  :nextUrl: "/wiki/Private_school"
+"/wiki/Private_school":
+  :title: Private school
+  :url: "/wiki/Private_school"
+  :nextUrl: "/wiki/Independent_school"
+"/wiki/Independent_school":
+  :title: Independent school
+  :url: "/wiki/Independent_school"
+  :nextUrl: "/wiki/Government"
+"/wiki/Government":
+  :title: Government
+  :url: "/wiki/Government"
+  :nextUrl: "/wiki/State_(polity)"
+"/wiki/State_(polity)":
+  :title: State (polity)
+  :url: "/wiki/State_(polity)"
+  :nextUrl: "/wiki/Politics"
+"/wiki/Igerna_(genus)":
+  :title: Igerna (genus)
+  :url: "/wiki/Igerna_(genus)"
+  :nextUrl: "/wiki/Genus"
+"/wiki/Genus":
+  :title: Genus
+  :url: "/wiki/Genus"
+  :nextUrl: "/wiki/Taxonomy_(biology)"
+"/wiki/Taxonomy_(biology)":
+  :title: Taxonomy (biology)
+  :url: "/wiki/Taxonomy_(biology)"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Make_It_Right_Foundation":
+  :title: Make It Right Foundation
+  :url: "/wiki/Make_It_Right_Foundation"
+  :nextUrl: "/wiki/Nonprofit_organization"
+"/wiki/Nonprofit_organization":
+  :title: Nonprofit organization
+  :url: "/wiki/Nonprofit_organization"
+  :nextUrl: "/wiki/501(c)(3)_organization"
+"/wiki/501(c)(3)_organization":
+  :title: 501(c)(3) organization
+  :url: "/wiki/501(c)(3)_organization"
+  :nextUrl: "/wiki/Internal_Revenue_Code"
+"/wiki/Internal_Revenue_Code":
+  :title: Internal Revenue Code
+  :url: "/wiki/Internal_Revenue_Code"
+  :nextUrl: "/wiki/United_States_Statutes_at_Large"
+"/wiki/United_States_Statutes_at_Large":
+  :title: United States Statutes at Large
+  :url: "/wiki/United_States_Statutes_at_Large"
+  :nextUrl: "/wiki/Act_of_Congress"
+"/wiki/Act_of_Congress":
+  :title: Act of Congress
+  :url: "/wiki/Act_of_Congress"
+  :nextUrl: "/wiki/Statute"
+"/wiki/Statute":
+  :title: Statute
+  :url: "/wiki/Statute"
+  :nextUrl: "/wiki/Legislature"
+"/wiki/Legislature":
+  :title: Legislature
+  :url: "/wiki/Legislature"
+  :nextUrl: "/wiki/Deliberative_assembly"
+"/wiki/Deliberative_assembly":
+  :title: Deliberative assembly
+  :url: "/wiki/Deliberative_assembly"
+  :nextUrl: "/wiki/Collective"
+"/wiki/Collective":
+  :title: Collective
+  :url: "/wiki/Collective"
+  :nextUrl: "/wiki/Wikipedia:Citation_needed"
+"/wiki/Wikipedia:Citation_needed":
+  :title: Wikipedia:Citation needed
+  :url: "/wiki/Wikipedia:Citation_needed"
+  :nextUrl: "/wiki/Wikipedia:Verifiability"
+"/wiki/Wikipedia:Verifiability":
+  :title: Wikipedia:Verifiability
+  :url: "/wiki/Wikipedia:Verifiability"
+  :nextUrl: "/wiki/Wikipedia:No_original_research"
+"/wiki/Wikipedia:No_original_research":
+  :title: Wikipedia:No original research
+  :url: "/wiki/Wikipedia:No_original_research"
+  :nextUrl: "/wiki/Wikipedia:Verifiability#Reliable_sources"
+"/wiki/Wikipedia:Verifiability#Reliable_sources":
+  :title: Wikipedia:Verifiability
+  :url: "/wiki/Wikipedia:Verifiability#Reliable_sources"
+  :nextUrl: "/wiki/Junior_Alexander_Ore"
+"/wiki/Junior_Alexander_Ore":
+  :title: Junior Alexander Ore
+  :url: "/wiki/Junior_Alexander_Ore"
+  :nextUrl: "/wiki/Larry_H._Miller_Field"
+"/wiki/Larry_H._Miller_Field":
+  :title: Larry H. Miller Field
+  :url: "/wiki/Larry_H._Miller_Field"
+  :nextUrl: "/wiki/Stadium"
+"/wiki/Stadium":
+  :title: Stadium
+  :url: "/wiki/Stadium"
+  :nextUrl: "/wiki/Pausanias_of_Athens"
+"/wiki/Pausanias_of_Athens":
+  :title: Pausanias of Athens
+  :url: "/wiki/Pausanias_of_Athens"
+  :nextUrl: "/wiki/Carlos_Melo"
+"/wiki/Carlos_Melo":
+  :title: Carlos Melo
+  :url: "/wiki/Carlos_Melo"
+  :nextUrl: "/wiki/Panama_City"
+"/wiki/Panama_City":
+  :title: Panama City
+  :url: "/wiki/Panama_City"
+  :nextUrl: "/wiki/Capital_city"
+"/wiki/Capital_city":
+  :title: Capital city
+  :url: "/wiki/Capital_city"
+  :nextUrl: "/wiki/Municipality"
+"/wiki/Municipality":
+  :title: Municipality
+  :url: "/wiki/Municipality"
+  :nextUrl: "/wiki/Urban_area"
+"/wiki/Urban_area":
+  :title: Urban area
+  :url: "/wiki/Urban_area"
+  :nextUrl: "/wiki/Human_settlement"
+"/wiki/Human_settlement":
+  :title: Human settlement
+  :url: "/wiki/Human_settlement"
+  :nextUrl: "/wiki/Balash"
+"/wiki/Balash":
+  :title: Balash
+  :url: "/wiki/Balash"
+  :nextUrl: "/wiki/Persian_language"
+"/wiki/Persian_language":
+  :title: Persian language
+  :url: "/wiki/Persian_language"
+  :nextUrl: "/wiki/Amblyglyphidodon"
+"/wiki/Amblyglyphidodon":
+  :title: Amblyglyphidodon
+  :url: "/wiki/Amblyglyphidodon"
+  :nextUrl: "/wiki/Swanson_v_Citibank_NA"
+"/wiki/Swanson_v_Citibank_NA":
+  :title: Swanson v Citibank NA
+  :url: "/wiki/Swanson_v_Citibank_NA"
+  :nextUrl: "/wiki/Anti-discrimination_law"
+"/wiki/Anti-discrimination_law":
+  :title: Anti-discrimination law
+  :url: "/wiki/Anti-discrimination_law"
+  :nextUrl: "/wiki/Equality_before_the_law"
+"/wiki/Equality_before_the_law":
+  :title: Equality before the law
+  :url: "/wiki/Equality_before_the_law"
+  :nextUrl: "/wiki/Isonomia#Isonomy"
+"/wiki/Isonomia#Isonomy":
+  :title: Isonomia
+  :url: "/wiki/Isonomia#Isonomy"
+  :nextUrl: "/wiki/Civil_and_political_rights"
+"/wiki/Civil_and_political_rights":
+  :title: Civil and political rights
+  :url: "/wiki/Civil_and_political_rights"
+  :nextUrl: "/wiki/Rights"
+"/wiki/Rights":
+  :title: Rights
+  :url: "/wiki/Rights"
+  :nextUrl: "/wiki/Law"
+"/wiki/Law":
+  :title: Law
+  :url: "/wiki/Law"
+  :nextUrl: "/wiki/System"
+"/wiki/System":
+  :title: System
+  :url: "/wiki/System"
+  :nextUrl: "/wiki/The_Soundtrack_from_Dane_Cook%27s_Tourgasm"
+"/wiki/The_Soundtrack_from_Dane_Cook%27s_Tourgasm":
+  :title: The Soundtrack from Dane Cook's Tourgasm
+  :url: "/wiki/The_Soundtrack_from_Dane_Cook%27s_Tourgasm"
+  :nextUrl: "/wiki/Rhino_Entertainment"
+"/wiki/Rhino_Entertainment":
+  :title: Rhino Entertainment
+  :url: "/wiki/Rhino_Entertainment"
+  :nextUrl: "/wiki/List_of_radio_stations_in_Hong_Kong"
+"/wiki/List_of_radio_stations_in_Hong_Kong":
+  :title: List of radio stations in Hong Kong
+  :url: "/wiki/List_of_radio_stations_in_Hong_Kong"
+  :nextUrl: "/wiki/Hong_Kong"
+"/wiki/Hong_Kong":
+  :title: Hong Kong
+  :url: "/wiki/Hong_Kong"
+  :nextUrl: "/wiki/Chinese_language"
+"/wiki/Chinese_language":
+  :title: Chinese language
+  :url: "/wiki/Chinese_language"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+"/wiki/Simplified_Chinese_characters":
+  :title: Simplified Chinese characters
+  :url: "/wiki/Simplified_Chinese_characters"
+  :nextUrl: "/wiki/Chinese_characters"
+"/wiki/Chinese_characters":
+  :title: Chinese characters
+  :url: "/wiki/Chinese_characters"
+  :nextUrl: "/wiki/Logogram"
+"/wiki/Logogram":
+  :title: Logogram
+  :url: "/wiki/Logogram"
+  :nextUrl: "/wiki/Written_language"
+"/wiki/Written_language":
+  :title: Written language
+  :url: "/wiki/Written_language"
+  :nextUrl: "/wiki/Renuka_Sinha"
+"/wiki/Renuka_Sinha":
+  :title: Renuka Sinha
+  :url: "/wiki/Renuka_Sinha"
+  :nextUrl: "/wiki/Member_of_parliament"
+"/wiki/Member_of_parliament":
+  :title: Member of parliament
+  :url: "/wiki/Member_of_parliament"
+  :nextUrl: "/wiki/Parliament"
+"/wiki/Parliament":
+  :title: Parliament
+  :url: "/wiki/Parliament"
+  :nextUrl: "/wiki/Legislature"
