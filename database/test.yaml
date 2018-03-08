@@ -1,1 +1,97 @@
---- {}
+---
+"/wiki/Kinesin":
+  :title: Kinesin
+  :url: "/wiki/Kinesin"
+  :nextUrl: "/wiki/Motor_protein"
+"/wiki/Motor_protein":
+  :title: Motor protein
+  :url: "/wiki/Motor_protein"
+  :nextUrl: "/wiki/Molecular_motor"
+"/wiki/Molecular_motor":
+  :title: Molecular motor
+  :url: "/wiki/Molecular_motor"
+  :nextUrl: "/wiki/Molecular_machine"
+"/wiki/Molecular_machine":
+  :title: Molecular machine
+  :url: "/wiki/Molecular_machine"
+  :nextUrl: "/wiki/Nanotechnology"
+"/wiki/Nanotechnology":
+  :title: Nanotechnology
+  :url: "/wiki/Nanotechnology"
+  :nextUrl: "/wiki/Atom"
+"/wiki/Atom":
+  :title: Atom
+  :url: "/wiki/Atom"
+  :nextUrl: "/wiki/Matter"
+"/wiki/Matter":
+  :title: Matter
+  :url: "/wiki/Matter"
+  :nextUrl: "/wiki/Classical_physics"
+"/wiki/Classical_physics":
+  :title: Classical physics
+  :url: "/wiki/Classical_physics"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Physics":
+  :title: Physics
+  :url: "/wiki/Physics"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Ancient_Greek":
+  :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Greek_language":
+  :title: Greek language
+  :url: "/wiki/Greek_language"
+  :nextUrl: "/wiki/Modern_Greek"
+"/wiki/Modern_Greek":
+  :title: Modern Greek
+  :url: "/wiki/Modern_Greek"
+  :nextUrl: "/wiki/Colloquialism"
+"/wiki/Colloquialism":
+  :title: Colloquialism
+  :url: "/wiki/Colloquialism"
+  :nextUrl: "/wiki/Vernacular"
+"/wiki/Vernacular":
+  :title: Vernacular
+  :url: "/wiki/Vernacular"
+  :nextUrl: "/wiki/Language"
+"/wiki/Language":
+  :title: Language
+  :url: "/wiki/Language"
+  :nextUrl: "/wiki/Communication"
+"/wiki/Communication":
+  :title: Communication
+  :url: "/wiki/Communication"
+  :nextUrl: "/wiki/Meaning_(semiotics)"
+"/wiki/Meaning_(semiotics)":
+  :title: Meaning (semiotics)
+  :url: "/wiki/Meaning_(semiotics)"
+  :nextUrl: "/wiki/Semiotics"
+"/wiki/Semiotics":
+  :title: Semiotics
+  :url: "/wiki/Semiotics"
+  :nextUrl: "/wiki/Research"
+"/wiki/Research":
+  :title: Research
+  :url: "/wiki/Research"
+  :nextUrl: "/wiki/Knowledge"
+"/wiki/Knowledge":
+  :title: Knowledge
+  :url: "/wiki/Knowledge"
+  :nextUrl: "/wiki/Fact"
+"/wiki/Fact":
+  :title: Fact
+  :url: "/wiki/Fact"
+  :nextUrl: "/wiki/Evidence"
+"/wiki/Evidence":
+  :title: Evidence
+  :url: "/wiki/Evidence"
+  :nextUrl: "/wiki/Logical_assertion"
+"/wiki/Logical_assertion":
+  :title: Logical assertion
+  :url: "/wiki/Logical_assertion"
+  :nextUrl: "/wiki/Logic"
+"/wiki/Logic":
+  :title: Logic
+  :url: "/wiki/Logic"
+  :nextUrl: "/wiki/Ancient_Greek"

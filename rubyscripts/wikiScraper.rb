@@ -13,8 +13,6 @@ class WikiScraper
     @allPages = getAllEntries()         # working model of the saved database
     @currentPage = nil                  # the page being scraped
     @previousPage = nil                 # the previous page
-    @redirectedUrls = []                # urls that redirected into pages we
-                                        # visited (only record of these)
   end
 
   def find_wiki_loop
@@ -28,12 +26,13 @@ class WikiScraper
     # if the url for the next page is a new url, we recur
     # otherwise we've hit a loop, so we save everything and prepair to find the netx loop
 
-    scrapePage()
-    correctUrl()
-    if latestPageIsNew?(@currentPage[:nextUrl])
+    if pageIsNew?()
+      scrapePage()
+      correctUrl()
       visitLink(@currentPage[:nextUrl])
       scrapeAgain()
     else
+      @currentPage[:nextUrl] = urlEnding(@br.url)
       LOGGER.debug("we found a loop at: #{@currentPage[:title]}\n\n")
       writeToFile(@allPages) # file_helper
       @currentPage = nil
@@ -41,9 +40,10 @@ class WikiScraper
     end
   end
 
-  def latestPageIsNew?(url)
-    # returns a boolean of whether the passed in url matches either any of the already scraped pages in the record hash OR any of the redirected urls we have encountered during this scrape
-    !(@allPages[url] ||  @redirectedUrls.include?(url))
+  def pageIsNew?
+    # returns a boolean of whether the passed in url matches either any of the already scraped pages in the record hash
+    url = urlEnding(@br.url)
+    !@allPages[url]
   end
 
   def correctUrl
@@ -51,7 +51,6 @@ class WikiScraper
     # in such cases we want to change the recorded nextUrl for the previous page to match the url of the actual page we navigated to AND keep a record of the redirected url
     if @previousPage && @currentPage[:url] != @previousPage[:nextUrl]
       LOGGER.debug("Changing #{@previousPage[:nextUrl]} to #{@currentPage[:url]}")
-      @redirectedUrls << @previousPage[:nextUrl]
       @previousPage[:nextUrl] = @currentPage[:url]
     end
   end

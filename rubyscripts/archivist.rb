@@ -12,6 +12,7 @@ class Archivist
 
   def getNext(page)
     # returns the page whose url is the same as the nextUrl of this page (should only ever be one)
+    puts page
     @allPages[page[:nextUrl]]
   end
 
@@ -33,7 +34,7 @@ class Archivist
     # returns the number of entries that are "upriver" of the current page (of those currently stored in @allPages)
 
     @allPages.count do |_, candidatePage|
-      pointsTo(candidatePagey, page)
+      pointsTo(candidatePage, page)
     end
   end
 
@@ -68,9 +69,7 @@ archivist = Archivist.new
 
 puts archivist.allPages
 
-entry =  archivist.allPages["/wiki/Tahla_Mosque"]
-entry =  archivist.allPages["/wiki/Stationary_steam_engine"]
-
+entry =  archivist.allPages["/wiki/Language"]
 
 puts entry
 
