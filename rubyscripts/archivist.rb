@@ -56,6 +56,23 @@ class Archivist
     end
   end
 
+  def pointsTo(entry, otherEntry)
+    # returns boolean of whether or not the chain of links starting an entry ever points to otherEntry
+
+    passedEntries = []
+
+    while !passedEntries.include?(entry)
+      if entry == otherEntry
+        return true
+      else
+        passedEntries << entry
+        entry = getNext(entry)
+      end
+    end
+
+    false
+  end
+
   def getAllPreviousEntries(entry, allEntries=[])
     # is passed in a page entry and an array representing all the page entries found so far
     # if the current entry isn't already in the allEntries we add entry to the array, gather all those elements directly previous (linkiing) to the current entry, and call this same function on all of them with the same array passed in
@@ -78,10 +95,12 @@ end
 
 archivist = Archivist.new
 
-for i in 20.. 70 do
+for i in 20.. 80 do
   entry = archivist.allEntries[i]
 
   puts archivist.getAllPreviousEntries(entry).length
 
-  puts entry[:title]
+  puts entry[:title] + ' ' + i.to_s
 end
+
+puts archivist.pointsTo(archivist.allEntries[73], archivist.allEntries[74])
