@@ -12,22 +12,18 @@ module PageScraper
     # and the link isn't inside a haudio span (for audio files)
     # and has a href that starts with '/wiki' (this probably makes a lot of the others redundant)
 
-  FLS = "//*[@class='mw-parser-output']//a[not(ancestor::table|ancestor::*[contains(@class, 'hatnote')]|ancestor::*[contains(@class, 'thumb')]|ancestor::*[contains(@class, 'IPA')]|ancestor::*[contains(@class, 'haudio')])][not(starts-with(text(), '['))][not(contains(@class, 'image'))][starts-with(@href, '/wiki')]"
-
+  FLS = "//*[@class='mw-parser-output']//a[not(ancestor::table|ancestor::*[contains(@class, 'hatnote')]|ancestor::*[contains(@class, 'thumb')]|ancestor::*[contains(@class, 'IPA')]|ancestor::*[contains(@class, 'haudio')]|ancestor::*[@id='coordinates'])][not(starts-with(text(), '['))][not(contains(@class, 'image'))][starts-with(@href, '/wiki')]"
 
   def scrapePage
     # expects to be passed in a Watir:Browser object
     # gets the header from the current browser page and records it, the page url and the next page's url to the array
-    # sets the @nextUrl attr variable to the next pag's url
-    page = getPage
-    nextPageUrl =  getFirstLinkUrl(page)
-    entry = getPageRecord(page, nextPageUrl)
-    recordEntry(entry)
-    @nextUrl =  nextPageUrl
+    pageDoc = getPage
+    nextPageUrl = getFirstLinkUrl(pageDoc)
+    pageEntry = getPageRecord(pageDoc, nextPageUrl)
+    recordEntry(pageEntry)
 
-    puts entry
+    LOGGER.debug("Information scraped from: #{pageEntry[:url]}")
   end
-
 
   def getPage
     # returns the parsed html of the passed in browser object
@@ -39,13 +35,13 @@ module PageScraper
     link.attribute('href').value
   end
 
-  def getFirstLink(page)
-    page.xpath(FLS)[0]
+  def getFirstLink(pageDoc)
+    pageDoc.xpath(FLS)[0]
   end
 
-  def getPageRecord(page, nextUrl)
+  def getPageRecord(pageDoc, nextUrl)
     # returns the header, page url ending and passed in nextUrl in an object
-    header = getHeader(page)
+    header = getHeader(pageDoc)
     url = urlEnding(@br.url)
     {title: header, url: url, nextUrl: nextUrl}
   end
@@ -54,8 +50,15 @@ module PageScraper
     page.css("#firstHeading").text
   end
 
-  def recordEntry(entry)
-    @allPages << entry
+  def recordEntry(page)
+    updateTrackedPages(page)
+    # all pages should have unique urls
+    @allPages[page[:url]] = page
+  end
+
+  def updateTrackedPages(page)
+    @previousPage = @currentPage
+    @currentPage = page
   end
 
   def visitLink(path)

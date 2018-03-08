@@ -2,67 +2,76 @@ require_relative './shared/fileHelper'
 
 class Archivist
 
-  attr_accessor :allEntries
+  # not very sophisticated, but it lets us do simple things like count how many pages are "upstream" or "downstream" from a given page
+
+  attr_accessor :allPages
 
   include FileHelper
 
   def initialize
-    @allEntries = getAllEntries()
+    @allPages = getAllEntries()
   end
 
-  def getNext(entry)
-    # returns the entry whose url is the same as the nextUrl of this entry (should only ever be one)
-    @allEntries.detect do |otherEntry|
-      otherEntry[:url] == entry[:nextUrl]
-    end
+  def getNext(page)
+    # returns the page whose url is the same as the nextUrl of this page (should only ever be one)
+    @allPages[page[:nextUrl]]
   end
 
-  def getAllFurtherEntries(entry)
-    # passed in a page entry
-    # we make an empty array and add the entry to the array.
-    # we then get the next (linking) entry, add it to the array and so on untill we reach an entry that is already in the array (in which case we have hit a loop and we return the array)
+  def getAllFurtherEntries(page)
+    # passed in a page page
+    # we make an empty array and add the page to the array.
+    # we then get the next (linking) page, add it to the array and so on untill we reach an page that is already in the array (in which case we have hit a loop and we return the array)
     array = []
 
-    while !array.include?(entry)
-      array << entry
-      entry = getNext(entry)
+    while !array.include?(page)
+      array << page
+      page = getNext(page)
     end
 
-    p array
+    array
   end
 
-  def getPrevious(entry)
-    # gets all entries form the list whose nextUrl properties match the url property of the current entry
-    @allEntries.select do |otherEntry|
-      otherEntry[:nextUrl] == entry[:url]
+  def pointingEntriesCount(page)
+    # returns the number of entries that are "upriver" of the current page (of those currently stored in @allPages)
+
+    @allPages.count do |_, candidatePage|
+      pointsTo(candidatePage, page)
     end
   end
 
-  def getAllPreviousEntries(entry, allEntries=[])
-    # is passed in a page entry and an array representing all the page entries found so far
-    # if the current entry isn't already in the allEntries we add entry to the array, gather all those elements directly previous (linkiing) to the current entry, and call this same function on all of them with the same array passed in
-    # each function call returns allEntries
+  def pointingPages(page)
+    @allPages.select do |_, candidatePage|
+      pointsTo(candidatePage, page)
+    end
+  end
 
-    if !allEntries.include?(entry)
-      allEntries << entry
+  def pointsTo(page, otherPage)
+    # returns boolean of whether or not the chain of links starting an page ever points to otherPage
 
-      directlyPrevious = getPrevious(entry)
 
-      directlyPrevious.each do |prevEntry|
-        getAllPreviousEntries(prevEntry, allEntries)
+    passedPages = []
+
+    while !passedPages.include?(page)
+      if page == otherPage
+        return true
+      else
+        passedPages << page
+        page = getNext(page)
       end
     end
 
-    allEntries
+    false
   end
 end
 
-=begin
+
 
 archivist = Archivist.new
 
-archivist.allEntries.each do |entry|
-  puts "#{entry[:title]}: #{archivist.getAllPreviousEntries(entry).length()}"
-end
+puts archivist.allPages
 
-=end
+entry =  archivist.allPages["/wiki/Greek_language"]
+
+puts entry
+
+puts archivist.pointingEntriesCount(entry)

@@ -1,337 +1,3942 @@
 ---
-- :title: Yōji Enokido
-  :url: "/wiki/Y%C5%8Dji_Enokido"
-  :nextUrl: "/wiki/Japanese_people"
-- :title: Japanese people
-  :url: "/wiki/Japanese_people"
-  :nextUrl: "/wiki/Japanese_language"
-- :title: Japanese language
-  :url: "/wiki/Japanese_language"
-  :nextUrl: "/wiki/East_Asian_languages"
-- :title: East Asian languages
-  :url: "/wiki/East_Asian_languages"
-  :nextUrl: "/wiki/East_Asia"
-- :title: East Asia
-  :url: "/wiki/East_Asia"
-  :nextUrl: "/wiki/Subregion"
-- :title: Subregion
-  :url: "/wiki/Subregion"
-  :nextUrl: "/wiki/Region"
-- :title: Region
-  :url: "/wiki/Region"
-  :nextUrl: "/wiki/Geography"
-- :title: Geography
-  :url: "/wiki/Geography"
+"/wiki/Kinesin":
+  :title: Kinesin
+  :url: "/wiki/Kinesin"
+  :nextUrl: "/wiki/Motor_protein"
+"/wiki/Motor_protein":
+  :title: Motor protein
+  :url: "/wiki/Motor_protein"
+  :nextUrl: "/wiki/Molecular_motor"
+"/wiki/Molecular_motor":
+  :title: Molecular motor
+  :url: "/wiki/Molecular_motor"
+  :nextUrl: "/wiki/Molecular_machine"
+"/wiki/Molecular_machine":
+  :title: Molecular machine
+  :url: "/wiki/Molecular_machine"
+  :nextUrl: "/wiki/Nanotechnology"
+"/wiki/Nanotechnology":
+  :title: Nanotechnology
+  :url: "/wiki/Nanotechnology"
+  :nextUrl: "/wiki/Atom"
+"/wiki/Atom":
+  :title: Atom
+  :url: "/wiki/Atom"
+  :nextUrl: "/wiki/Matter"
+"/wiki/Matter":
+  :title: Matter
+  :url: "/wiki/Matter"
+  :nextUrl: "/wiki/Classical_physics"
+"/wiki/Classical_physics":
+  :title: Classical physics
+  :url: "/wiki/Classical_physics"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Physics":
+  :title: Physics
+  :url: "/wiki/Physics"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Ancient_Greek":
+  :title: Ancient Greek
+  :url: "/wiki/Ancient_Greek"
   :nextUrl: "/wiki/Greek_language"
-- :title: Greek language
+"/wiki/Greek_language":
+  :title: Greek language
   :url: "/wiki/Greek_language"
   :nextUrl: "/wiki/Modern_Greek"
-- :title: Modern Greek
+"/wiki/Modern_Greek":
+  :title: Modern Greek
   :url: "/wiki/Modern_Greek"
   :nextUrl: "/wiki/Colloquialism"
-- :title: Colloquialism
+"/wiki/Colloquialism":
+  :title: Colloquialism
   :url: "/wiki/Colloquialism"
   :nextUrl: "/wiki/Vernacular"
-- :title: Vernacular
+"/wiki/Vernacular":
+  :title: Vernacular
   :url: "/wiki/Vernacular"
   :nextUrl: "/wiki/Language"
-- :title: Language
+"/wiki/Language":
+  :title: Language
   :url: "/wiki/Language"
   :nextUrl: "/wiki/Communication"
-- :title: Communication
+"/wiki/Communication":
+  :title: Communication
   :url: "/wiki/Communication"
   :nextUrl: "/wiki/Meaning_(semiotics)"
-- :title: Meaning (semiotics)
+"/wiki/Meaning_(semiotics)":
+  :title: Meaning (semiotics)
   :url: "/wiki/Meaning_(semiotics)"
   :nextUrl: "/wiki/Semiotics"
-- :title: Semiotics
+"/wiki/Semiotics":
+  :title: Semiotics
   :url: "/wiki/Semiotics"
   :nextUrl: "/wiki/Research"
-- :title: Research
+"/wiki/Research":
+  :title: Research
   :url: "/wiki/Research"
   :nextUrl: "/wiki/Knowledge"
-- :title: Knowledge
+"/wiki/Knowledge":
+  :title: Knowledge
   :url: "/wiki/Knowledge"
   :nextUrl: "/wiki/Fact"
-- :title: Fact
+"/wiki/Fact":
+  :title: Fact
   :url: "/wiki/Fact"
   :nextUrl: "/wiki/Evidence"
-- :title: Evidence
+"/wiki/Evidence":
+  :title: Evidence
   :url: "/wiki/Evidence"
   :nextUrl: "/wiki/Logical_assertion"
-- :title: Logical assertion
+"/wiki/Logical_assertion":
+  :title: Logical assertion
   :url: "/wiki/Logical_assertion"
   :nextUrl: "/wiki/Logic"
-- :title: Logic
+"/wiki/Logic":
+  :title: Logic
   :url: "/wiki/Logic"
   :nextUrl: "/wiki/Ancient_Greek"
-- :title: Ancient Greek
-  :url: "/wiki/Ancient_Greek"
-  :nextUrl: "/wiki/Greek_language"
-- :title: List of wars involving Ukraine
-  :url: "/wiki/List_of_wars_involving_Ukraine"
-  :nextUrl: "/wiki/Ukraine"
-- :title: Ukraine
-  :url: "/wiki/Ukraine"
-  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
-- :title: Help:Pronunciation respelling key
-  :url: "/wiki/Help:Pronunciation_respelling_key"
-  :nextUrl: "/wiki/Pronunciation_respelling_for_English"
-- :title: Pronunciation respelling for English
-  :url: "/wiki/Pronunciation_respelling_for_English"
-  :nextUrl: "/wiki/Pronunciation_respelling"
-- :title: Pronunciation respelling
-  :url: "/wiki/Pronunciation_respelling"
-  :nextUrl: "/wiki/Nonce_word"
-- :title: Nonce word
-  :url: "/wiki/Nonce_word"
-  :nextUrl: "/wiki/Lexeme"
-- :title: Lexeme
-  :url: "/wiki/Lexeme"
-  :nextUrl: "/wiki/Lexical_semantics"
-- :title: Lexical semantics
-  :url: "/wiki/Lexical_semantics"
-  :nextUrl: "/wiki/Linguistics"
-- :title: Linguistics
-  :url: "/wiki/Linguistics"
-  :nextUrl: "/wiki/Language"
-- :title: 1977–78 Cypriot Second Division
-  :url: "/wiki/1977%E2%80%9378_Cypriot_Second_Division"
-  :nextUrl: "/wiki/Association_football"
-- :title: Association football
-  :url: "/wiki/Association_football"
-  :nextUrl: "/wiki/Team_sport"
-- :title: Team sport
-  :url: "/wiki/Team_sport"
-  :nextUrl: "/wiki/Sport"
-- :title: Sport
-  :url: "/wiki/Sport"
-  :nextUrl: "/wiki/British_English"
-- :title: British English
-  :url: "/wiki/British_English"
-  :nextUrl: "/wiki/English_language"
-- :title: English language
-  :url: "/wiki/English_language"
-  :nextUrl: "/wiki/West_Germanic_language"
-- :title: West Germanic languages
-  :url: "/wiki/West_Germanic_languages"
-  :nextUrl: "/wiki/Germanic_languages"
-- :title: Germanic languages
-  :url: "/wiki/Germanic_languages"
-  :nextUrl: "/wiki/Indo-European_languages"
-- :title: Indo-European languages
-  :url: "/wiki/Indo-European_languages"
-  :nextUrl: "/wiki/Language_family"
-- :title: Language family
-  :url: "/wiki/Language_family"
-  :nextUrl: "/wiki/Language"
-- :title: Dances with Wolves (novel)
-  :url: "/wiki/Dances_with_Wolves_(novel)"
-  :nextUrl: "/wiki/Michael_Blake_(author)"
-- :title: Michael Blake (author)
-  :url: "/wiki/Michael_Blake_(author)"
-  :nextUrl: "/wiki/Author"
-- :title: Author
-  :url: "/wiki/Author"
-  :nextUrl: "/wiki/Writer"
-- :title: Writer
-  :url: "/wiki/Writer"
-  :nextUrl: "/wiki/Report"
-- :title: Report
-  :url: "/wiki/Report"
-  :nextUrl: "/wiki/Information"
-- :title: Information
-  :url: "/wiki/Information"
-  :nextUrl: "/wiki/Data"
-- :title: Data
-  :url: "/wiki/Data"
-  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
-- :title: Urumattram
-  :url: "/wiki/Urumattram"
-  :nextUrl: "/wiki/Tamil_cinema"
-- :title: Tamil cinema
-  :url: "/wiki/Tamil_cinema"
-  :nextUrl: "/wiki/India"
-- :title: India
-  :url: "/wiki/India"
-  :nextUrl: "/wiki/South_Asia"
-- :title: South Asia
-  :url: "/wiki/South_Asia"
-  :nextUrl: "/wiki/Indian_subcontinent"
-- :title: Indian subcontinent
-  :url: "/wiki/Indian_subcontinent"
-  :nextUrl: "/wiki/Region"
-- :title: HMS Gallant (H59)
-  :url: "/wiki/HMS_Gallant_(H59)"
-  :nextUrl: "/wiki/G_and_H-class_destroyer"
-- :title: G and H-class destroyer
-  :url: "/wiki/G_and_H-class_destroyer"
-  :nextUrl: "/wiki/Destroyer"
-- :title: Destroyer
-  :url: "/wiki/Destroyer"
-  :nextUrl: "/wiki/Navy"
-- :title: Navy
-  :url: "/wiki/Navy"
-  :nextUrl: "/wiki/Armed_forces"
-- :title: Military
-  :url: "/wiki/Military"
-  :nextUrl: "/wiki/Use_of_force"
-- :title: Use of force
-  :url: "/wiki/Use_of_force"
-  :nextUrl: "/wiki/Law_enforcement"
-- :title: Law enforcement
-  :url: "/wiki/Law_enforcement"
+"/wiki/Ravenloft_(module)":
+  :title: Ravenloft (module)
+  :url: "/wiki/Ravenloft_(module)"
+  :nextUrl: "/wiki/Adventure_(Dungeons_%26_Dragons)"
+"/wiki/Adventure_(Dungeons_%26_Dragons)":
+  :title: Adventure (Dungeons & Dragons)
+  :url: "/wiki/Adventure_(Dungeons_%26_Dragons)"
+  :nextUrl: "/wiki/Dungeons_%26_Dragons"
+"/wiki/Dungeons_%26_Dragons":
+  :title: Dungeons & Dragons
+  :url: "/wiki/Dungeons_%26_Dragons"
+  :nextUrl: "/wiki/Fantasy"
+"/wiki/Fantasy":
+  :title: Fantasy
+  :url: "/wiki/Fantasy"
+  :nextUrl: "/wiki/Genre"
+"/wiki/Genre":
+  :title: Genre
+  :url: "/wiki/Genre"
+  :nextUrl: "/wiki/French_language"
+"/wiki/French_language":
+  :title: French language
+  :url: "/wiki/French_language"
+  :nextUrl: "/wiki/Romance_languages"
+"/wiki/Romance_languages":
+  :title: Romance languages
+  :url: "/wiki/Romance_languages"
+  :nextUrl: "/wiki/Vulgar_Latin"
+"/wiki/Vulgar_Latin":
+  :title: Vulgar Latin
+  :url: "/wiki/Vulgar_Latin"
+  :nextUrl: "/wiki/Sociolect"
+"/wiki/Sociolect":
+  :title: Sociolect
+  :url: "/wiki/Sociolect"
+  :nextUrl: "/wiki/Sociolinguistics"
+"/wiki/Sociolinguistics":
+  :title: Sociolinguistics
+  :url: "/wiki/Sociolinguistics"
   :nextUrl: "/wiki/Society"
-- :title: Society
+"/wiki/Society":
+  :title: Society
   :url: "/wiki/Society"
   :nextUrl: "/wiki/Social_group"
-- :title: Social group
+"/wiki/Social_group":
+  :title: Social group
   :url: "/wiki/Social_group"
   :nextUrl: "/wiki/Social_science"
-- :title: Social science
+"/wiki/Social_science":
+  :title: Social science
   :url: "/wiki/Social_science"
   :nextUrl: "/wiki/Discipline_(academia)"
-- :title: Discipline (academia)
+"/wiki/Discipline_(academia)":
+  :title: Discipline (academia)
   :url: "/wiki/Discipline_(academia)"
-  :nextUrl: "/wiki/Branch_(academia)"
-- :title: Outline of academic disciplines
+  :nextUrl: "/wiki/Outline_of_academic_disciplines"
+"/wiki/Outline_of_academic_disciplines":
+  :title: Outline of academic disciplines
   :url: "/wiki/Outline_of_academic_disciplines"
   :nextUrl: "/wiki/Knowledge"
-- :title: Bedlam, North Yorkshire
-  :url: "/wiki/Bedlam,_North_Yorkshire"
-  :nextUrl: "/wiki/Harrogate_(borough)"
-- :title: Borough of Harrogate
-  :url: "/wiki/Borough_of_Harrogate"
-  :nextUrl: "/wiki/Non-metropolitan_district"
-- :title: Non-metropolitan district
-  :url: "/wiki/Non-metropolitan_district"
-  :nextUrl: "/wiki/Districts_of_England"
-- :title: Districts of England
-  :url: "/wiki/Districts_of_England"
-  :nextUrl: "/wiki/Subdivisions_of_England"
-- :title: Subdivisions of England
-  :url: "/wiki/Subdivisions_of_England"
-  :nextUrl: "/wiki/England"
-- :title: England
-  :url: "/wiki/England"
-  :nextUrl: "/wiki/Country"
-- :title: Country
-  :url: "/wiki/Country"
-  :nextUrl: "/wiki/Political_geography"
-- :title: Political geography
-  :url: "/wiki/Political_geography"
-  :nextUrl: "/wiki/Politics"
-- :title: Politics
-  :url: "/wiki/Politics"
-  :nextUrl: "/wiki/Greek_language"
-- :title: Rhimphalea linealis
-  :url: "/wiki/Rhimphalea_linealis"
-  :nextUrl: "/wiki/Moth"
-- :title: Moth
-  :url: "/wiki/Moth"
-  :nextUrl: "/wiki/Insect"
-- :title: Insect
-  :url: "/wiki/Insect"
-  :nextUrl: "/wiki/Latin"
-- :title: Latin
-  :url: "/wiki/Latin"
-  :nextUrl: "/wiki/Classical_language"
-- :title: Classical language
-  :url: "/wiki/Classical_language"
-  :nextUrl: "/wiki/Language"
-- :title: Əzgilli, Goygol
-  :url: "/wiki/%C6%8Fzgilli,_Goygol"
-  :nextUrl: "/wiki/Geographic_coordinate_system"
-- :title: Geographic coordinate system
-  :url: "/wiki/Geographic_coordinate_system"
-  :nextUrl: "/wiki/Coordinate_system"
-- :title: Coordinate system
-  :url: "/wiki/Coordinate_system"
-  :nextUrl: "/wiki/Geometry"
-- :title: Geometry
-  :url: "/wiki/Geometry"
-  :nextUrl: "/wiki/Ancient_Greek_language"
-- :title: Ancient Greek
-  :url: "/wiki/Ancient_Greek"
-  :nextUrl: "/wiki/Greek_language"
-- :title: 1978 UCI Track Cycling World Championships
-  :url: "/wiki/1978_UCI_Track_Cycling_World_Championships"
-  :nextUrl: "/wiki/UCI_Track_Cycling_World_Championships"
-- :title: UCI Track Cycling World Championships
-  :url: "/wiki/UCI_Track_Cycling_World_Championships"
-  :nextUrl: "/wiki/World_championship"
-- :title: World championship
-  :url: "/wiki/World_championship"
-  :nextUrl: "/wiki/International"
-- :title: International
-  :url: "/wiki/International"
+"/wiki/Charles-Odilon_Beauchemin":
+  :title: Charles-Odilon Beauchemin
+  :url: "/wiki/Charles-Odilon_Beauchemin"
+  :nextUrl: "/wiki/Printer_(publishing)"
+"/wiki/Printer_(publishing)":
+  :title: Printer (publishing)
+  :url: "/wiki/Printer_(publishing)"
   :nextUrl: "/wiki/Company"
-- :title: Company
+"/wiki/Company":
+  :title: Company
   :url: "/wiki/Company"
-  :nextUrl: "/wiki/Legal_personality"
-- :title: Legal person
+  :nextUrl: "/wiki/Legal_person"
+"/wiki/Legal_person":
+  :title: Legal person
   :url: "/wiki/Legal_person"
   :nextUrl: "/wiki/Natural_person"
-- :title: Natural person
+"/wiki/Natural_person":
+  :title: Natural person
   :url: "/wiki/Natural_person"
   :nextUrl: "/wiki/Jurisprudence"
-- :title: Jurisprudence
+"/wiki/Jurisprudence":
+  :title: Jurisprudence
   :url: "/wiki/Jurisprudence"
   :nextUrl: "/wiki/Law"
-- :title: Law
+"/wiki/Law":
+  :title: Law
   :url: "/wiki/Law"
   :nextUrl: "/wiki/System"
-- :title: System
+"/wiki/System":
+  :title: System
   :url: "/wiki/System"
   :nextUrl: "/wiki/Latin"
-- :title: Te Kawa railway station
-  :url: "/wiki/Te_Kawa_railway_station"
-  :nextUrl: "/wiki/North_Island_Main_Trunk"
-- :title: North Island Main Trunk
-  :url: "/wiki/North_Island_Main_Trunk"
-  :nextUrl: "/wiki/North_Island"
-- :title: North Island
-  :url: "/wiki/North_Island"
-  :nextUrl: "/wiki/M%C4%81ori_language"
-- :title: Māori language
-  :url: "/wiki/M%C4%81ori_language"
-  :nextUrl: "/wiki/Eastern_Polynesian_languages"
-- :title: Polynesian languages
-  :url: "/wiki/Polynesian_languages"
-  :nextUrl: "/wiki/Language_family"
-- :title: Kaarela
-  :url: "/wiki/Kaarela"
-  :nextUrl: "/wiki/Swedish_language"
-- :title: Swedish language
-  :url: "/wiki/Swedish_language"
+"/wiki/Latin":
+  :title: Latin
+  :url: "/wiki/Latin"
+  :nextUrl: "/wiki/Classical_language"
+"/wiki/Classical_language":
+  :title: Classical language
+  :url: "/wiki/Classical_language"
+  :nextUrl: "/wiki/Language"
+"/wiki/R._H._White":
+  :title: R. H. White
+  :url: "/wiki/R._H._White"
+  :nextUrl: "/wiki/Boston"
+"/wiki/Boston":
+  :title: Boston
+  :url: "/wiki/Boston"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Help:Pronunciation_respelling_key":
+  :title: Help:Pronunciation respelling key
+  :url: "/wiki/Help:Pronunciation_respelling_key"
+  :nextUrl: "/wiki/Pronunciation_respelling_for_English"
+"/wiki/Pronunciation_respelling_for_English":
+  :title: Pronunciation respelling for English
+  :url: "/wiki/Pronunciation_respelling_for_English"
+  :nextUrl: "/wiki/Pronunciation_respelling"
+"/wiki/Pronunciation_respelling":
+  :title: Pronunciation respelling
+  :url: "/wiki/Pronunciation_respelling"
+  :nextUrl: "/wiki/Nonce_word"
+"/wiki/Nonce_word":
+  :title: Nonce word
+  :url: "/wiki/Nonce_word"
+  :nextUrl: "/wiki/Lexeme"
+"/wiki/Lexeme":
+  :title: Lexeme
+  :url: "/wiki/Lexeme"
+  :nextUrl: "/wiki/Lexical_semantics"
+"/wiki/Lexical_semantics":
+  :title: Lexical semantics
+  :url: "/wiki/Lexical_semantics"
+  :nextUrl: "/wiki/Linguistics"
+"/wiki/Linguistics":
+  :title: Linguistics
+  :url: "/wiki/Linguistics"
+  :nextUrl: "/wiki/Language"
+"/wiki/Marius_Myhre":
+  :title: Marius Myhre
+  :url: "/wiki/Marius_Myhre"
+  :nextUrl: "/wiki/Norway"
+"/wiki/Norway":
+  :title: Norway
+  :url: "/wiki/Norway"
+  :nextUrl: "/wiki/Norwegian_language"
+"/wiki/Norwegian_language":
+  :title: Norwegian language
+  :url: "/wiki/Norwegian_language"
   :nextUrl: "/wiki/North_Germanic_languages"
-- :title: North Germanic languages
+"/wiki/North_Germanic_languages":
+  :title: North Germanic languages
   :url: "/wiki/North_Germanic_languages"
   :nextUrl: "/wiki/Germanic_languages"
-- :title: Kostusin, Masovian Voivodeship
-  :url: "/wiki/Kostusin,_Masovian_Voivodeship"
+"/wiki/Germanic_languages":
+  :title: Germanic languages
+  :url: "/wiki/Germanic_languages"
+  :nextUrl: "/wiki/Indo-European_languages"
+"/wiki/Indo-European_languages":
+  :title: Indo-European languages
+  :url: "/wiki/Indo-European_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Language_family":
+  :title: Language family
+  :url: "/wiki/Language_family"
+  :nextUrl: "/wiki/Language"
+"/wiki/Action_Reaction":
+  :title: Action Reaction
+  :url: "/wiki/Action_Reaction"
+  :nextUrl: "/wiki/Post-punk"
+"/wiki/Post-punk":
+  :title: Post-punk
+  :url: "/wiki/Post-punk"
+  :nextUrl: "/wiki/Rock_music"
+"/wiki/Rock_music":
+  :title: Rock music
+  :url: "/wiki/Rock_music"
+  :nextUrl: "/wiki/Popular_music"
+"/wiki/Popular_music":
+  :title: Popular music
+  :url: "/wiki/Popular_music"
+  :nextUrl: "/wiki/Music_industry"
+"/wiki/Music_industry":
+  :title: Music industry
+  :url: "/wiki/Music_industry"
+  :nextUrl: "/wiki/Musical_composition"
+"/wiki/Musical_composition":
+  :title: Musical composition
+  :url: "/wiki/Musical_composition"
+  :nextUrl: "/wiki/Music"
+"/wiki/Music":
+  :title: Music
+  :url: "/wiki/Music"
+  :nextUrl: "/wiki/Culture"
+"/wiki/Culture":
+  :title: Culture
+  :url: "/wiki/Culture"
+  :nextUrl: "/wiki/Social_behavior"
+"/wiki/Social_behavior":
+  :title: Social behavior
+  :url: "/wiki/Social_behavior"
+  :nextUrl: "/wiki/Behavior"
+"/wiki/Behavior":
+  :title: Behavior
+  :url: "/wiki/Behavior"
+  :nextUrl: "/wiki/American_English"
+"/wiki/American_English":
+  :title: American English
+  :url: "/wiki/American_English"
+  :nextUrl: "/wiki/United_States"
+"/wiki/United_States":
+  :title: United States
+  :url: "/wiki/United_States"
+  :nextUrl: "/wiki/Federal_republic"
+"/wiki/Federal_republic":
+  :title: Federal republic
+  :url: "/wiki/Federal_republic"
+  :nextUrl: "/wiki/Federation"
+"/wiki/Federation":
+  :title: Federation
+  :url: "/wiki/Federation"
+  :nextUrl: "/wiki/Polity"
+"/wiki/Polity":
+  :title: Polity
+  :url: "/wiki/Polity"
+  :nextUrl: "/wiki/Identity_(social_science)"
+"/wiki/Identity_(social_science)":
+  :title: Identity (social science)
+  :url: "/wiki/Identity_(social_science)"
+  :nextUrl: "/wiki/Psychology"
+"/wiki/Psychology":
+  :title: Psychology
+  :url: "/wiki/Psychology"
+  :nextUrl: "/wiki/Science"
+"/wiki/Science":
+  :title: Science
+  :url: "/wiki/Science"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Obhur_Creek":
+  :title: Obhur Creek
+  :url: "/wiki/Obhur_Creek"
+  :nextUrl: "/wiki/Creek_(tidal)"
+"/wiki/Creek_(tidal)":
+  :title: Creek (tidal)
+  :url: "/wiki/Creek_(tidal)"
+  :nextUrl: "/wiki/Estuary"
+"/wiki/Estuary":
+  :title: Estuary
+  :url: "/wiki/Estuary"
+  :nextUrl: "/wiki/Brackish_water"
+"/wiki/Brackish_water":
+  :title: Brackish water
+  :url: "/wiki/Brackish_water"
+  :nextUrl: "/wiki/Salinity"
+"/wiki/Salinity":
+  :title: Salinity
+  :url: "/wiki/Salinity"
+  :nextUrl: "/wiki/Salt_(chemistry)"
+"/wiki/Salt_(chemistry)":
+  :title: Salt (chemistry)
+  :url: "/wiki/Salt_(chemistry)"
+  :nextUrl: "/wiki/Chemistry"
+"/wiki/Chemistry":
+  :title: Chemistry
+  :url: "/wiki/Chemistry"
+  :nextUrl: "/wiki/Chemical_compound"
+"/wiki/Chemical_compound":
+  :title: Chemical compound
+  :url: "/wiki/Chemical_compound"
+  :nextUrl: "/wiki/Chemical_substance"
+"/wiki/Chemical_substance":
+  :title: Chemical substance
+  :url: "/wiki/Chemical_substance"
+  :nextUrl: "/wiki/Matter"
+"/wiki/Cuckoo-finch":
+  :title: Cuckoo-finch
+  :url: "/wiki/Cuckoo-finch"
+  :nextUrl: "/wiki/Passerine"
+"/wiki/Passerine":
+  :title: Passerine
+  :url: "/wiki/Passerine"
+  :nextUrl: "/wiki/Bird"
+"/wiki/Bird":
+  :title: Bird
+  :url: "/wiki/Bird"
+  :nextUrl: "/wiki/Endotherm"
+"/wiki/Endotherm":
+  :title: Endotherm
+  :url: "/wiki/Endotherm"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Jo%C3%ABl_Vermin":
+  :title: Joël Vermin
+  :url: "/wiki/Jo%C3%ABl_Vermin"
+  :nextUrl: "/wiki/Switzerland"
+"/wiki/Switzerland":
+  :title: Switzerland
+  :url: "/wiki/Switzerland"
+  :nextUrl: "/wiki/Federal_republic"
+"/wiki/Beatrice_Vio":
+  :title: Beatrice Vio
+  :url: "/wiki/Beatrice_Vio"
+  :nextUrl: "/wiki/Italy"
+"/wiki/Italy":
+  :title: Italy
+  :url: "/wiki/Italy"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Ferdinand_Runk":
+  :title: Ferdinand Runk
+  :url: "/wiki/Ferdinand_Runk"
+  :nextUrl: "/wiki/Academy_of_Fine_Arts_Vienna"
+"/wiki/Academy_of_Fine_Arts_Vienna":
+  :title: Academy of Fine Arts Vienna
+  :url: "/wiki/Academy_of_Fine_Arts_Vienna"
+  :nextUrl: "/wiki/German_language"
+"/wiki/German_language":
+  :title: German language
+  :url: "/wiki/German_language"
+  :nextUrl: "/wiki/West_Germanic_languages"
+"/wiki/West_Germanic_languages":
+  :title: West Germanic languages
+  :url: "/wiki/West_Germanic_languages"
+  :nextUrl: "/wiki/Germanic_languages"
+"/wiki/V%C3%A4rati":
+  :title: Värati
+  :url: "/wiki/V%C3%A4rati"
+  :nextUrl: "/wiki/T%C3%B5stamaa_Parish"
+"/wiki/T%C3%B5stamaa_Parish":
+  :title: Tõstamaa Parish
+  :url: "/wiki/T%C3%B5stamaa_Parish"
+  :nextUrl: "/wiki/Estonian_language"
+"/wiki/Estonian_language":
+  :title: Estonian language
+  :url: "/wiki/Estonian_language"
+  :nextUrl: "/wiki/Estonia"
+"/wiki/Estonia":
+  :title: Estonia
+  :url: "/wiki/Estonia"
+  :nextUrl: "/wiki/Estonian_language"
+"/wiki/Jonathan_Carter_(politician)":
+  :title: Jonathan Carter (politician)
+  :url: "/wiki/Jonathan_Carter_(politician)"
+  :nextUrl: "/wiki/Governor_of_Maine"
+"/wiki/Governor_of_Maine":
+  :title: Governor of Maine
+  :url: "/wiki/Governor_of_Maine"
+  :nextUrl: "/wiki/Head_of_government"
+"/wiki/Head_of_government":
+  :title: Head of government
+  :url: "/wiki/Head_of_government"
+  :nextUrl: "/wiki/Sovereign_state"
+"/wiki/Sovereign_state":
+  :title: Sovereign state
+  :url: "/wiki/Sovereign_state"
+  :nextUrl: "/wiki/International_law"
+"/wiki/International_law":
+  :title: International law
+  :url: "/wiki/International_law"
+  :nextUrl: "/wiki/State_(polity)"
+"/wiki/State_(polity)":
+  :title: State (polity)
+  :url: "/wiki/State_(polity)"
+  :nextUrl: "/wiki/Politics"
+"/wiki/Politics":
+  :title: Politics
+  :url: "/wiki/Politics"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/The_Heartbreaks":
+  :title: The Heartbreaks
+  :url: "/wiki/The_Heartbreaks"
+  :nextUrl: "/wiki/Alternative_rock"
+"/wiki/Alternative_rock":
+  :title: Alternative rock
+  :url: "/wiki/Alternative_rock"
+  :nextUrl: "/wiki/Rock_music"
+"/wiki/J.W._Harris_(bull_rider)":
+  :title: J.W. Harris (bull rider)
+  :url: "/wiki/J.W._Harris_(bull_rider)"
+  :nextUrl: "/wiki/Bull_riding"
+"/wiki/Bull_riding":
+  :title: Bull riding
+  :url: "/wiki/Bull_riding"
+  :nextUrl: "/wiki/Rodeo"
+"/wiki/Rodeo":
+  :title: Rodeo
+  :url: "/wiki/Rodeo"
+  :nextUrl: "/wiki/Vaquero"
+"/wiki/Vaquero":
+  :title: Vaquero
+  :url: "/wiki/Vaquero"
+  :nextUrl: "/wiki/Portuguese_language"
+"/wiki/Portuguese_language":
+  :title: Portuguese language
+  :url: "/wiki/Portuguese_language"
+  :nextUrl: "/wiki/Western_Romance_languages"
+"/wiki/Western_Romance_languages":
+  :title: Western Romance languages
+  :url: "/wiki/Western_Romance_languages"
+  :nextUrl: "/wiki/Romance_languages"
+"/wiki/Joe_and_Max":
+  :title: Joe and Max
+  :url: "/wiki/Joe_and_Max"
+  :nextUrl: "/wiki/List_of_sports_films#Boxing"
+"/wiki/List_of_sports_films#Boxing":
+  :title: List of sports films
+  :url: "/wiki/List_of_sports_films#Boxing"
+  :nextUrl: "/wiki/Sports_film"
+"/wiki/Sports_film":
+  :title: Sports film
+  :url: "/wiki/Sports_film"
+  :nextUrl: "/wiki/Film_genre"
+"/wiki/Film_genre":
+  :title: Film genre
+  :url: "/wiki/Film_genre"
+  :nextUrl: "/wiki/Narrative"
+"/wiki/Narrative":
+  :title: Narrative
+  :url: "/wiki/Narrative"
+  :nextUrl: "/wiki/Non-fiction"
+"/wiki/Non-fiction":
+  :title: Non-fiction
+  :url: "/wiki/Non-fiction"
+  :nextUrl: "/wiki/Content_(media)"
+"/wiki/Content_(media)":
+  :title: Content (media)
+  :url: "/wiki/Content_(media)"
+  :nextUrl: "/wiki/Information"
+"/wiki/Information":
+  :title: Information
+  :url: "/wiki/Information"
+  :nextUrl: "/wiki/Data"
+"/wiki/Data":
+  :title: Data
+  :url: "/wiki/Data"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Aminta_Buena%C3%B1o":
+  :title: Aminta Buenaño
+  :url: "/wiki/Aminta_Buena%C3%B1o"
+  :nextUrl: "/wiki/Santa_Luc%C3%ADa_Canton"
+"/wiki/Santa_Luc%C3%ADa_Canton":
+  :title: Santa Lucía Canton
+  :url: "/wiki/Santa_Luc%C3%ADa_Canton"
+  :nextUrl: "/wiki/Cantons_of_Ecuador"
+"/wiki/Cantons_of_Ecuador":
+  :title: Cantons of Ecuador
+  :url: "/wiki/Cantons_of_Ecuador"
+  :nextUrl: "/wiki/Ecuador"
+"/wiki/Ecuador":
+  :title: Ecuador
+  :url: "/wiki/Ecuador"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/West_Jordan_High_School":
+  :title: West Jordan High School
+  :url: "/wiki/West_Jordan_High_School"
+  :nextUrl: "/wiki/Secondary_school"
+"/wiki/Secondary_school":
+  :title: Secondary school
+  :url: "/wiki/Secondary_school"
+  :nextUrl: "/wiki/Secondary_education"
+"/wiki/Secondary_education":
+  :title: Secondary education
+  :url: "/wiki/Secondary_education"
+  :nextUrl: "/wiki/International_Standard_Classification_of_Education"
+"/wiki/International_Standard_Classification_of_Education":
+  :title: International Standard Classification of Education
+  :url: "/wiki/International_Standard_Classification_of_Education"
+  :nextUrl: "/wiki/Education"
+"/wiki/Education":
+  :title: Education
+  :url: "/wiki/Education"
+  :nextUrl: "/wiki/Learning"
+"/wiki/Learning":
+  :title: Learning
+  :url: "/wiki/Learning"
+  :nextUrl: "/wiki/Knowledge"
+"/wiki/List_of_Test_cricket_umpires":
+  :title: List of Test cricket umpires
+  :url: "/wiki/List_of_Test_cricket_umpires"
+  :nextUrl: "/wiki/Umpire_(cricket)"
+"/wiki/Umpire_(cricket)":
+  :title: Umpire (cricket)
+  :url: "/wiki/Umpire_(cricket)"
+  :nextUrl: "/wiki/Cricket"
+"/wiki/Cricket":
+  :title: Cricket
+  :url: "/wiki/Cricket"
+  :nextUrl: "/wiki/Bat-and-ball_games"
+"/wiki/Bat-and-ball_games":
+  :title: Bat-and-ball games
+  :url: "/wiki/Bat-and-ball_games"
+  :nextUrl: "/wiki/Golf"
+"/wiki/Golf":
+  :title: Golf
+  :url: "/wiki/Golf"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Sport":
+  :title: Sport
+  :url: "/wiki/Sport"
+  :nextUrl: "/wiki/British_English"
+"/wiki/British_English":
+  :title: British English
+  :url: "/wiki/British_English"
+  :nextUrl: "/wiki/English_language"
+"/wiki/English_language":
+  :title: English language
+  :url: "/wiki/English_language"
+  :nextUrl: "/wiki/West_Germanic_languages"
+"/wiki/2017_in_Switzerland":
+  :title: 2017 in Switzerland
+  :url: "/wiki/2017_in_Switzerland"
+  :nextUrl: "/wiki/Switzerland"
+"/wiki/Victorian_Railways_dining_cars":
+  :title: Victorian Railways dining cars
+  :url: "/wiki/Victorian_Railways_dining_cars"
+  :nextUrl: "/wiki/Victorian_Railways_E_type_carriage#Dining_cars"
+"/wiki/Victorian_Railways_E_type_carriage#Dining_cars":
+  :title: Victorian Railways E type carriage
+  :url: "/wiki/Victorian_Railways_E_type_carriage#Dining_cars"
+  :nextUrl: "/wiki/Passenger_car_(rail)"
+"/wiki/Passenger_car_(rail)":
+  :title: Passenger car (rail)
+  :url: "/wiki/Passenger_car_(rail)"
+  :nextUrl: "/wiki/United_Kingdom"
+"/wiki/United_Kingdom":
+  :title: United Kingdom
+  :url: "/wiki/United_Kingdom"
+  :nextUrl: "/wiki/Country"
+"/wiki/Country":
+  :title: Country
+  :url: "/wiki/Country"
+  :nextUrl: "/wiki/Political_geography"
+"/wiki/Political_geography":
+  :title: Political geography
+  :url: "/wiki/Political_geography"
+  :nextUrl: "/wiki/Politics"
+"/wiki/Sma%C3%AFl_Khabatou":
+  :title: Smaïl Khabatou
+  :url: "/wiki/Sma%C3%AFl_Khabatou"
+  :nextUrl: "/wiki/Association_football"
+"/wiki/Association_football":
+  :title: Association football
+  :url: "/wiki/Association_football"
+  :nextUrl: "/wiki/Team_sport"
+"/wiki/Team_sport":
+  :title: Team sport
+  :url: "/wiki/Team_sport"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Vladimir_Velichko":
+  :title: Vladimir Velichko
+  :url: "/wiki/Vladimir_Velichko"
+  :nextUrl: "/wiki/Russian_language"
+"/wiki/Russian_language":
+  :title: Russian language
+  :url: "/wiki/Russian_language"
+  :nextUrl: "/wiki/Romanization_of_Russian"
+"/wiki/Romanization_of_Russian":
+  :title: Romanization of Russian
+  :url: "/wiki/Romanization_of_Russian"
+  :nextUrl: "/wiki/Transliteration"
+"/wiki/Transliteration":
+  :title: Transliteration
+  :url: "/wiki/Transliteration"
+  :nextUrl: "/wiki/Conversion_of_scripts"
+"/wiki/Conversion_of_scripts":
+  :title: Conversion of scripts
+  :url: "/wiki/Conversion_of_scripts"
+  :nextUrl: "/wiki/Writing_system"
+"/wiki/Writing_system":
+  :title: Writing system
+  :url: "/wiki/Writing_system"
+  :nextUrl: "/wiki/Communication"
+"/wiki/Invincible_Ed":
+  :title: Invincible Ed
+  :url: "/wiki/Invincible_Ed"
+  :nextUrl: "/wiki/Graphic_novel"
+"/wiki/Graphic_novel":
+  :title: Graphic novel
+  :url: "/wiki/Graphic_novel"
+  :nextUrl: "/wiki/Comics"
+"/wiki/Comics":
+  :title: Comics
+  :url: "/wiki/Comics"
+  :nextUrl: "/wiki/Media_(communication)"
+"/wiki/Media_(communication)":
+  :title: Media (communication)
+  :url: "/wiki/Media_(communication)"
+  :nextUrl: "/wiki/Communication"
+"/wiki/Rugby_League_Raw":
+  :title: Rugby League Raw
+  :url: "/wiki/Rugby_League_Raw"
+  :nextUrl: "/wiki/BBC_Sport"
+"/wiki/BBC_Sport":
+  :title: BBC Sport
+  :url: "/wiki/BBC_Sport"
+  :nextUrl: "/wiki/BBC_North"
+"/wiki/BBC_North":
+  :title: BBC North
+  :url: "/wiki/BBC_North"
+  :nextUrl: "/wiki/Division_(business)"
+"/wiki/Division_(business)":
+  :title: Division (business)
+  :url: "/wiki/Division_(business)"
+  :nextUrl: "/wiki/Business"
+"/wiki/Business":
+  :title: Business
+  :url: "/wiki/Business"
+  :nextUrl: "/wiki/Organization"
+"/wiki/Organization":
+  :title: Organization
+  :url: "/wiki/Organization"
+  :nextUrl: "/wiki/Entity"
+"/wiki/Entity":
+  :title: Entity
+  :url: "/wiki/Entity"
+  :nextUrl: "/wiki/Existence"
+"/wiki/Existence":
+  :title: Existence
+  :url: "/wiki/Existence"
+  :nextUrl: "/wiki/Being"
+"/wiki/Being":
+  :title: Being
+  :url: "/wiki/Being"
+  :nextUrl: "/wiki/Objectivity_(philosophy)"
+"/wiki/Objectivity_(philosophy)":
+  :title: Objectivity (philosophy)
+  :url: "/wiki/Objectivity_(philosophy)"
+  :nextUrl: "/wiki/Philosophy"
+"/wiki/Philosophy":
+  :title: Philosophy
+  :url: "/wiki/Philosophy"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Areopagus_(poetry)":
+  :title: Areopagus (poetry)
+  :url: "/wiki/Areopagus_(poetry)"
+  :nextUrl: "/wiki/Poetry"
+"/wiki/Poetry":
+  :title: Poetry
+  :url: "/wiki/Poetry"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/St._Lewis,_Newfoundland_and_Labrador":
+  :title: St. Lewis, Newfoundland and Labrador
+  :url: "/wiki/St._Lewis,_Newfoundland_and_Labrador"
+  :nextUrl: "/wiki/Labrador"
+"/wiki/Labrador":
+  :title: Labrador
+  :url: "/wiki/Labrador"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Wallaceburg_and_District_Museum":
+  :title: Wallaceburg and District Museum
+  :url: "/wiki/Wallaceburg_and_District_Museum"
+  :nextUrl: "/wiki/Ontario"
+"/wiki/Ontario":
+  :title: Ontario
+  :url: "/wiki/Ontario"
+  :nextUrl: "/wiki/Provinces_and_territories_of_Canada"
+"/wiki/Provinces_and_territories_of_Canada":
+  :title: Provinces and territories of Canada
+  :url: "/wiki/Provinces_and_territories_of_Canada"
+  :nextUrl: "/wiki/Administrative_division"
+"/wiki/Administrative_division":
+  :title: Administrative division
+  :url: "/wiki/Administrative_division"
+  :nextUrl: "/wiki/Country"
+"/wiki/Chyler_Leigh":
+  :title: Chyler Leigh
+  :url: "/wiki/Chyler_Leigh"
+  :nextUrl: "/wiki/Not_Another_Teen_Movie"
+"/wiki/Not_Another_Teen_Movie":
+  :title: Not Another Teen Movie
+  :url: "/wiki/Not_Another_Teen_Movie"
+  :nextUrl: "/wiki/Teen_film"
+"/wiki/Teen_film":
+  :title: Teen film
+  :url: "/wiki/Teen_film"
+  :nextUrl: "/wiki/Film_genre"
+"/wiki/Chen_Tze-ming":
+  :title: Chen Tze-ming
+  :url: "/wiki/Chen_Tze-ming"
+  :nextUrl: "/wiki/Taiwan"
+"/wiki/Taiwan":
+  :title: Taiwan
+  :url: "/wiki/Taiwan"
+  :nextUrl: "/wiki/Foreign_relations_of_Taiwan"
+"/wiki/Foreign_relations_of_Taiwan":
+  :title: Foreign relations of Taiwan
+  :url: "/wiki/Foreign_relations_of_Taiwan"
+  :nextUrl: "/wiki/Taiwan"
+"/wiki/Sychdyn":
+  :title: Sychdyn
+  :url: "/wiki/Sychdyn"
+  :nextUrl: "/wiki/English_language"
+"/wiki/Starbuck,_Minnesota":
+  :title: Starbuck, Minnesota
+  :url: "/wiki/Starbuck,_Minnesota"
+  :nextUrl: "/wiki/Pope_County,_Minnesota"
+"/wiki/Pope_County,_Minnesota":
+  :title: Pope County, Minnesota
+  :url: "/wiki/Pope_County,_Minnesota"
+  :nextUrl: "/wiki/County_(United_States)"
+"/wiki/County_(United_States)":
+  :title: County (United States)
+  :url: "/wiki/County_(United_States)"
+  :nextUrl: "/wiki/Administrative_division"
+"/wiki/Loftus_Jones":
+  :title: Loftus Jones
+  :url: "/wiki/Loftus_Jones"
+  :nextUrl: "/wiki/Commander"
+"/wiki/Commander":
+  :title: Commander
+  :url: "/wiki/Commander"
+  :nextUrl: "/wiki/Navy"
+"/wiki/Navy":
+  :title: Navy
+  :url: "/wiki/Navy"
+  :nextUrl: "/wiki/Military"
+"/wiki/Military":
+  :title: Military
+  :url: "/wiki/Military"
+  :nextUrl: "/wiki/Use_of_force"
+"/wiki/Use_of_force":
+  :title: Use of force
+  :url: "/wiki/Use_of_force"
+  :nextUrl: "/wiki/Law_enforcement"
+"/wiki/Law_enforcement":
+  :title: Law enforcement
+  :url: "/wiki/Law_enforcement"
+  :nextUrl: "/wiki/Society"
+"/wiki/35th_Japan_Academy_Prize":
+  :title: 35th Japan Academy Prize
+  :url: "/wiki/35th_Japan_Academy_Prize"
+  :nextUrl: "/wiki/Japan_Academy_Prize_(film_award)"
+"/wiki/Japan_Academy_Prize_(film_award)":
+  :title: Japan Academy Prize (film award)
+  :url: "/wiki/Japan_Academy_Prize_(film_award)"
+  :nextUrl: "/wiki/Japan"
+"/wiki/Japan":
+  :title: Japan
+  :url: "/wiki/Japan"
+  :nextUrl: "/wiki/Japanese_language"
+"/wiki/Japanese_language":
+  :title: Japanese language
+  :url: "/wiki/Japanese_language"
+  :nextUrl: "/wiki/East_Asian_languages"
+"/wiki/East_Asian_languages":
+  :title: East Asian languages
+  :url: "/wiki/East_Asian_languages"
+  :nextUrl: "/wiki/East_Asia"
+"/wiki/East_Asia":
+  :title: East Asia
+  :url: "/wiki/East_Asia"
+  :nextUrl: "/wiki/Subregion"
+"/wiki/Subregion":
+  :title: Subregion
+  :url: "/wiki/Subregion"
+  :nextUrl: "/wiki/Region"
+"/wiki/Region":
+  :title: Region
+  :url: "/wiki/Region"
+  :nextUrl: "/wiki/Geography"
+"/wiki/Geography":
+  :title: Geography
+  :url: "/wiki/Geography"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Vojkovice_(Fr%C3%BDdek-M%C3%ADstek_District)":
+  :title: Vojkovice (Frýdek-Místek District)
+  :url: "/wiki/Vojkovice_(Fr%C3%BDdek-M%C3%ADstek_District)"
+  :nextUrl: "/wiki/German_language"
+"/wiki/Massachusetts_Route_49":
+  :title: Massachusetts Route 49
+  :url: "/wiki/Massachusetts_Route_49"
+  :nextUrl: "/wiki/State_highway"
+"/wiki/State_highway":
+  :title: State highway
+  :url: "/wiki/State_highway"
+  :nextUrl: "/wiki/Route_number"
+"/wiki/Route_number":
+  :title: Route number
+  :url: "/wiki/Route_number"
+  :nextUrl: "/wiki/Numbered_street"
+"/wiki/Numbered_street":
+  :title: Numbered street
+  :url: "/wiki/Numbered_street"
+  :nextUrl: "/wiki/Route_number"
+"/wiki/Leo_Weilenmann":
+  :title: Leo Weilenmann
+  :url: "/wiki/Leo_Weilenmann"
+  :nextUrl: "/wiki/Cycle_sport"
+"/wiki/Cycle_sport":
+  :title: Cycle sport
+  :url: "/wiki/Cycle_sport"
+  :nextUrl: "/wiki/Competition"
+"/wiki/Competition":
+  :title: Competition
+  :url: "/wiki/Competition"
+  :nextUrl: "/wiki/Territory_(animal)"
+"/wiki/Territory_(animal)":
+  :title: Territory (animal)
+  :url: "/wiki/Territory_(animal)"
+  :nextUrl: "/wiki/Ethology"
+"/wiki/Ethology":
+  :title: Ethology
+  :url: "/wiki/Ethology"
+  :nextUrl: "/wiki/Scientific_method"
+"/wiki/Scientific_method":
+  :title: Scientific method
+  :url: "/wiki/Scientific_method"
+  :nextUrl: "/wiki/Scientific_technique"
+"/wiki/Scientific_technique":
+  :title: Scientific technique
+  :url: "/wiki/Scientific_technique"
+  :nextUrl: "/wiki/Systematic_process"
+"/wiki/Systematic_process":
+  :title: Systematic process
+  :url: "/wiki/Systematic_process"
+  :nextUrl: "/wiki/Critical_thinking"
+"/wiki/Critical_thinking":
+  :title: Critical thinking
+  :url: "/wiki/Critical_thinking"
+  :nextUrl: "/wiki/Objectivity_(philosophy)"
+"/wiki/Gerry_Humphreys":
+  :title: Gerry Humphreys
+  :url: "/wiki/Gerry_Humphreys"
+  :nextUrl: "/wiki/Audio_engineer"
+"/wiki/Audio_engineer":
+  :title: Audio engineer
+  :url: "/wiki/Audio_engineer"
+  :nextUrl: "/wiki/Sound_recording_and_reproduction"
+"/wiki/Sound_recording_and_reproduction":
+  :title: Sound recording and reproduction
+  :url: "/wiki/Sound_recording_and_reproduction"
+  :nextUrl: "/wiki/Electricity"
+"/wiki/Electricity":
+  :title: Electricity
+  :url: "/wiki/Electricity"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Walter_Bagehot":
+  :title: Walter Bagehot
+  :url: "/wiki/Walter_Bagehot"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Maldives_at_the_2017_World_Championships_in_Athletics":
+  :title: Maldives at the 2017 World Championships in Athletics
+  :url: "/wiki/Maldives_at_the_2017_World_Championships_in_Athletics"
+  :nextUrl: "/wiki/Maldives"
+"/wiki/Maldives":
+  :title: Maldives
+  :url: "/wiki/Maldives"
+  :nextUrl: "/wiki/Island_country"
+"/wiki/Island_country":
+  :title: Island country
+  :url: "/wiki/Island_country"
+  :nextUrl: "/wiki/Country"
+"/wiki/Lill-Babs":
+  :title: Lill-Babs
+  :url: "/wiki/Lill-Babs"
+  :nextUrl: "/wiki/Sweden"
+"/wiki/Sweden":
+  :title: Sweden
+  :url: "/wiki/Sweden"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Apple_II_serial_cards":
+  :title: Apple II serial cards
+  :url: "/wiki/Apple_II_serial_cards"
+  :nextUrl: "/wiki/Apple_II_peripheral_cards"
+"/wiki/Apple_II_peripheral_cards":
+  :title: Apple II peripheral cards
+  :url: "/wiki/Apple_II_peripheral_cards"
+  :nextUrl: "/wiki/Apple_II"
+"/wiki/Apple_II":
+  :title: Apple II
+  :url: "/wiki/Apple_II"
+  :nextUrl: "/wiki/8-bit"
+"/wiki/8-bit":
+  :title: 8-bit
+  :url: "/wiki/8-bit"
+  :nextUrl: "/wiki/Computer_architecture"
+"/wiki/Computer_architecture":
+  :title: Computer architecture
+  :url: "/wiki/Computer_architecture"
+  :nextUrl: "/wiki/Computer_engineering"
+"/wiki/Computer_engineering":
+  :title: Computer engineering
+  :url: "/wiki/Computer_engineering"
+  :nextUrl: "/wiki/Discipline_(academia)"
+"/wiki/Banda_district":
+  :title: Banda district
+  :url: "/wiki/Banda_district"
+  :nextUrl: "/wiki/List_of_districts_of_Uttar_Pradesh"
+"/wiki/List_of_districts_of_Uttar_Pradesh":
+  :title: List of districts of Uttar Pradesh
+  :url: "/wiki/List_of_districts_of_Uttar_Pradesh"
+  :nextUrl: "/wiki/Administrative_divisions_of_Uttar_Pradesh"
+"/wiki/Administrative_divisions_of_Uttar_Pradesh":
+  :title: Administrative divisions of Uttar Pradesh
+  :url: "/wiki/Administrative_divisions_of_Uttar_Pradesh"
+  :nextUrl: "/wiki/List_of_districts_of_Uttar_Pradesh"
+"/wiki/1979_in_motorsport":
+  :title: 1979 in motorsport
+  :url: "/wiki/1979_in_motorsport"
+  :nextUrl: "/wiki/Category:1979_in_motorsport"
+"/wiki/Category:1979_in_motorsport":
+  :title: Category:1979 in motorsport
+  :url: "/wiki/Category:1979_in_motorsport"
+  :nextUrl: "/wiki/Motorsport"
+"/wiki/Motorsport":
+  :title: Motorsport
+  :url: "/wiki/Motorsport"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Boats,_Beaches,_Bars_%26_Ballads":
+  :title: Boats, Beaches, Bars & Ballads
+  :url: "/wiki/Boats,_Beaches,_Bars_%26_Ballads"
+  :nextUrl: "/wiki/Compilation_album"
+"/wiki/Compilation_album":
+  :title: Compilation album
+  :url: "/wiki/Compilation_album"
+  :nextUrl: "/wiki/Album#Tracks"
+"/wiki/Album#Tracks":
+  :title: Album
+  :url: "/wiki/Album#Tracks"
+  :nextUrl: "/wiki/Compact_disc"
+"/wiki/Compact_disc":
+  :title: Compact disc
+  :url: "/wiki/Compact_disc"
+  :nextUrl: "/wiki/Digital_media"
+"/wiki/Digital_media":
+  :title: Digital media
+  :url: "/wiki/Digital_media"
+  :nextUrl: "/wiki/Media_(communication)"
+"/wiki/Kopli,_Rae_Parish":
+  :title: Kopli, Rae Parish
+  :url: "/wiki/Kopli,_Rae_Parish"
+  :nextUrl: "/wiki/Rae_Parish"
+"/wiki/Rae_Parish":
+  :title: Rae Parish
+  :url: "/wiki/Rae_Parish"
+  :nextUrl: "/wiki/Estonian_language"
+"/wiki/Kozio%C5%82ek,_Kuyavian-Pomeranian_Voivodeship":
+  :title: Koziołek, Kuyavian-Pomeranian Voivodeship
+  :url: "/wiki/Kozio%C5%82ek,_Kuyavian-Pomeranian_Voivodeship"
+  :nextUrl: "/wiki/Gmina_Sk%C4%99pe"
+"/wiki/Gmina_Sk%C4%99pe":
+  :title: Gmina Skępe
+  :url: "/wiki/Gmina_Sk%C4%99pe"
+  :nextUrl: "/wiki/Gmina"
+"/wiki/Gmina":
+  :title: Gmina
+  :url: "/wiki/Gmina"
+  :nextUrl: "/wiki/Polish_language"
+"/wiki/Polish_language":
+  :title: Polish language
+  :url: "/wiki/Polish_language"
+  :nextUrl: "/wiki/West_Slavic_languages"
+"/wiki/West_Slavic_languages":
+  :title: West Slavic languages
+  :url: "/wiki/West_Slavic_languages"
+  :nextUrl: "/wiki/Slavic_languages"
+"/wiki/Slavic_languages":
+  :title: Slavic languages
+  :url: "/wiki/Slavic_languages"
+  :nextUrl: "/wiki/Indo-European_languages"
+"/wiki/Koerberia_sonomensis":
+  :title: Koerberia sonomensis
+  :url: "/wiki/Koerberia_sonomensis"
+  :nextUrl: "/wiki/Foliose_lichen"
+"/wiki/Foliose_lichen":
+  :title: Foliose lichen
+  :url: "/wiki/Foliose_lichen"
+  :nextUrl: "/wiki/Lichen"
+"/wiki/Lichen":
+  :title: Lichen
+  :url: "/wiki/Lichen"
+  :nextUrl: "/wiki/Algae"
+"/wiki/Algae":
+  :title: Algae
+  :url: "/wiki/Algae"
+  :nextUrl: "/wiki/Photosynthesis"
+"/wiki/Photosynthesis":
+  :title: Photosynthesis
+  :url: "/wiki/Photosynthesis"
+  :nextUrl: "/wiki/Light"
+"/wiki/Light":
+  :title: Light
+  :url: "/wiki/Light"
+  :nextUrl: "/wiki/Electromagnetic_radiation"
+"/wiki/Electromagnetic_radiation":
+  :title: Electromagnetic radiation
+  :url: "/wiki/Electromagnetic_radiation"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Yuri_Shukanov":
+  :title: Yuri Shukanov
+  :url: "/wiki/Yuri_Shukanov"
+  :nextUrl: "/wiki/Belarusian_language"
+"/wiki/Belarusian_language":
+  :title: Belarusian language
+  :url: "/wiki/Belarusian_language"
+  :nextUrl: "/wiki/Belarus"
+"/wiki/Belarus":
+  :title: Belarus
+  :url: "/wiki/Belarus"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Everytime_(Tatyana_Ali_song)":
+  :title: Everytime (Tatyana Ali song)
+  :url: "/wiki/Everytime_(Tatyana_Ali_song)"
+  :nextUrl: "/wiki/Tatyana_Ali"
+"/wiki/Tatyana_Ali":
+  :title: Tatyana Ali
+  :url: "/wiki/Tatyana_Ali"
+  :nextUrl: "/wiki/List_of_The_Fresh_Prince_of_Bel-Air_characters#Ashley_Banks"
+"/wiki/List_of_The_Fresh_Prince_of_Bel-Air_characters#Ashley_Banks":
+  :title: List of The Fresh Prince of Bel-Air characters
+  :url: "/wiki/List_of_The_Fresh_Prince_of_Bel-Air_characters#Ashley_Banks"
+  :nextUrl: "/wiki/The_Fresh_Prince_of_Bel-Air"
+"/wiki/The_Fresh_Prince_of_Bel-Air":
+  :title: The Fresh Prince of Bel-Air
+  :url: "/wiki/The_Fresh_Prince_of_Bel-Air"
+  :nextUrl: "/wiki/NBC"
+"/wiki/NBC":
+  :title: NBC
+  :url: "/wiki/NBC"
+  :nextUrl: "/wiki/United_States"
+"/wiki/Merrill_carbine":
+  :title: Merrill carbine
+  :url: "/wiki/Merrill_carbine"
+  :nextUrl: "/wiki/Breech-loading_weapon"
+"/wiki/Breech-loading_weapon":
+  :title: Breech-loading weapon
+  :url: "/wiki/Breech-loading_weapon"
+  :nextUrl: "/wiki/Firearm"
+"/wiki/Firearm":
+  :title: Firearm
+  :url: "/wiki/Firearm"
+  :nextUrl: "/wiki/Gun"
+"/wiki/Gun":
+  :title: Gun
+  :url: "/wiki/Gun"
+  :nextUrl: "/wiki/Ranged_weapon"
+"/wiki/Ranged_weapon":
+  :title: Ranged weapon
+  :url: "/wiki/Ranged_weapon"
+  :nextUrl: "/wiki/Weapon"
+"/wiki/Weapon":
+  :title: Weapon
+  :url: "/wiki/Weapon"
+  :nextUrl: "/wiki/Hunting"
+"/wiki/Hunting":
+  :title: Hunting
+  :url: "/wiki/Hunting"
+  :nextUrl: "/wiki/Wildlife"
+"/wiki/Wildlife":
+  :title: Wildlife
+  :url: "/wiki/Wildlife"
+  :nextUrl: "/wiki/Domestication"
+"/wiki/Domestication":
+  :title: Domestication
+  :url: "/wiki/Domestication"
+  :nextUrl: "/wiki/Charles_Darwin"
+"/wiki/Charles_Darwin":
+  :title: Charles Darwin
+  :url: "/wiki/Charles_Darwin"
+  :nextUrl: "/wiki/Fellow_of_the_Royal_Society"
+"/wiki/Fellow_of_the_Royal_Society":
+  :title: Fellow of the Royal Society
+  :url: "/wiki/Fellow_of_the_Royal_Society"
+  :nextUrl: "/wiki/Royal_Society"
+"/wiki/Royal_Society":
+  :title: Royal Society
+  :url: "/wiki/Royal_Society"
+  :nextUrl: "/wiki/Learned_society"
+"/wiki/Learned_society":
+  :title: Learned society
+  :url: "/wiki/Learned_society"
+  :nextUrl: "/wiki/Organization"
+"/wiki/The_I_Live_Here_Projects":
+  :title: The I Live Here Projects
+  :url: "/wiki/The_I_Live_Here_Projects"
+  :nextUrl: "/wiki/United_States"
+"/wiki/BT_Riverside_Tower":
+  :title: BT Riverside Tower
+  :url: "/wiki/BT_Riverside_Tower"
+  :nextUrl: "/wiki/BT_Group"
+"/wiki/BT_Group":
+  :title: BT Group
+  :url: "/wiki/BT_Group"
+  :nextUrl: "/wiki/Trade_name"
+"/wiki/Trade_name":
+  :title: Trade name
+  :url: "/wiki/Trade_name"
+  :nextUrl: "/wiki/Pseudonym"
+"/wiki/Pseudonym":
+  :title: Pseudonym
+  :url: "/wiki/Pseudonym"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/James_Kamsickas":
+  :title: James Kamsickas
+  :url: "/wiki/James_Kamsickas"
+  :nextUrl: "/wiki/Dana_Incorporated"
+"/wiki/Dana_Incorporated":
+  :title: Dana Incorporated
+  :url: "/wiki/Dana_Incorporated"
+  :nextUrl: "/wiki/Fortune_500"
+"/wiki/Fortune_500":
+  :title: Fortune 500
+  :url: "/wiki/Fortune_500"
+  :nextUrl: "/wiki/Fortune_(magazine)"
+"/wiki/Fortune_(magazine)":
+  :title: Fortune (magazine)
+  :url: "/wiki/Fortune_(magazine)"
+  :nextUrl: "/wiki/Multinational_corporation"
+"/wiki/Multinational_corporation":
+  :title: Multinational corporation
+  :url: "/wiki/Multinational_corporation"
+  :nextUrl: "/wiki/Corporation"
+"/wiki/Corporation":
+  :title: Corporation
+  :url: "/wiki/Corporation"
+  :nextUrl: "/wiki/Company"
+"/wiki/Shock,_West_Virginia":
+  :title: Shock, West Virginia
+  :url: "/wiki/Shock,_West_Virginia"
+  :nextUrl: "/wiki/Unincorporated_area"
+"/wiki/Unincorporated_area":
+  :title: Unincorporated area
+  :url: "/wiki/Unincorporated_area"
+  :nextUrl: "/wiki/Real_property"
+"/wiki/Real_property":
+  :title: Real property
+  :url: "/wiki/Real_property"
+  :nextUrl: "/wiki/England"
+"/wiki/England":
+  :title: England
+  :url: "/wiki/England"
+  :nextUrl: "/wiki/Country"
+"/wiki/Provisional_Government_of_National_Unity":
+  :title: Provisional Government of National Unity
+  :url: "/wiki/Provisional_Government_of_National_Unity"
+  :nextUrl: "/wiki/State_National_Council"
+"/wiki/State_National_Council":
+  :title: State National Council
+  :url: "/wiki/State_National_Council"
+  :nextUrl: "/wiki/Polish_language"
+"/wiki/David_Sillence":
+  :title: David Sillence
+  :url: "/wiki/David_Sillence"
+  :nextUrl: "/wiki/Order_of_Australia#Levels_of_membership"
+"/wiki/Order_of_Australia#Levels_of_membership":
+  :title: Order of Australia
+  :url: "/wiki/Order_of_Australia#Levels_of_membership"
+  :nextUrl: "/wiki/Order_(distinction)"
+"/wiki/Order_(distinction)":
+  :title: Order (distinction)
+  :url: "/wiki/Order_(distinction)"
+  :nextUrl: "/wiki/Honour"
+"/wiki/Honour":
+  :title: Honour
+  :url: "/wiki/Honour"
+  :nextUrl: "/wiki/British_English"
+"/wiki/Joy_of_Living:_A_Tribute_to_Ewan_MacColl":
+  :title: 'Joy of Living: A Tribute to Ewan MacColl'
+  :url: "/wiki/Joy_of_Living:_A_Tribute_to_Ewan_MacColl"
+  :nextUrl: "/wiki/Ewan_MacColl"
+"/wiki/Ewan_MacColl":
+  :title: Ewan MacColl
+  :url: "/wiki/Ewan_MacColl"
+  :nextUrl: "/wiki/Folk_music"
+"/wiki/Folk_music":
+  :title: Folk music
+  :url: "/wiki/Folk_music"
+  :nextUrl: "/wiki/Tradition"
+"/wiki/Tradition":
+  :title: Tradition
+  :url: "/wiki/Tradition"
+  :nextUrl: "/wiki/Belief"
+"/wiki/Belief":
+  :title: Belief
+  :url: "/wiki/Belief"
+  :nextUrl: "/wiki/Mind"
+"/wiki/Mind":
+  :title: Mind
+  :url: "/wiki/Mind"
+  :nextUrl: "/wiki/Cognition"
+"/wiki/Cognition":
+  :title: Cognition
+  :url: "/wiki/Cognition"
+  :nextUrl: "/wiki/Knowledge"
+"/wiki/Frederick_Chauncy":
+  :title: Frederick Chauncy
+  :url: "/wiki/Frederick_Chauncy"
+  :nextUrl: "/wiki/Hurdling"
+"/wiki/Hurdling":
+  :title: Hurdling
+  :url: "/wiki/Hurdling"
+  :nextUrl: "/wiki/Hurdle"
+"/wiki/Hurdle":
+  :title: Hurdle
+  :url: "/wiki/Hurdle"
+  :nextUrl: "/wiki/Fence"
+"/wiki/Fence":
+  :title: Fence
+  :url: "/wiki/Fence"
+  :nextUrl: "/wiki/Wall"
+"/wiki/Wall":
+  :title: Wall
+  :url: "/wiki/Wall"
+  :nextUrl: "/wiki/Defensive_wall"
+"/wiki/Defensive_wall":
+  :title: Defensive wall
+  :url: "/wiki/Defensive_wall"
+  :nextUrl: "/wiki/Fortification"
+"/wiki/Fortification":
+  :title: Fortification
+  :url: "/wiki/Fortification"
+  :nextUrl: "/wiki/Military"
+"/wiki/Pseudomonas_costantinii":
+  :title: Pseudomonas costantinii
+  :url: "/wiki/Pseudomonas_costantinii"
+  :nextUrl: "/wiki/Gram-negative_bacteria"
+"/wiki/Gram-negative_bacteria":
+  :title: Gram-negative bacteria
+  :url: "/wiki/Gram-negative_bacteria"
+  :nextUrl: "/wiki/Bacteria"
+"/wiki/Bacteria":
+  :title: Bacteria
+  :url: "/wiki/Bacteria"
+  :nextUrl: "/wiki/Domain_(biology)"
+"/wiki/Domain_(biology)":
+  :title: Domain (biology)
+  :url: "/wiki/Domain_(biology)"
+  :nextUrl: "/wiki/Biology"
+"/wiki/Biology":
+  :title: Biology
+  :url: "/wiki/Biology"
+  :nextUrl: "/wiki/Natural_science"
+"/wiki/Natural_science":
+  :title: Natural science
+  :url: "/wiki/Natural_science"
+  :nextUrl: "/wiki/Science"
+"/wiki/List_of_number-one_Billboard_Hot_Tropical_Songs_of_2004":
+  :title: List of number-one Billboard Hot Tropical Songs of 2004
+  :url: "/wiki/List_of_number-one_Billboard_Hot_Tropical_Songs_of_2004"
+  :nextUrl: "/wiki/Tropical_Songs"
+"/wiki/Tropical_Songs":
+  :title: Tropical Songs
+  :url: "/wiki/Tropical_Songs"
+  :nextUrl: "/wiki/Record_chart"
+"/wiki/Record_chart":
+  :title: Record chart
+  :url: "/wiki/Record_chart"
+  :nextUrl: "/wiki/Sound_recording_and_reproduction"
+"/wiki/Trichauxa":
+  :title: Trichauxa
+  :url: "/wiki/Trichauxa"
+  :nextUrl: "/wiki/Genus"
+"/wiki/Genus":
+  :title: Genus
+  :url: "/wiki/Genus"
+  :nextUrl: "/wiki/Taxonomy_(biology)"
+"/wiki/Taxonomy_(biology)":
+  :title: Taxonomy (biology)
+  :url: "/wiki/Taxonomy_(biology)"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Email_Surveillance":
+  :title: Email Surveillance
+  :url: "/wiki/Email_Surveillance"
+  :nextUrl: "/wiki/The_Office_(U.S._season_2)"
+"/wiki/The_Office_(U.S._season_2)":
+  :title: The Office (U.S. season 2)
+  :url: "/wiki/The_Office_(U.S._season_2)"
+  :nextUrl: "/wiki/Sitcom"
+"/wiki/Sitcom":
+  :title: Sitcom
+  :url: "/wiki/Sitcom"
+  :nextUrl: "/wiki/Portmanteau"
+"/wiki/Portmanteau":
+  :title: Portmanteau
+  :url: "/wiki/Portmanteau"
+  :nextUrl: "/wiki/Linguistics"
+"/wiki/Robert_Johnson%27s_Tombstone":
+  :title: Robert Johnson's Tombstone
+  :url: "/wiki/Robert_Johnson%27s_Tombstone"
+  :nextUrl: "/wiki/Album"
+"/wiki/Album":
+  :title: Album
+  :url: "/wiki/Album"
+  :nextUrl: "/wiki/Compact_disc"
+"/wiki/Robert_McHugh":
+  :title: Robert McHugh
+  :url: "/wiki/Robert_McHugh"
+  :nextUrl: "/wiki/Association_football"
+"/wiki/J%C3%B6rg_Kirsten":
+  :title: Jörg Kirsten
+  :url: "/wiki/J%C3%B6rg_Kirsten"
+  :nextUrl: "/wiki/Association_football"
+"/wiki/Municipal_Corporations_Act_1835":
+  :title: Municipal Corporations Act 1835
+  :url: "/wiki/Municipal_Corporations_Act_1835"
+  :nextUrl: "/wiki/Act_of_Parliament"
+"/wiki/Act_of_Parliament":
+  :title: Act of Parliament
+  :url: "/wiki/Act_of_Parliament"
+  :nextUrl: "/wiki/Primary_and_secondary_legislation"
+"/wiki/Primary_and_secondary_legislation":
+  :title: Primary and secondary legislation
+  :url: "/wiki/Primary_and_secondary_legislation"
+  :nextUrl: "/wiki/Parliamentary_system"
+"/wiki/Parliamentary_system":
+  :title: Parliamentary system
+  :url: "/wiki/Parliamentary_system"
+  :nextUrl: "/wiki/Democracy"
+"/wiki/Democracy":
+  :title: Democracy
+  :url: "/wiki/Democracy"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Youlton":
+  :title: Youlton
+  :url: "/wiki/Youlton"
+  :nextUrl: "/wiki/Civil_parish"
+"/wiki/Civil_parish":
+  :title: Civil parish
+  :url: "/wiki/Civil_parish"
+  :nextUrl: "/wiki/England"
+"/wiki/Gaither_Homecoming":
+  :title: Gaither Homecoming
+  :url: "/wiki/Gaither_Homecoming"
+  :nextUrl: "/wiki/Video"
+"/wiki/Video":
+  :title: Video
+  :url: "/wiki/Video"
+  :nextUrl: "/wiki/Electronics"
+"/wiki/Electronics":
+  :title: Electronics
+  :url: "/wiki/Electronics"
+  :nextUrl: "/wiki/Science"
+"/wiki/George_Dunlop_(cricketer)":
+  :title: George Dunlop (cricketer)
+  :url: "/wiki/George_Dunlop_(cricketer)"
+  :nextUrl: "/wiki/Scottish_people"
+"/wiki/Scottish_people":
+  :title: Scottish people
+  :url: "/wiki/Scottish_people"
+  :nextUrl: "/wiki/Scots_language"
+"/wiki/Scots_language":
+  :title: Scots language
+  :url: "/wiki/Scots_language"
+  :nextUrl: "/wiki/Germanic_languages"
+"/wiki/1984_U.S._Open_(golf)":
+  :title: 1984 U.S. Open (golf)
+  :url: "/wiki/1984_U.S._Open_(golf)"
+  :nextUrl: "/wiki/U.S._Open_(golf)"
+"/wiki/U.S._Open_(golf)":
+  :title: U.S. Open (golf)
+  :url: "/wiki/U.S._Open_(golf)"
+  :nextUrl: "/wiki/Golf"
+"/wiki/USS_Butler_(DD-636)":
+  :title: USS Butler (DD-636)
+  :url: "/wiki/USS_Butler_(DD-636)"
+  :nextUrl: "/wiki/Gleaves-class_destroyer"
+"/wiki/Gleaves-class_destroyer":
+  :title: Gleaves-class destroyer
+  :url: "/wiki/Gleaves-class_destroyer"
+  :nextUrl: "/wiki/Destroyer"
+"/wiki/Destroyer":
+  :title: Destroyer
+  :url: "/wiki/Destroyer"
+  :nextUrl: "/wiki/Navy"
+"/wiki/Jangco":
+  :title: Jangco
+  :url: "/wiki/Jangco"
   :nextUrl: "/wiki/Village"
-- :title: Village
+"/wiki/Village":
+  :title: Village
   :url: "/wiki/Village"
   :nextUrl: "/wiki/Human_settlement"
-- :title: Human settlement
+"/wiki/Human_settlement":
+  :title: Human settlement
   :url: "/wiki/Human_settlement"
   :nextUrl: "/wiki/Geography"
-- :title: List of Mexicans by net worth
-  :url: "/wiki/List_of_Mexicans_by_net_worth"
-  :nextUrl: "/wiki/Billionaire"
-- :title: Billionaire
-  :url: "/wiki/Billionaire"
-  :nextUrl: "/wiki/Long_and_short_scales"
-- :title: Long and short scales
-  :url: "/wiki/Long_and_short_scales"
-  :nextUrl: "/wiki/Powers_of_10"
-- :title: Power of 10
-  :url: "/wiki/Power_of_10"
+"/wiki/George_E._Horton":
+  :title: George E. Horton
+  :url: "/wiki/George_E._Horton"
+  :nextUrl: "/wiki/Legislative_Assembly_of_New_Brunswick"
+"/wiki/Legislative_Assembly_of_New_Brunswick":
+  :title: Legislative Assembly of New Brunswick
+  :url: "/wiki/Legislative_Assembly_of_New_Brunswick"
+  :nextUrl: "/wiki/Legislative_assembly"
+"/wiki/Legislative_assembly":
+  :title: Legislative assembly
+  :url: "/wiki/Legislative_assembly"
+  :nextUrl: "/wiki/Legislature"
+"/wiki/Legislature":
+  :title: Legislature
+  :url: "/wiki/Legislature"
+  :nextUrl: "/wiki/Deliberative_assembly"
+"/wiki/Deliberative_assembly":
+  :title: Deliberative assembly
+  :url: "/wiki/Deliberative_assembly"
+  :nextUrl: "/wiki/Collective"
+"/wiki/Collective":
+  :title: Collective
+  :url: "/wiki/Collective"
+  :nextUrl: "/wiki/Wikipedia:Citation_needed"
+"/wiki/Wikipedia:Citation_needed":
+  :title: Wikipedia:Citation needed
+  :url: "/wiki/Wikipedia:Citation_needed"
+  :nextUrl: "/wiki/Wikipedia:Verifiability"
+"/wiki/Wikipedia:Verifiability":
+  :title: Wikipedia:Verifiability
+  :url: "/wiki/Wikipedia:Verifiability"
+  :nextUrl: "/wiki/Wikipedia:No_original_research"
+"/wiki/Wikipedia:No_original_research":
+  :title: Wikipedia:No original research
+  :url: "/wiki/Wikipedia:No_original_research"
+  :nextUrl: "/wiki/Wikipedia:Verifiability#Reliable_sources"
+"/wiki/Wikipedia:Verifiability#Reliable_sources":
+  :title: Wikipedia:Verifiability
+  :url: "/wiki/Wikipedia:Verifiability#Reliable_sources"
+  :nextUrl: "/wiki/Wikipedia:No_original_research"
+"/wiki/Ryan_Colburn":
+  :title: Ryan Colburn
+  :url: "/wiki/Ryan_Colburn"
+  :nextUrl: "/wiki/American_football"
+"/wiki/American_football":
+  :title: American football
+  :url: "/wiki/American_football"
+  :nextUrl: "/wiki/Offense_(sports)"
+"/wiki/Offense_(sports)":
+  :title: Offense (sports)
+  :url: "/wiki/Offense_(sports)"
+  :nextUrl: "/wiki/American_English"
+"/wiki/Ricc%C3%B2_del_Golfo_di_Spezia":
+  :title: Riccò del Golfo di Spezia
+  :url: "/wiki/Ricc%C3%B2_del_Golfo_di_Spezia"
+  :nextUrl: "/wiki/Comune"
+"/wiki/Comune":
+  :title: Comune
+  :url: "/wiki/Comune"
+  :nextUrl: "/wiki/Administrative_division"
+"/wiki/PSRL-1":
+  :title: PSRL-1
+  :url: "/wiki/PSRL-1"
+  :nextUrl: "/wiki/Practicing_without_a_license"
+"/wiki/Practicing_without_a_license":
+  :title: Practicing without a license
+  :url: "/wiki/Practicing_without_a_license"
+  :nextUrl: "/wiki/American_and_British_English_spelling_differences"
+"/wiki/American_and_British_English_spelling_differences":
+  :title: American and British English spelling differences
+  :url: "/wiki/American_and_British_English_spelling_differences"
+  :nextUrl: "/wiki/Spelling"
+"/wiki/Spelling":
+  :title: Spelling
+  :url: "/wiki/Spelling"
+  :nextUrl: "/wiki/Alphabet"
+"/wiki/Alphabet":
+  :title: Alphabet
+  :url: "/wiki/Alphabet"
+  :nextUrl: "/wiki/Letter_(alphabet)"
+"/wiki/Letter_(alphabet)":
+  :title: Letter (alphabet)
+  :url: "/wiki/Letter_(alphabet)"
+  :nextUrl: "/wiki/Grapheme"
+"/wiki/Grapheme":
+  :title: Grapheme
+  :url: "/wiki/Grapheme"
+  :nextUrl: "/wiki/Linguistics"
+"/wiki/Heteropsis_drepana":
+  :title: Heteropsis drepana
+  :url: "/wiki/Heteropsis_drepana"
+  :nextUrl: "/wiki/Butterfly"
+"/wiki/Butterfly":
+  :title: Butterfly
+  :url: "/wiki/Butterfly"
+  :nextUrl: "/wiki/Insect"
+"/wiki/Insect":
+  :title: Insect
+  :url: "/wiki/Insect"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Azure_Swimming_Pool":
+  :title: Azure Swimming Pool
+  :url: "/wiki/Azure_Swimming_Pool"
+  :nextUrl: "/wiki/Ukrainian_language"
+"/wiki/Ukrainian_language":
+  :title: Ukrainian language
+  :url: "/wiki/Ukrainian_language"
+  :nextUrl: "/wiki/East_Slavic_languages"
+"/wiki/East_Slavic_languages":
+  :title: East Slavic languages
+  :url: "/wiki/East_Slavic_languages"
+  :nextUrl: "/wiki/Slavic_languages"
+"/wiki/Rhodoneura":
+  :title: Rhodoneura
+  :url: "/wiki/Rhodoneura"
+  :nextUrl: "/wiki/Genus"
+"/wiki/Saved.":
+  :title: Saved.
+  :url: "/wiki/Saved."
+  :nextUrl: "/wiki/Maaya_Sakamoto"
+"/wiki/Maaya_Sakamoto":
+  :title: Maaya Sakamoto
+  :url: "/wiki/Maaya_Sakamoto"
+  :nextUrl: "/wiki/Voice_acting_in_Japan"
+"/wiki/Voice_acting_in_Japan":
+  :title: Voice acting in Japan
+  :url: "/wiki/Voice_acting_in_Japan"
+  :nextUrl: "/wiki/Narration"
+"/wiki/Narration":
+  :title: Narration
+  :url: "/wiki/Narration"
+  :nextUrl: "/wiki/Narrative"
+"/wiki/Georgios_Lassanis":
+  :title: Georgios Lassanis
+  :url: "/wiki/Georgios_Lassanis"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Coryanthes_verrucolineata":
+  :title: Coryanthes verrucolineata
+  :url: "/wiki/Coryanthes_verrucolineata"
+  :nextUrl: "/wiki/Coryanthes"
+"/wiki/Coryanthes":
+  :title: Coryanthes
+  :url: "/wiki/Coryanthes"
+  :nextUrl: "/wiki/Epiphyte"
+"/wiki/Epiphyte":
+  :title: Epiphyte
+  :url: "/wiki/Epiphyte"
+  :nextUrl: "/wiki/Epibiont"
+"/wiki/Epibiont":
+  :title: Epibiont
+  :url: "/wiki/Epibiont"
+  :nextUrl: "/wiki/Organism"
+"/wiki/Organism":
+  :title: Organism
+  :url: "/wiki/Organism"
+  :nextUrl: "/wiki/Biology"
+"/wiki/Dollhouse_Museum":
+  :title: Dollhouse Museum
+  :url: "/wiki/Dollhouse_Museum"
+  :nextUrl: "/wiki/German_language"
+"/wiki/H%C3%B6lzle":
+  :title: Hölzle
+  :url: "/wiki/H%C3%B6lzle"
+  :nextUrl: "/wiki/Frank_H%C3%B6lzle"
+"/wiki/Frank_H%C3%B6lzle":
+  :title: Frank Hölzle
+  :url: "/wiki/Frank_H%C3%B6lzle"
+  :nextUrl: "/wiki/Calw"
+"/wiki/Calw":
+  :title: Calw
+  :url: "/wiki/Calw"
+  :nextUrl: "/wiki/Town#Germany"
+"/wiki/Town#Germany":
+  :title: Town
+  :url: "/wiki/Town#Germany"
+  :nextUrl: "/wiki/Human_settlement"
+"/wiki/Ba%C3%ADa_de_Santa_Marta":
+  :title: Baía de Santa Marta
+  :url: "/wiki/Ba%C3%ADa_de_Santa_Marta"
+  :nextUrl: "/wiki/Angola"
+"/wiki/Angola":
+  :title: Angola
+  :url: "/wiki/Angola"
+  :nextUrl: "/wiki/Portuguese_language"
+"/wiki/Igel_Column":
+  :title: Igel Column
+  :url: "/wiki/Igel_Column"
+  :nextUrl: "/wiki/Roman_Empire"
+"/wiki/Roman_Empire":
+  :title: Roman Empire
+  :url: "/wiki/Roman_Empire"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Cryptocoryne_walkeri":
+  :title: Cryptocoryne walkeri
+  :url: "/wiki/Cryptocoryne_walkeri"
+  :nextUrl: "/wiki/Species"
+"/wiki/Species":
+  :title: Species
+  :url: "/wiki/Species"
+  :nextUrl: "/wiki/Biology"
+"/wiki/Mus%C3%A9e_Rath":
+  :title: Musée Rath
+  :url: "/wiki/Mus%C3%A9e_Rath"
+  :nextUrl: "/wiki/Art_museum"
+"/wiki/Art_museum":
+  :title: Art museum
+  :url: "/wiki/Art_museum"
+  :nextUrl: "/wiki/Art_exhibition"
+"/wiki/Art_exhibition":
+  :title: Art exhibition
+  :url: "/wiki/Art_exhibition"
+  :nextUrl: "/wiki/Art"
+"/wiki/Art":
+  :title: Art
+  :url: "/wiki/Art"
+  :nextUrl: "/wiki/Human_behavior"
+"/wiki/Human_behavior":
+  :title: Human behavior
+  :url: "/wiki/Human_behavior"
+  :nextUrl: "/wiki/Human"
+"/wiki/Human":
+  :title: Human
+  :url: "/wiki/Human"
+  :nextUrl: "/wiki/Homo_sapiens"
+"/wiki/Homo_sapiens":
+  :title: Homo sapiens
+  :url: "/wiki/Homo_sapiens"
+  :nextUrl: "/wiki/Taxonomy_(biology)"
+"/wiki/Episyron":
+  :title: Episyron
+  :url: "/wiki/Episyron"
+  :nextUrl: "/wiki/Spider_wasp"
+"/wiki/Spider_wasp":
+  :title: Spider wasp
+  :url: "/wiki/Spider_wasp"
+  :nextUrl: "/wiki/Cosmopolitan_distribution"
+"/wiki/Cosmopolitan_distribution":
+  :title: Cosmopolitan distribution
+  :url: "/wiki/Cosmopolitan_distribution"
+  :nextUrl: "/wiki/Biogeography"
+"/wiki/Biogeography":
+  :title: Biogeography
+  :url: "/wiki/Biogeography"
+  :nextUrl: "/wiki/Species"
+"/wiki/Beaver_Township,_Pike_County,_Ohio":
+  :title: Beaver Township, Pike County, Ohio
+  :url: "/wiki/Beaver_Township,_Pike_County,_Ohio"
+  :nextUrl: "/wiki/Civil_township"
+"/wiki/Civil_township":
+  :title: Civil township
+  :url: "/wiki/Civil_township"
+  :nextUrl: "/wiki/Local_government"
+"/wiki/Local_government":
+  :title: Local government
+  :url: "/wiki/Local_government"
+  :nextUrl: "/wiki/Public_administration"
+"/wiki/Public_administration":
+  :title: Public administration
+  :url: "/wiki/Public_administration"
+  :nextUrl: "/wiki/Public_policy"
+"/wiki/Public_policy":
+  :title: Public policy
+  :url: "/wiki/Public_policy"
+  :nextUrl: "/wiki/Executive_(government)"
+"/wiki/Executive_(government)":
+  :title: Executive (government)
+  :url: "/wiki/Executive_(government)"
+  :nextUrl: "/wiki/Authority"
+"/wiki/Authority":
+  :title: Authority
+  :url: "/wiki/Authority"
+  :nextUrl: "/wiki/Auctoritas"
+"/wiki/Auctoritas":
+  :title: Auctoritas
+  :url: "/wiki/Auctoritas"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Black_Paintings":
+  :title: Black Paintings
+  :url: "/wiki/Black_Paintings"
+  :nextUrl: "/wiki/Francisco_Goya"
+"/wiki/Francisco_Goya":
+  :title: Francisco Goya
+  :url: "/wiki/Francisco_Goya"
+  :nextUrl: "/wiki/Romanticism"
+"/wiki/Romanticism":
+  :title: Romanticism
+  :url: "/wiki/Romanticism"
+  :nextUrl: "/wiki/Industrial_Revolution"
+"/wiki/Industrial_Revolution":
+  :title: Industrial Revolution
+  :url: "/wiki/Industrial_Revolution"
+  :nextUrl: "/wiki/Craft_production"
+"/wiki/Craft_production":
+  :title: Craft production
+  :url: "/wiki/Craft_production"
+  :nextUrl: "/wiki/Handicraft"
+"/wiki/Handicraft":
+  :title: Handicraft
+  :url: "/wiki/Handicraft"
+  :nextUrl: "/wiki/Craft"
+"/wiki/Craft":
+  :title: Craft
+  :url: "/wiki/Craft"
+  :nextUrl: "/wiki/Profession"
+"/wiki/Profession":
+  :title: Profession
+  :url: "/wiki/Profession"
+  :nextUrl: "/wiki/Vocation"
+"/wiki/Vocation":
+  :title: Vocation
+  :url: "/wiki/Vocation"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Paget_Glacier":
+  :title: Paget Glacier
+  :url: "/wiki/Paget_Glacier"
+  :nextUrl: "/wiki/Glacier"
+"/wiki/Glacier":
+  :title: Glacier
+  :url: "/wiki/Glacier"
+  :nextUrl: "/wiki/American_English"
+"/wiki/Mwei_It":
+  :title: Mwei It
+  :url: "/wiki/Mwei_It"
+  :nextUrl: "/wiki/Burmese_language"
+"/wiki/Burmese_language":
+  :title: Burmese language
+  :url: "/wiki/Burmese_language"
+  :nextUrl: "/wiki/MLC_Transcription_System"
+"/wiki/MLC_Transcription_System":
+  :title: MLC Transcription System
+  :url: "/wiki/MLC_Transcription_System"
+  :nextUrl: "/wiki/Transliteration"
+"/wiki/Chicago_Film_Critics_Association_Awards_2007":
+  :title: Chicago Film Critics Association Awards 2007
+  :url: "/wiki/Chicago_Film_Critics_Association_Awards_2007"
+  :nextUrl: "/wiki/Chicago_Film_Critics_Association"
+"/wiki/Chicago_Film_Critics_Association":
+  :title: Chicago Film Critics Association
+  :url: "/wiki/Chicago_Film_Critics_Association"
+  :nextUrl: "/wiki/Film_criticism"
+"/wiki/Film_criticism":
+  :title: Film criticism
+  :url: "/wiki/Film_criticism"
+  :nextUrl: "/wiki/Film"
+"/wiki/Film":
+  :title: Film
+  :url: "/wiki/Film"
+  :nextUrl: "/wiki/Projection_screen"
+"/wiki/Projection_screen":
+  :title: Projection screen
+  :url: "/wiki/Projection_screen"
+  :nextUrl: "/wiki/Projector"
+"/wiki/Projector":
+  :title: Projector
+  :url: "/wiki/Projector"
+  :nextUrl: "/wiki/Optics"
+"/wiki/Optics":
+  :title: Optics
+  :url: "/wiki/Optics"
+  :nextUrl: "/wiki/Physics"
+"/wiki/1999_German_Skeleton_Championship":
+  :title: 1999 German Skeleton Championship
+  :url: "/wiki/1999_German_Skeleton_Championship"
+  :nextUrl: "/wiki/K%C3%B6nigssee"
+"/wiki/K%C3%B6nigssee":
+  :title: Königssee
+  :url: "/wiki/K%C3%B6nigssee"
+  :nextUrl: "/wiki/List_of_lakes_of_Germany"
+"/wiki/List_of_lakes_of_Germany":
+  :title: List of lakes of Germany
+  :url: "/wiki/List_of_lakes_of_Germany"
+  :nextUrl: "/wiki/Germany"
+"/wiki/Germany":
+  :title: Germany
+  :url: "/wiki/Germany"
+  :nextUrl: "/wiki/German_language"
+"/wiki/Recipients_of_the_Distinguished_Service_Award_of_the_Order_of_the_Arrow":
+  :title: Recipients of the Distinguished Service Award of the Order of the Arrow
+  :url: "/wiki/Recipients_of_the_Distinguished_Service_Award_of_the_Order_of_the_Arrow"
+  :nextUrl: "/wiki/Order_of_the_Arrow"
+"/wiki/Order_of_the_Arrow":
+  :title: Order of the Arrow
+  :url: "/wiki/Order_of_the_Arrow"
+  :nextUrl: "/wiki/Boy_Scouts_of_America"
+"/wiki/Boy_Scouts_of_America":
+  :title: Boy Scouts of America
+  :url: "/wiki/Boy_Scouts_of_America"
+  :nextUrl: "/wiki/Scouting"
+"/wiki/Scouting":
+  :title: Scouting
+  :url: "/wiki/Scouting"
+  :nextUrl: "/wiki/Cub_Scout"
+"/wiki/Cub_Scout":
+  :title: Cub Scout
+  :url: "/wiki/Cub_Scout"
+  :nextUrl: "/wiki/Scouting"
+"/wiki/Kanakampalayam":
+  :title: Kanakampalayam
+  :url: "/wiki/Kanakampalayam"
+  :nextUrl: "/wiki/Gram_panchayat"
+"/wiki/Gram_panchayat":
+  :title: Gram panchayat
+  :url: "/wiki/Gram_panchayat"
+  :nextUrl: "/wiki/Grassroots"
+"/wiki/Grassroots":
+  :title: Grassroots
+  :url: "/wiki/Grassroots"
+  :nextUrl: "/wiki/Political_movement"
+"/wiki/Political_movement":
+  :title: Political movement
+  :url: "/wiki/Political_movement"
+  :nextUrl: "/wiki/Social_science"
+"/wiki/The_Mutants":
+  :title: The Mutants
+  :url: "/wiki/The_Mutants"
+  :nextUrl: "/wiki/Doctor_Who_(season_9)"
+"/wiki/Doctor_Who_(season_9)":
+  :title: Doctor Who (season 9)
+  :url: "/wiki/Doctor_Who_(season_9)"
+  :nextUrl: "/wiki/Television_in_the_United_Kingdom"
+"/wiki/Television_in_the_United_Kingdom":
+  :title: Television in the United Kingdom
+  :url: "/wiki/Television_in_the_United_Kingdom"
+  :nextUrl: "/wiki/Free-to-air"
+"/wiki/Free-to-air":
+  :title: Free-to-air
+  :url: "/wiki/Free-to-air"
+  :nextUrl: "/wiki/Television"
+"/wiki/Television":
+  :title: Television
+  :url: "/wiki/Television"
+  :nextUrl: "/wiki/Monochrome"
+"/wiki/Monochrome":
+  :title: Monochrome
+  :url: "/wiki/Monochrome"
+  :nextUrl: "/wiki/Lightness"
+"/wiki/Lightness":
+  :title: Lightness
+  :url: "/wiki/Lightness"
+  :nextUrl: "/wiki/Colorimetry"
+"/wiki/Colorimetry":
+  :title: Colorimetry
+  :url: "/wiki/Colorimetry"
+  :nextUrl: "/wiki/Technology"
+"/wiki/Technology":
+  :title: Technology
+  :url: "/wiki/Technology"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/Buruli_ulcer":
+  :title: Buruli ulcer
+  :url: "/wiki/Buruli_ulcer"
+  :nextUrl: "/wiki/Infection"
+"/wiki/Infection":
+  :title: Infection
+  :url: "/wiki/Infection"
+  :nextUrl: "/wiki/Tissue_(biology)"
+"/wiki/Tissue_(biology)":
+  :title: Tissue (biology)
+  :url: "/wiki/Tissue_(biology)"
+  :nextUrl: "/wiki/Biology"
+"/wiki/SK_K%C3%B6lsch":
+  :title: SK Kölsch
+  :url: "/wiki/SK_K%C3%B6lsch"
+  :nextUrl: "/wiki/List_of_German_television_series"
+"/wiki/List_of_German_television_series":
+  :title: List of German television series
+  :url: "/wiki/List_of_German_television_series"
+  :nextUrl: "/wiki/Television_show#Seasons/series"
+"/wiki/Television_show#Seasons/series":
+  :title: Television show
+  :url: "/wiki/Television_show#Seasons/series"
+  :nextUrl: "/wiki/Terrestrial_television"
+"/wiki/Terrestrial_television":
+  :title: Terrestrial television
+  :url: "/wiki/Terrestrial_television"
+  :nextUrl: "/wiki/Television"
+"/wiki/Canonteign":
+  :title: Canonteign
+  :url: "/wiki/Canonteign"
+  :nextUrl: "/wiki/Tithing"
+"/wiki/Tithing":
+  :title: Tithing
+  :url: "/wiki/Tithing"
+  :nextUrl: "/wiki/Hide_(unit)"
+"/wiki/Hide_(unit)":
+  :title: Hide (unit)
+  :url: "/wiki/Hide_(unit)"
+  :nextUrl: "/wiki/English_units"
+"/wiki/English_units":
+  :title: English units
+  :url: "/wiki/English_units"
+  :nextUrl: "/wiki/Units_of_measurement"
+"/wiki/Units_of_measurement":
+  :title: Units of measurement
+  :url: "/wiki/Units_of_measurement"
+  :nextUrl: "/wiki/Magnitude_(mathematics)"
+"/wiki/Magnitude_(mathematics)":
+  :title: Magnitude (mathematics)
+  :url: "/wiki/Magnitude_(mathematics)"
+  :nextUrl: "/wiki/Mathematical_object"
+"/wiki/Mathematical_object":
+  :title: Mathematical object
+  :url: "/wiki/Mathematical_object"
+  :nextUrl: "/wiki/Abstract_and_concrete"
+"/wiki/Abstract_and_concrete":
+  :title: Abstract and concrete
+  :url: "/wiki/Abstract_and_concrete"
+  :nextUrl: "/wiki/Referent"
+"/wiki/Referent":
+  :title: Referent
+  :url: "/wiki/Referent"
+  :nextUrl: "/wiki/Name"
+"/wiki/Name":
+  :title: Name
+  :url: "/wiki/Name"
+  :nextUrl: "/wiki/Terminology"
+"/wiki/Terminology":
+  :title: Terminology
+  :url: "/wiki/Terminology"
+  :nextUrl: "/wiki/Word"
+"/wiki/Word":
+  :title: Word
+  :url: "/wiki/Word"
+  :nextUrl: "/wiki/Linguistics"
+"/wiki/Yao_Zhikui":
+  :title: Yao Zhikui
+  :url: "/wiki/Yao_Zhikui"
+  :nextUrl: "/wiki/Mixed_martial_arts"
+"/wiki/Mixed_martial_arts":
+  :title: Mixed martial arts
+  :url: "/wiki/Mixed_martial_arts"
+  :nextUrl: "/wiki/Combat_sport"
+"/wiki/Combat_sport":
+  :title: Combat sport
+  :url: "/wiki/Combat_sport"
+  :nextUrl: "/wiki/Contact_sport"
+"/wiki/Contact_sport":
+  :title: Contact sport
+  :url: "/wiki/Contact_sport"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Sead_Seferovi%C4%87":
+  :title: Sead Seferović
+  :url: "/wiki/Sead_Seferovi%C4%87"
+  :nextUrl: "/wiki/Bosnia_and_Herzegovina"
+"/wiki/Bosnia_and_Herzegovina":
+  :title: Bosnia and Herzegovina
+  :url: "/wiki/Bosnia_and_Herzegovina"
+  :nextUrl: "/wiki/Bosnian_language"
+"/wiki/Bosnian_language":
+  :title: Bosnian language
+  :url: "/wiki/Bosnian_language"
+  :nextUrl: "/wiki/Standard_language"
+"/wiki/Standard_language":
+  :title: Standard language
+  :url: "/wiki/Standard_language"
+  :nextUrl: "/wiki/Variety_(linguistics)"
+"/wiki/Variety_(linguistics)":
+  :title: Variety (linguistics)
+  :url: "/wiki/Variety_(linguistics)"
+  :nextUrl: "/wiki/Sociolinguistics"
+"/wiki/Estonia_at_the_2016_Summer_Olympics":
+  :title: Estonia at the 2016 Summer Olympics
+  :url: "/wiki/Estonia_at_the_2016_Summer_Olympics"
+  :nextUrl: "/wiki/Estonia"
+"/wiki/Northeast_Agricultural_University":
+  :title: Northeast Agricultural University
+  :url: "/wiki/Northeast_Agricultural_University"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+"/wiki/Simplified_Chinese_characters":
+  :title: Simplified Chinese characters
+  :url: "/wiki/Simplified_Chinese_characters"
+  :nextUrl: "/wiki/Chinese_characters"
+"/wiki/Chinese_characters":
+  :title: Chinese characters
+  :url: "/wiki/Chinese_characters"
+  :nextUrl: "/wiki/Logogram"
+"/wiki/Logogram":
+  :title: Logogram
+  :url: "/wiki/Logogram"
+  :nextUrl: "/wiki/Written_language"
+"/wiki/Written_language":
+  :title: Written language
+  :url: "/wiki/Written_language"
+  :nextUrl: "/wiki/Language"
+"/wiki/Malmberg":
+  :title: Malmberg
+  :url: "/wiki/Malmberg"
+  :nextUrl: "/wiki/Aino_Malmberg"
+"/wiki/Aino_Malmberg":
+  :title: Aino Malmberg
+  :url: "/wiki/Aino_Malmberg"
+  :nextUrl: "/wiki/Given_name#Name_at_birth"
+"/wiki/Given_name#Name_at_birth":
+  :title: Given name
+  :url: "/wiki/Given_name#Name_at_birth"
+  :nextUrl: "/wiki/Personal_name"
+"/wiki/Personal_name":
+  :title: Personal name
+  :url: "/wiki/Personal_name"
+  :nextUrl: "/wiki/Phrase"
+"/wiki/Phrase":
+  :title: Phrase
+  :url: "/wiki/Phrase"
+  :nextUrl: "/wiki/Linguistics#Analysis"
+"/wiki/Linguistics#Analysis":
+  :title: Linguistics
+  :url: "/wiki/Linguistics#Analysis"
+  :nextUrl: "/wiki/Language"
+"/wiki/%C4%8Cenkovo":
+  :title: Čenkovo
+  :url: "/wiki/%C4%8Cenkovo"
+  :nextUrl: "/wiki/Croatia"
+"/wiki/Croatia":
+  :title: Croatia
+  :url: "/wiki/Croatia"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Corine_Fairbanks":
+  :title: Corine Fairbanks
+  :url: "/wiki/Corine_Fairbanks"
+  :nextUrl: "/wiki/Oglala_Lakota"
+"/wiki/Oglala_Lakota":
+  :title: Oglala Lakota
+  :url: "/wiki/Oglala_Lakota"
+  :nextUrl: "/wiki/Lakota_language"
+"/wiki/Lakota_language":
+  :title: Lakota language
+  :url: "/wiki/Lakota_language"
+  :nextUrl: "/wiki/Siouan_languages"
+"/wiki/Siouan_languages":
+  :title: Siouan languages
+  :url: "/wiki/Siouan_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Joseph_R._Yost":
+  :title: Joseph R. Yost
+  :url: "/wiki/Joseph_R._Yost"
+  :nextUrl: "/wiki/Pearisburg,_Virginia"
+"/wiki/Pearisburg,_Virginia":
+  :title: Pearisburg, Virginia
+  :url: "/wiki/Pearisburg,_Virginia"
+  :nextUrl: "/wiki/Giles_County,_Virginia"
+"/wiki/Giles_County,_Virginia":
+  :title: Giles County, Virginia
+  :url: "/wiki/Giles_County,_Virginia"
+  :nextUrl: "/wiki/County_(United_States)"
+"/wiki/Fossegrim":
+  :title: Fossegrim
+  :url: "/wiki/Fossegrim"
+  :nextUrl: "/wiki/Scandinavian_folklore"
+"/wiki/Scandinavian_folklore":
+  :title: Scandinavian folklore
+  :url: "/wiki/Scandinavian_folklore"
+  :nextUrl: "/wiki/Folklore"
+"/wiki/Folklore":
+  :title: Folklore
+  :url: "/wiki/Folklore"
+  :nextUrl: "/wiki/Oral_tradition"
+"/wiki/Oral_tradition":
+  :title: Oral tradition
+  :url: "/wiki/Oral_tradition"
+  :nextUrl: "/wiki/Oral_history"
+"/wiki/Oral_history":
+  :title: Oral history
+  :url: "/wiki/Oral_history"
+  :nextUrl: "/wiki/Interview"
+"/wiki/Interview":
+  :title: Interview
+  :url: "/wiki/Interview"
+  :nextUrl: "/wiki/Conversation"
+"/wiki/Conversation":
+  :title: Conversation
+  :url: "/wiki/Conversation"
+  :nextUrl: "/wiki/Communication"
+"/wiki/Sylvester_James_Gates":
+  :title: Sylvester James Gates
+  :url: "/wiki/Sylvester_James_Gates"
+  :nextUrl: "/wiki/Theoretical_physics"
+"/wiki/Theoretical_physics":
+  :title: Theoretical physics
+  :url: "/wiki/Theoretical_physics"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Destination_Wedding":
+  :title: Destination Wedding
+  :url: "/wiki/Destination_Wedding"
+  :nextUrl: "/wiki/Keanu_Reeves"
+"/wiki/Keanu_Reeves":
+  :title: Keanu Reeves
+  :url: "/wiki/Keanu_Reeves"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/List_of_Cardcaptor_Sakura_characters":
+  :title: List of Cardcaptor Sakura characters
+  :url: "/wiki/List_of_Cardcaptor_Sakura_characters"
+  :nextUrl: "/wiki/Clamp_(manga_artists)"
+"/wiki/Clamp_(manga_artists)":
+  :title: Clamp (manga artists)
+  :url: "/wiki/Clamp_(manga_artists)"
+  :nextUrl: "/wiki/Mangaka"
+"/wiki/Mangaka":
+  :title: Mangaka
+  :url: "/wiki/Mangaka"
+  :nextUrl: "/wiki/Japanese_language"
+"/wiki/Montreal_Junior_Lacrosse_League":
+  :title: Montreal Junior Lacrosse League
+  :url: "/wiki/Montreal_Junior_Lacrosse_League"
+  :nextUrl: "/wiki/Box_lacrosse"
+"/wiki/Box_lacrosse":
+  :title: Box lacrosse
+  :url: "/wiki/Box_lacrosse"
+  :nextUrl: "/wiki/Lacrosse"
+"/wiki/Lacrosse":
+  :title: Lacrosse
+  :url: "/wiki/Lacrosse"
+  :nextUrl: "/wiki/Team_sport"
+"/wiki/International_Criminal_Court_judges_election,_2013":
+  :title: International Criminal Court judges election, 2013
+  :url: "/wiki/International_Criminal_Court_judges_election,_2013"
+  :nextUrl: "/wiki/Judges_of_the_International_Criminal_Court"
+"/wiki/Judges_of_the_International_Criminal_Court":
+  :title: Judges of the International Criminal Court
+  :url: "/wiki/Judges_of_the_International_Criminal_Court"
+  :nextUrl: "/wiki/International_Criminal_Court"
+"/wiki/International_Criminal_Court":
+  :title: International Criminal Court
+  :url: "/wiki/International_Criminal_Court"
+  :nextUrl: "/wiki/Intergovernmental_organization"
+"/wiki/Intergovernmental_organization":
+  :title: Intergovernmental organization
+  :url: "/wiki/Intergovernmental_organization"
+  :nextUrl: "/wiki/Organization"
+"/wiki/Something_Borrowed_(novel)":
+  :title: Something Borrowed (novel)
+  :url: "/wiki/Something_Borrowed_(novel)"
+  :nextUrl: "/wiki/Chick_lit"
+"/wiki/Chick_lit":
+  :title: Chick lit
+  :url: "/wiki/Chick_lit"
+  :nextUrl: "/wiki/Genre_fiction"
+"/wiki/Genre_fiction":
+  :title: Genre fiction
+  :url: "/wiki/Genre_fiction"
+  :nextUrl: "/wiki/Fiction"
+"/wiki/Fiction":
+  :title: Fiction
+  :url: "/wiki/Fiction"
+  :nextUrl: "/wiki/Narrative"
+"/wiki/Cotiso":
+  :title: Cotiso
+  :url: "/wiki/Cotiso"
+  :nextUrl: "/wiki/Dacia"
+"/wiki/Dacia":
+  :title: Dacia
+  :url: "/wiki/Dacia"
+  :nextUrl: "/wiki/Ancient_Rome"
+"/wiki/Ancient_Rome":
+  :title: Ancient Rome
+  :url: "/wiki/Ancient_Rome"
+  :nextUrl: "/wiki/Historiography"
+"/wiki/Historiography":
+  :title: Historiography
+  :url: "/wiki/Historiography"
+  :nextUrl: "/wiki/Historian"
+"/wiki/Historian":
+  :title: Historian
+  :url: "/wiki/Historian"
+  :nextUrl: "/wiki/Recorded_history"
+"/wiki/Recorded_history":
+  :title: Recorded history
+  :url: "/wiki/Recorded_history"
+  :nextUrl: "/wiki/History"
+"/wiki/History":
+  :title: History
+  :url: "/wiki/History"
+  :nextUrl: "/wiki/George_Santayana"
+"/wiki/George_Santayana":
+  :title: George Santayana
+  :url: "/wiki/George_Santayana"
+  :nextUrl: "/wiki/Intellectual#Man_of_Letters"
+"/wiki/Intellectual#Man_of_Letters":
+  :title: Intellectual
+  :url: "/wiki/Intellectual#Man_of_Letters"
+  :nextUrl: "/wiki/Critical_thinking"
+"/wiki/Florence_Pigott":
+  :title: Florence Pigott
+  :url: "/wiki/Florence_Pigott"
+  :nextUrl: "/wiki/Ballet"
+"/wiki/Ballet":
+  :title: Ballet
+  :url: "/wiki/Ballet"
+  :nextUrl: "/wiki/Concert_dance"
+"/wiki/Concert_dance":
+  :title: Concert dance
+  :url: "/wiki/Concert_dance"
+  :nextUrl: "/wiki/United_Kingdom"
+"/wiki/Radi%C4%87":
+  :title: Radić
+  :url: "/wiki/Radi%C4%87"
+  :nextUrl: "/wiki/South_Slavs"
+"/wiki/South_Slavs":
+  :title: South Slavs
+  :url: "/wiki/South_Slavs"
+  :nextUrl: "/wiki/Slavs"
+"/wiki/Slavs":
+  :title: Slavs
+  :url: "/wiki/Slavs"
+  :nextUrl: "/wiki/Proto-Indo-Europeans"
+"/wiki/Proto-Indo-Europeans":
+  :title: Proto-Indo-Europeans
+  :url: "/wiki/Proto-Indo-Europeans"
+  :nextUrl: "/wiki/Prehistory"
+"/wiki/Prehistory":
+  :title: Prehistory
+  :url: "/wiki/Prehistory"
+  :nextUrl: "/wiki/Stone_tool"
+"/wiki/Stone_tool":
+  :title: Stone tool
+  :url: "/wiki/Stone_tool"
+  :nextUrl: "/wiki/Rock_(geology)"
+"/wiki/Rock_(geology)":
+  :title: Rock (geology)
+  :url: "/wiki/Rock_(geology)"
+  :nextUrl: "/wiki/Aggregate_(geology)"
+"/wiki/Aggregate_(geology)":
+  :title: Aggregate (geology)
+  :url: "/wiki/Aggregate_(geology)"
+  :nextUrl: "/wiki/Earth_science"
+"/wiki/Earth_science":
+  :title: Earth science
+  :url: "/wiki/Earth_science"
+  :nextUrl: "/wiki/Science"
+"/wiki/Sufi_Ahmad":
+  :title: Sufi Ahmad
+  :url: "/wiki/Sufi_Ahmad"
+  :nextUrl: "/wiki/Persian_language"
+"/wiki/Persian_language":
+  :title: Persian language
+  :url: "/wiki/Persian_language"
+  :nextUrl: "/wiki/Exonym_and_endonym"
+"/wiki/Exonym_and_endonym":
+  :title: Exonym and endonym
+  :url: "/wiki/Exonym_and_endonym"
+  :nextUrl: "/wiki/Location_(geography)"
+"/wiki/Location_(geography)":
+  :title: Location (geography)
+  :url: "/wiki/Location_(geography)"
+  :nextUrl: "/wiki/Geography"
+"/wiki/Scythris_simplicella":
+  :title: Scythris simplicella
+  :url: "/wiki/Scythris_simplicella"
+  :nextUrl: "/wiki/Moth"
+"/wiki/Moth":
+  :title: Moth
+  :url: "/wiki/Moth"
+  :nextUrl: "/wiki/Insect"
+"/wiki/Tony_Sinclair_(biologist)":
+  :title: Tony Sinclair (biologist)
+  :url: "/wiki/Tony_Sinclair_(biologist)"
+  :nextUrl: "/wiki/Fellow_of_the_Royal_Society_of_Canada"
+"/wiki/Fellow_of_the_Royal_Society_of_Canada":
+  :title: Fellow of the Royal Society of Canada
+  :url: "/wiki/Fellow_of_the_Royal_Society_of_Canada"
+  :nextUrl: "/wiki/Royal_Society_of_Canada"
+"/wiki/Royal_Society_of_Canada":
+  :title: Royal Society of Canada
+  :url: "/wiki/Royal_Society_of_Canada"
+  :nextUrl: "/wiki/French_language"
+"/wiki/Marc_Senter":
+  :title: Marc Senter
+  :url: "/wiki/Marc_Senter"
+  :nextUrl: "/wiki/Red,_White_%26_Blue_(film)"
+"/wiki/Red,_White_%26_Blue_(film)":
+  :title: Red, White & Blue (film)
+  :url: "/wiki/Red,_White_%26_Blue_(film)"
+  :nextUrl: "/wiki/Simon_Rumley"
+"/wiki/Simon_Rumley":
+  :title: Simon Rumley
+  :url: "/wiki/Simon_Rumley"
+  :nextUrl: "/wiki/Screen_International"
+"/wiki/Screen_International":
+  :title: Screen International
+  :url: "/wiki/Screen_International"
+  :nextUrl: "/wiki/List_of_film_periodicals"
+"/wiki/List_of_film_periodicals":
+  :title: List of film periodicals
+  :url: "/wiki/List_of_film_periodicals"
+  :nextUrl: "/wiki/ProQuest"
+"/wiki/ProQuest":
+  :title: ProQuest
+  :url: "/wiki/ProQuest"
+  :nextUrl: "/wiki/Ann_Arbor,_Michigan"
+"/wiki/Ann_Arbor,_Michigan":
+  :title: Ann Arbor, Michigan
+  :url: "/wiki/Ann_Arbor,_Michigan"
+  :nextUrl: "/wiki/City"
+"/wiki/City":
+  :title: City
+  :url: "/wiki/City"
+  :nextUrl: "/wiki/Human_settlement"
+"/wiki/Benthota_Divisional_Secretariat":
+  :title: Benthota Divisional Secretariat
+  :url: "/wiki/Benthota_Divisional_Secretariat"
+  :nextUrl: "/wiki/Divisional_Secretariats_of_Sri_Lanka"
+"/wiki/Divisional_Secretariats_of_Sri_Lanka":
+  :title: Divisional Secretariats of Sri Lanka
+  :url: "/wiki/Divisional_Secretariats_of_Sri_Lanka"
+  :nextUrl: "/wiki/Districts_of_Sri_Lanka"
+"/wiki/Districts_of_Sri_Lanka":
+  :title: Districts of Sri Lanka
+  :url: "/wiki/Districts_of_Sri_Lanka"
+  :nextUrl: "/wiki/Sri_Lanka"
+"/wiki/Sri_Lanka":
+  :title: Sri Lanka
+  :url: "/wiki/Sri_Lanka"
+  :nextUrl: "/wiki/Sinhalese_language"
+"/wiki/Sinhalese_language":
+  :title: Sinhalese language
+  :url: "/wiki/Sinhalese_language"
+  :nextUrl: "/wiki/Sinhalese_people"
+"/wiki/Sinhalese_people":
+  :title: Sinhalese people
+  :url: "/wiki/Sinhalese_people"
+  :nextUrl: "/wiki/Sinhalese_language"
+"/wiki/Marguerite_(film)":
+  :title: Marguerite (film)
+  :url: "/wiki/Marguerite_(film)"
+  :nextUrl: "/wiki/Drama_(film_and_television)"
+"/wiki/Drama_(film_and_television)":
+  :title: Drama (film and television)
+  :url: "/wiki/Drama_(film_and_television)"
+  :nextUrl: "/wiki/Film"
+"/wiki/Jacob_%26_Josef_Kohn":
+  :title: Jacob & Josef Kohn
+  :url: "/wiki/Jacob_%26_Josef_Kohn"
+  :nextUrl: "/wiki/Austria"
+"/wiki/Austria":
+  :title: Austria
+  :url: "/wiki/Austria"
+  :nextUrl: "/wiki/German_language"
+"/wiki/First_Call":
+  :title: First Call
+  :url: "/wiki/First_Call"
+  :nextUrl: "/wiki/Contemporary_Christian_music"
+"/wiki/Contemporary_Christian_music":
+  :title: Contemporary Christian music
+  :url: "/wiki/Contemporary_Christian_music"
+  :nextUrl: "/wiki/Popular_music"
+"/wiki/Anaxidia_lactea":
+  :title: Anaxidia lactea
+  :url: "/wiki/Anaxidia_lactea"
+  :nextUrl: "/wiki/Moth"
+"/wiki/Laura_Allende":
+  :title: Laura Allende
+  :url: "/wiki/Laura_Allende"
+  :nextUrl: "/wiki/Chile"
+"/wiki/Chile":
+  :title: Chile
+  :url: "/wiki/Chile"
+  :nextUrl: "/wiki/Spanish_language"
+"/wiki/Spanish_language":
+  :title: Spanish language
+  :url: "/wiki/Spanish_language"
+  :nextUrl: "/wiki/Western_Romance_languages"
+"/wiki/Sevimli,_Hanak":
+  :title: Sevimli, Hanak
+  :url: "/wiki/Sevimli,_Hanak"
+  :nextUrl: "/wiki/Hanak"
+"/wiki/Hanak":
+  :title: Hanak
+  :url: "/wiki/Hanak"
+  :nextUrl: "/wiki/Ardahan_Province"
+"/wiki/Ardahan_Province":
+  :title: Ardahan Province
+  :url: "/wiki/Ardahan_Province"
+  :nextUrl: "/wiki/Turkish_language"
+"/wiki/Turkish_language":
+  :title: Turkish language
+  :url: "/wiki/Turkish_language"
+  :nextUrl: "/wiki/Turkic_languages"
+"/wiki/Turkic_languages":
+  :title: Turkic languages
+  :url: "/wiki/Turkic_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Transtillaspis_atheles":
+  :title: Transtillaspis atheles
+  :url: "/wiki/Transtillaspis_atheles"
+  :nextUrl: "/wiki/Moth"
+"/wiki/Georgia%27s_at-large_congressional_district":
+  :title: Georgia's at-large congressional district
+  :url: "/wiki/Georgia%27s_at-large_congressional_district"
+  :nextUrl: "/wiki/Georgia_(U.S._state)"
+"/wiki/Georgia_(U.S._state)":
+  :title: Georgia (U.S. state)
+  :url: "/wiki/Georgia_(U.S._state)"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Heartache_on_the_Dance_Floor":
+  :title: Heartache on the Dance Floor
+  :url: "/wiki/Heartache_on_the_Dance_Floor"
+  :nextUrl: "/wiki/Jon_Pardi"
+"/wiki/Jon_Pardi":
+  :title: Jon Pardi
+  :url: "/wiki/Jon_Pardi"
+  :nextUrl: "/wiki/Country_music"
+"/wiki/Country_music":
+  :title: Country music
+  :url: "/wiki/Country_music"
+  :nextUrl: "/wiki/Southern_United_States"
+"/wiki/Southern_United_States":
+  :title: Southern United States
+  :url: "/wiki/Southern_United_States"
+  :nextUrl: "/wiki/Dixie"
+"/wiki/Dixie":
+  :title: Dixie
+  :url: "/wiki/Dixie"
+  :nextUrl: "/wiki/Southern_United_States"
+"/wiki/Streptanthus_gracilis":
+  :title: Streptanthus gracilis
+  :url: "/wiki/Streptanthus_gracilis"
+  :nextUrl: "/wiki/Brassicaceae"
+"/wiki/Brassicaceae":
+  :title: Brassicaceae
+  :url: "/wiki/Brassicaceae"
+  :nextUrl: "/wiki/Family_(biology)"
+"/wiki/Family_(biology)":
+  :title: Family (biology)
+  :url: "/wiki/Family_(biology)"
+  :nextUrl: "/wiki/Taxonomy_(biology)"
+"/wiki/Goszcz":
+  :title: Goszcz
+  :url: "/wiki/Goszcz"
+  :nextUrl: "/wiki/German_language"
+"/wiki/Shiur_(Torah)":
+  :title: Shiur (Torah)
+  :url: "/wiki/Shiur_(Torah)"
+  :nextUrl: "/wiki/Hebrew_language"
+"/wiki/Hebrew_language":
+  :title: Hebrew language
+  :url: "/wiki/Hebrew_language"
+  :nextUrl: "/wiki/Northwest_Semitic_languages"
+"/wiki/Northwest_Semitic_languages":
+  :title: Northwest Semitic languages
+  :url: "/wiki/Northwest_Semitic_languages"
+  :nextUrl: "/wiki/Semitic_languages"
+"/wiki/Semitic_languages":
+  :title: Semitic languages
+  :url: "/wiki/Semitic_languages"
+  :nextUrl: "/wiki/Afroasiatic_languages"
+"/wiki/Afroasiatic_languages":
+  :title: Afroasiatic languages
+  :url: "/wiki/Afroasiatic_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Crayon_Shin-chan:_Saikyou_Kazoku_Kasukabe_King_Wii":
+  :title: 'Crayon Shin-chan: Saikyou Kazoku Kasukabe King Wii'
+  :url: "/wiki/Crayon_Shin-chan:_Saikyou_Kazoku_Kasukabe_King_Wii"
+  :nextUrl: "/wiki/Wii"
+"/wiki/Wii":
+  :title: Wii
+  :url: "/wiki/Wii"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Sunkarie_Kabba-Kamara":
+  :title: Sunkarie Kabba-Kamara
+  :url: "/wiki/Sunkarie_Kabba-Kamara"
+  :nextUrl: "/wiki/Sierra_Leone"
+"/wiki/Sierra_Leone":
+  :title: Sierra Leone
+  :url: "/wiki/Sierra_Leone"
+  :nextUrl: "/wiki/Country"
+"/wiki/Squabs_and_Squabbles":
+  :title: Squabs and Squabbles
+  :url: "/wiki/Squabs_and_Squabbles"
+  :nextUrl: "/wiki/Silent_film"
+"/wiki/Silent_film":
+  :title: Silent film
+  :url: "/wiki/Silent_film"
+  :nextUrl: "/wiki/Film"
+"/wiki/Gayatri":
+  :title: Gayatri
+  :url: "/wiki/Gayatri"
+  :nextUrl: "/wiki/Sanskrit"
+"/wiki/Sanskrit":
+  :title: Sanskrit
+  :url: "/wiki/Sanskrit"
+  :nextUrl: "/wiki/International_Alphabet_of_Sanskrit_Transliteration"
+"/wiki/International_Alphabet_of_Sanskrit_Transliteration":
+  :title: International Alphabet of Sanskrit Transliteration
+  :url: "/wiki/International_Alphabet_of_Sanskrit_Transliteration"
+  :nextUrl: "/wiki/Transliteration"
+"/wiki/Sadhu_Miranda":
+  :title: Sadhu Miranda
+  :url: "/wiki/Sadhu_Miranda"
+  :nextUrl: "/wiki/Category:Lang_and_lang-xx_template_errors"
+"/wiki/Category:Lang_and_lang-xx_template_errors":
+  :title: Category:Lang and lang-xx template errors
+  :url: "/wiki/Category:Lang_and_lang-xx_template_errors"
+  :nextUrl: "/wiki/Template:Lang"
+"/wiki/Template:Lang":
+  :title: Template:Lang
+  :url: "/wiki/Template:Lang"
+  :nextUrl: "/wiki/Template:Lang/doc"
+"/wiki/Template:Lang/doc":
+  :title: Template:Lang/doc
+  :url: "/wiki/Template:Lang/doc"
+  :nextUrl: "/wiki/Template:Lang"
+"/wiki/Joe_Millikan":
+  :title: Joe Millikan
+  :url: "/wiki/Joe_Millikan"
+  :nextUrl: "/wiki/Randleman,_North_Carolina"
+"/wiki/Randleman,_North_Carolina":
+  :title: Randleman, North Carolina
+  :url: "/wiki/Randleman,_North_Carolina"
+  :nextUrl: "/wiki/Randolph_County,_North_Carolina"
+"/wiki/Randolph_County,_North_Carolina":
+  :title: Randolph County, North Carolina
+  :url: "/wiki/Randolph_County,_North_Carolina"
+  :nextUrl: "/wiki/County_(United_States)"
+"/wiki/Avtandil_Jorbenadze":
+  :title: Avtandil Jorbenadze
+  :url: "/wiki/Avtandil_Jorbenadze"
+  :nextUrl: "/wiki/Prime_Minister_of_Georgia"
+"/wiki/Prime_Minister_of_Georgia":
+  :title: Prime Minister of Georgia
+  :url: "/wiki/Prime_Minister_of_Georgia"
+  :nextUrl: "/wiki/Cabinet_of_Georgia"
+"/wiki/Cabinet_of_Georgia":
+  :title: Cabinet of Georgia
+  :url: "/wiki/Cabinet_of_Georgia"
+  :nextUrl: "/wiki/Cabinet_(government)"
+"/wiki/Cabinet_(government)":
+  :title: Cabinet (government)
+  :url: "/wiki/Cabinet_(government)"
+  :nextUrl: "/wiki/State_(polity)"
+"/wiki/Tut_Ruach":
+  :title: Tut Ruach
+  :url: "/wiki/Tut_Ruach"
+  :nextUrl: "/wiki/Basketball"
+"/wiki/Basketball":
+  :title: Basketball
+  :url: "/wiki/Basketball"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Roger_Bowen":
+  :title: Roger Bowen
+  :url: "/wiki/Roger_Bowen"
+  :nextUrl: "/wiki/List_of_M*A*S*H_characters#Henry_Blake"
+"/wiki/List_of_M*A*S*H_characters#Henry_Blake":
+  :title: List of M*A*S*H characters
+  :url: "/wiki/List_of_M*A*S*H_characters#Henry_Blake"
+  :nextUrl: "/wiki/M*A*S*H"
+"/wiki/M*A*S*H":
+  :title: M*A*S*H
+  :url: "/wiki/M*A*S*H"
+  :nextUrl: "/wiki/20th_Century_Fox"
+"/wiki/20th_Century_Fox":
+  :title: 20th Century Fox
+  :url: "/wiki/20th_Century_Fox"
+  :nextUrl: "/wiki/Trade_name"
+"/wiki/Enric_Casals":
+  :title: Enric Casals
+  :url: "/wiki/Enric_Casals"
+  :nextUrl: "/wiki/Barcelona"
+"/wiki/Barcelona":
+  :title: Barcelona
+  :url: "/wiki/Barcelona"
+  :nextUrl: "/wiki/Spain"
+"/wiki/Spain":
+  :title: Spain
+  :url: "/wiki/Spain"
+  :nextUrl: "/wiki/Country"
+"/wiki/Good_to_See_You_Again,_Alice_Cooper":
+  :title: Good to See You Again, Alice Cooper
+  :url: "/wiki/Good_to_See_You_Again,_Alice_Cooper"
+  :nextUrl: "/wiki/Feature_film"
+"/wiki/Feature_film":
+  :title: Feature film
+  :url: "/wiki/Feature_film"
+  :nextUrl: "/wiki/Film"
+"/wiki/Basketball_at_the_1968_Summer_Olympics":
+  :title: Basketball at the 1968 Summer Olympics
+  :url: "/wiki/Basketball_at_the_1968_Summer_Olympics"
+  :nextUrl: "/wiki/Basketball"
+"/wiki/Mordellina_palleola":
+  :title: Mordellina palleola
+  :url: "/wiki/Mordellina_palleola"
+  :nextUrl: "/wiki/Beetle"
+"/wiki/Beetle":
+  :title: Beetle
+  :url: "/wiki/Beetle"
+  :nextUrl: "/wiki/Insect"
+"/wiki/Husri":
+  :title: Husri
+  :url: "/wiki/Husri"
+  :nextUrl: "/wiki/Union_councils_of_Pakistan"
+"/wiki/Union_councils_of_Pakistan":
+  :title: Union councils of Pakistan
+  :url: "/wiki/Union_councils_of_Pakistan"
+  :nextUrl: "/wiki/Pakistan"
+"/wiki/Pakistan":
+  :title: Pakistan
+  :url: "/wiki/Pakistan"
+  :nextUrl: "/wiki/Urdu"
+"/wiki/Urdu":
+  :title: Urdu
+  :url: "/wiki/Urdu"
+  :nextUrl: "/wiki/Urdu"
+"/wiki/HELP_assay":
+  :title: HELP assay
+  :url: "/wiki/HELP_assay"
+  :nextUrl: "/wiki/Polymerase_chain_reaction"
+"/wiki/Polymerase_chain_reaction":
+  :title: Polymerase chain reaction
+  :url: "/wiki/Polymerase_chain_reaction"
+  :nextUrl: "/wiki/Molecular_biology"
+"/wiki/Molecular_biology":
+  :title: Molecular biology
+  :url: "/wiki/Molecular_biology"
+  :nextUrl: "/wiki/Biochemistry"
+"/wiki/Biochemistry":
+  :title: Biochemistry
+  :url: "/wiki/Biochemistry"
+  :nextUrl: "/wiki/Chemical_process"
+"/wiki/Chemical_process":
+  :title: Chemical process
+  :url: "/wiki/Chemical_process"
+  :nextUrl: "/wiki/Scientific_method"
+"/wiki/Gad_(deity)":
+  :title: Gad (deity)
+  :url: "/wiki/Gad_(deity)"
+  :nextUrl: "/wiki/Ancient_Semitic_religion"
+"/wiki/Ancient_Semitic_religion":
+  :title: Ancient Semitic religion
+  :url: "/wiki/Ancient_Semitic_religion"
+  :nextUrl: "/wiki/Polytheism"
+"/wiki/Polytheism":
+  :title: Polytheism
+  :url: "/wiki/Polytheism"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/May_1963":
+  :title: May 1963
+  :url: "/wiki/May_1963"
+  :nextUrl: "/wiki/1963"
+"/wiki/1963":
+  :title: '1963'
+  :url: "/wiki/1963"
+  :nextUrl: "/wiki/January_1963"
+"/wiki/January_1963":
+  :title: January 1963
+  :url: "/wiki/January_1963"
+  :nextUrl: "/wiki/1963"
+"/wiki/Political_party_strength_in_Guam":
+  :title: Political party strength in Guam
+  :url: "/wiki/Political_party_strength_in_Guam"
+  :nextUrl: "/wiki/Guam"
+"/wiki/Guam":
+  :title: Guam
+  :url: "/wiki/Guam"
+  :nextUrl: "/wiki/Chamorro_language"
+"/wiki/Chamorro_language":
+  :title: Chamorro language
+  :url: "/wiki/Chamorro_language"
+  :nextUrl: "/wiki/Austronesian_languages"
+"/wiki/Austronesian_languages":
+  :title: Austronesian languages
+  :url: "/wiki/Austronesian_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Korn:_Collected":
+  :title: 'Korn: Collected'
+  :url: "/wiki/Korn:_Collected"
+  :nextUrl: "/wiki/Nu_metal"
+"/wiki/Nu_metal":
+  :title: Nu metal
+  :url: "/wiki/Nu_metal"
+  :nextUrl: "/wiki/Alternative_metal"
+"/wiki/Alternative_metal":
+  :title: Alternative metal
+  :url: "/wiki/Alternative_metal"
+  :nextUrl: "/wiki/Rock_music"
+"/wiki/1977_President%27s_Cup_Football_Tournament":
+  :title: 1977 President's Cup Football Tournament
+  :url: "/wiki/1977_President%27s_Cup_Football_Tournament"
+  :nextUrl: "/wiki/Korea_Cup"
+"/wiki/Korea_Cup":
+  :title: Korea Cup
+  :url: "/wiki/Korea_Cup"
+  :nextUrl: "/wiki/Association_football"
+"/wiki/Bank_of_America_Corporate_Center":
+  :title: Bank of America Corporate Center
+  :url: "/wiki/Bank_of_America_Corporate_Center"
+  :nextUrl: "/wiki/Skyscraper"
+"/wiki/Skyscraper":
+  :title: Skyscraper
+  :url: "/wiki/Skyscraper"
+  :nextUrl: "/wiki/High-rise_building"
+"/wiki/High-rise_building":
+  :title: High-rise building
+  :url: "/wiki/High-rise_building"
+  :nextUrl: "/wiki/Building"
+"/wiki/Building":
+  :title: Building
+  :url: "/wiki/Building"
+  :nextUrl: "/wiki/Structure#Physical_structure"
+"/wiki/Structure#Physical_structure":
+  :title: Structure
+  :url: "/wiki/Structure#Physical_structure"
+  :nextUrl: "/wiki/Building"
+"/wiki/John_Slavin":
+  :title: John Slavin
+  :url: "/wiki/John_Slavin"
+  :nextUrl: "/wiki/Carnoustie"
+"/wiki/Carnoustie":
+  :title: Carnoustie
+  :url: "/wiki/Carnoustie"
+  :nextUrl: "/wiki/Scottish_Gaelic"
+"/wiki/Scottish_Gaelic":
+  :title: Scottish Gaelic
+  :url: "/wiki/Scottish_Gaelic"
+  :nextUrl: "/wiki/Celtic_languages"
+"/wiki/Celtic_languages":
+  :title: Celtic languages
+  :url: "/wiki/Celtic_languages"
+  :nextUrl: "/wiki/Names_of_the_Celts#Pronunciation"
+"/wiki/Names_of_the_Celts#Pronunciation":
+  :title: Names of the Celts
+  :url: "/wiki/Names_of_the_Celts#Pronunciation"
+  :nextUrl: "/wiki/Classical_antiquity"
+"/wiki/Classical_antiquity":
+  :title: Classical antiquity
+  :url: "/wiki/Classical_antiquity"
+  :nextUrl: "/wiki/History"
+"/wiki/Cecilio_Tieles":
+  :title: Cecilio Tieles
+  :url: "/wiki/Cecilio_Tieles"
+  :nextUrl: "/wiki/Havana"
+"/wiki/Havana":
+  :title: Havana
+  :url: "/wiki/Havana"
+  :nextUrl: "/wiki/Spanish_language"
+"/wiki/Roadgame":
+  :title: Roadgame
+  :url: "/wiki/Roadgame"
+  :nextUrl: "/wiki/Art_Pepper"
+"/wiki/Art_Pepper":
+  :title: Art Pepper
+  :url: "/wiki/Art_Pepper"
+  :nextUrl: "/wiki/Alto_saxophone"
+"/wiki/Alto_saxophone":
+  :title: Alto saxophone
+  :url: "/wiki/Alto_saxophone"
+  :nextUrl: "/wiki/Saxophone"
+"/wiki/Saxophone":
+  :title: Saxophone
+  :url: "/wiki/Saxophone"
+  :nextUrl: "/wiki/Woodwind_instrument"
+"/wiki/Woodwind_instrument":
+  :title: Woodwind instrument
+  :url: "/wiki/Woodwind_instrument"
+  :nextUrl: "/wiki/Musical_instrument"
+"/wiki/Musical_instrument":
+  :title: Musical instrument
+  :url: "/wiki/Musical_instrument"
+  :nextUrl: "/wiki/Music"
+"/wiki/Scrobipalpula_lutescella":
+  :title: Scrobipalpula lutescella
+  :url: "/wiki/Scrobipalpula_lutescella"
+  :nextUrl: "/wiki/Moth"
+"/wiki/Linsidemore":
+  :title: Linsidemore
+  :url: "/wiki/Linsidemore"
+  :nextUrl: "/wiki/Scottish_Gaelic"
+"/wiki/NUS_Dance_Synergy":
+  :title: NUS Dance Synergy
+  :url: "/wiki/NUS_Dance_Synergy"
+  :nextUrl: "/wiki/Dance_troupe"
+"/wiki/Dance_troupe":
+  :title: Dance troupe
+  :url: "/wiki/Dance_troupe"
+  :nextUrl: "/wiki/Dance"
+"/wiki/Dance":
+  :title: Dance
+  :url: "/wiki/Dance"
+  :nextUrl: "/wiki/Performing_arts"
+"/wiki/Performing_arts":
+  :title: Performing arts
+  :url: "/wiki/Performing_arts"
+  :nextUrl: "/wiki/Art"
+"/wiki/Charles_Morritt":
+  :title: Charles Morritt
+  :url: "/wiki/Charles_Morritt"
+  :nextUrl: "/wiki/Magic_(illusion)"
+"/wiki/Magic_(illusion)":
+  :title: Magic (illusion)
+  :url: "/wiki/Magic_(illusion)"
+  :nextUrl: "/wiki/Performing_arts"
+"/wiki/Andrew_Ling":
+  :title: Andrew Ling
+  :url: "/wiki/Andrew_Ling"
+  :nextUrl: "/wiki/Hong_Kong"
+"/wiki/Hong_Kong":
+  :title: Hong Kong
+  :url: "/wiki/Hong_Kong"
+  :nextUrl: "/wiki/Chinese_language"
+"/wiki/Chinese_language":
+  :title: Chinese language
+  :url: "/wiki/Chinese_language"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+"/wiki/Riber":
+  :title: Riber
+  :url: "/wiki/Riber"
+  :nextUrl: "/wiki/Hamlet_(place)"
+"/wiki/Hamlet_(place)":
+  :title: Hamlet (place)
+  :url: "/wiki/Hamlet_(place)"
+  :nextUrl: "/wiki/Human_settlement"
+"/wiki/Kanlaya_Sysomvang":
+  :title: Kanlaya Sysomvang
+  :url: "/wiki/Kanlaya_Sysomvang"
+  :nextUrl: "/wiki/Laos"
+"/wiki/Laos":
+  :title: Laos
+  :url: "/wiki/Laos"
+  :nextUrl: "/wiki/Lao_language"
+"/wiki/Lao_language":
+  :title: Lao language
+  :url: "/wiki/Lao_language"
+  :nextUrl: "/wiki/Tone_(linguistics)"
+"/wiki/Tone_(linguistics)":
+  :title: Tone (linguistics)
+  :url: "/wiki/Tone_(linguistics)"
+  :nextUrl: "/wiki/Pitch_(music)"
+"/wiki/Pitch_(music)":
+  :title: Pitch (music)
+  :url: "/wiki/Pitch_(music)"
+  :nextUrl: "/wiki/Perception"
+"/wiki/Perception":
+  :title: Perception
+  :url: "/wiki/Perception"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Prado_(Medell%C3%ADn_Metro)":
+  :title: Prado (Medellín Metro)
+  :url: "/wiki/Prado_(Medell%C3%ADn_Metro)"
+  :nextUrl: "/wiki/Medell%C3%ADn_Metro"
+"/wiki/Medell%C3%ADn_Metro":
+  :title: Medellín Metro
+  :url: "/wiki/Medell%C3%ADn_Metro"
+  :nextUrl: "/wiki/Spanish_language"
+"/wiki/Ornamental_Gardens,_Ottawa":
+  :title: Ornamental Gardens, Ottawa
+  :url: "/wiki/Ornamental_Gardens,_Ottawa"
+  :nextUrl: "/wiki/Agriculture_and_Agri-Food_Canada"
+"/wiki/Agriculture_and_Agri-Food_Canada":
+  :title: Agriculture and Agri-Food Canada
+  :url: "/wiki/Agriculture_and_Agri-Food_Canada"
+  :nextUrl: "/wiki/French_language"
+"/wiki/A_Song_for_Chi":
+  :title: A Song for Chi
+  :url: "/wiki/A_Song_for_Chi"
+  :nextUrl: "/wiki/Instrumental"
+"/wiki/Instrumental":
+  :title: Instrumental
+  :url: "/wiki/Instrumental"
+  :nextUrl: "/wiki/Musical_composition"
+"/wiki/Grey_Oceans":
+  :title: Grey Oceans
+  :url: "/wiki/Grey_Oceans"
+  :nextUrl: "/wiki/CocoRosie"
+"/wiki/CocoRosie":
+  :title: CocoRosie
+  :url: "/wiki/CocoRosie"
+  :nextUrl: "/wiki/Freak_folk"
+"/wiki/Freak_folk":
+  :title: Freak folk
+  :url: "/wiki/Freak_folk"
+  :nextUrl: "/wiki/Psychedelic_folk"
+"/wiki/Psychedelic_folk":
+  :title: Psychedelic folk
+  :url: "/wiki/Psychedelic_folk"
+  :nextUrl: "/wiki/Freak_folk"
+"/wiki/National_Register_of_Historic_Places_listings_in_Richland_County,_Ohio":
+  :title: National Register of Historic Places listings in Richland County, Ohio
+  :url: "/wiki/National_Register_of_Historic_Places_listings_in_Richland_County,_Ohio"
+  :nextUrl: "/wiki/National_Register_of_Historic_Places"
+"/wiki/National_Register_of_Historic_Places":
+  :title: National Register of Historic Places
+  :url: "/wiki/National_Register_of_Historic_Places"
+  :nextUrl: "/wiki/Federal_government_of_the_United_States"
+"/wiki/Federal_government_of_the_United_States":
+  :title: Federal government of the United States
+  :url: "/wiki/Federal_government_of_the_United_States"
+  :nextUrl: "/wiki/Central_government"
+"/wiki/Central_government":
+  :title: Central government
+  :url: "/wiki/Central_government"
+  :nextUrl: "/wiki/Government"
+"/wiki/Government":
+  :title: Government
+  :url: "/wiki/Government"
+  :nextUrl: "/wiki/State_(polity)"
+"/wiki/Buda_River_(Bor%C8%99a)":
+  :title: Buda River (Borșa)
+  :url: "/wiki/Buda_River_(Bor%C8%99a)"
+  :nextUrl: "/wiki/Bor%C8%99a_River"
+"/wiki/Bor%C8%99a_River":
+  :title: Borșa River
+  :url: "/wiki/Bor%C8%99a_River"
+  :nextUrl: "/wiki/Tributary"
+"/wiki/Tributary":
+  :title: Tributary
+  :url: "/wiki/Tributary"
+  :nextUrl: "/wiki/Stream"
+"/wiki/Stream":
+  :title: Stream
+  :url: "/wiki/Stream"
+  :nextUrl: "/wiki/Body_of_water"
+"/wiki/Body_of_water":
+  :title: Body of water
+  :url: "/wiki/Body_of_water"
+  :nextUrl: "/wiki/Water"
+"/wiki/Water":
+  :title: Water
+  :url: "/wiki/Water"
+  :nextUrl: "/wiki/Chemical_substance"
+"/wiki/2013_Croatia_Rally":
+  :title: 2013 Croatia Rally
+  :url: "/wiki/2013_Croatia_Rally"
+  :nextUrl: "/wiki/Croatia_Rally"
+"/wiki/Croatia_Rally":
+  :title: Croatia Rally
+  :url: "/wiki/Croatia_Rally"
+  :nextUrl: "/wiki/Rallying"
+"/wiki/Rallying":
+  :title: Rallying
+  :url: "/wiki/Rallying"
+  :nextUrl: "/wiki/Motorsport"
+"/wiki/Erich_Zeller":
+  :title: Erich Zeller
+  :url: "/wiki/Erich_Zeller"
+  :nextUrl: "/wiki/Augsburg"
+"/wiki/Augsburg":
+  :title: Augsburg
+  :url: "/wiki/Augsburg"
+  :nextUrl: "/wiki/Bavarian_language"
+"/wiki/Bavarian_language":
+  :title: Bavarian language
+  :url: "/wiki/Bavarian_language"
+  :nextUrl: "/wiki/German_language"
+"/wiki/Primetime_Emmy_Award_for_Outstanding_Short-Format_Live-Action_Entertainment_Program":
+  :title: Primetime Emmy Award for Outstanding Short-Format Live-Action Entertainment
+    Program
+  :url: "/wiki/Primetime_Emmy_Award_for_Outstanding_Short-Format_Live-Action_Entertainment_Program"
+  :nextUrl: "/wiki/Primetime_Emmy_Award"
+"/wiki/Primetime_Emmy_Award":
+  :title: Primetime Emmy Award
+  :url: "/wiki/Primetime_Emmy_Award"
+  :nextUrl: "/wiki/Academy_of_Television_Arts_%26_Sciences"
+"/wiki/Academy_of_Television_Arts_%26_Sciences":
+  :title: Academy of Television Arts & Sciences
+  :url: "/wiki/Academy_of_Television_Arts_%26_Sciences"
+  :nextUrl: "/wiki/Television_in_the_United_States"
+"/wiki/Television_in_the_United_States":
+  :title: Television in the United States
+  :url: "/wiki/Television_in_the_United_States"
+  :nextUrl: "/wiki/Television"
+"/wiki/Tomellana_hupferi":
+  :title: Tomellana hupferi
+  :url: "/wiki/Tomellana_hupferi"
+  :nextUrl: "/wiki/Species"
+"/wiki/Delphinia_picta":
+  :title: Delphinia picta
+  :url: "/wiki/Delphinia_picta"
+  :nextUrl: "/wiki/Ulidiidae"
+"/wiki/Ulidiidae":
+  :title: Ulidiidae
+  :url: "/wiki/Ulidiidae"
+  :nextUrl: "/wiki/Herbivore"
+"/wiki/Herbivore":
+  :title: Herbivore
+  :url: "/wiki/Herbivore"
+  :nextUrl: "/wiki/Animal"
+"/wiki/Animal":
+  :title: Animal
+  :url: "/wiki/Animal"
+  :nextUrl: "/wiki/Multicellular_organism"
+"/wiki/Multicellular_organism":
+  :title: Multicellular organism
+  :url: "/wiki/Multicellular_organism"
+  :nextUrl: "/wiki/Organism"
+"/wiki/Sicily_(theme)":
+  :title: Sicily (theme)
+  :url: "/wiki/Sicily_(theme)"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Doxa_Megalopoli":
+  :title: Doxa Megalopoli
+  :url: "/wiki/Doxa_Megalopoli"
+  :nextUrl: "/wiki/Megalopolis,_Greece"
+"/wiki/Megalopolis,_Greece":
+  :title: Megalopolis, Greece
+  :url: "/wiki/Megalopolis,_Greece"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/2007%E2%80%9308_St_Mirren_F.C._season":
+  :title: 2007–08 St Mirren F.C. season
+  :url: "/wiki/2007%E2%80%9308_St_Mirren_F.C._season"
+  :nextUrl: "/wiki/St_Mirren_F.C."
+"/wiki/St_Mirren_F.C.":
+  :title: St Mirren F.C.
+  :url: "/wiki/St_Mirren_F.C."
+  :nextUrl: "/wiki/Association_football"
+"/wiki/Kamil_Brabenec_(basketball)":
+  :title: Kamil Brabenec (basketball)
+  :url: "/wiki/Kamil_Brabenec_(basketball)"
+  :nextUrl: "/wiki/Basketball"
+"/wiki/One_Island_Lake_Provincial_Park":
+  :title: One Island Lake Provincial Park
+  :url: "/wiki/One_Island_Lake_Provincial_Park"
+  :nextUrl: "/wiki/Provincial_park"
+"/wiki/Provincial_park":
+  :title: Provincial park
+  :url: "/wiki/Provincial_park"
+  :nextUrl: "/wiki/Province"
+"/wiki/Province":
+  :title: Province
+  :url: "/wiki/Province"
+  :nextUrl: "/wiki/Administrative_division"
+"/wiki/Grevillea_iaspicula":
+  :title: Grevillea iaspicula
+  :url: "/wiki/Grevillea_iaspicula"
+  :nextUrl: "/wiki/Shrub"
+"/wiki/Shrub":
+  :title: Shrub
+  :url: "/wiki/Shrub"
+  :nextUrl: "/wiki/Plant"
+"/wiki/Plant":
+  :title: Plant
+  :url: "/wiki/Plant"
+  :nextUrl: "/wiki/Multicellular_organism"
+"/wiki/Large_scrubwren":
+  :title: Large scrubwren
+  :url: "/wiki/Large_scrubwren"
+  :nextUrl: "/wiki/Bird"
+"/wiki/Uskedal":
+  :title: Uskedal
+  :url: "/wiki/Uskedal"
+  :nextUrl: "/wiki/Kvinnherad"
+"/wiki/Kvinnherad":
+  :title: Kvinnherad
+  :url: "/wiki/Kvinnherad"
+  :nextUrl: "/wiki/List_of_municipalities_of_Norway"
+"/wiki/List_of_municipalities_of_Norway":
+  :title: List of municipalities of Norway
+  :url: "/wiki/List_of_municipalities_of_Norway"
+  :nextUrl: "/wiki/Norway"
+"/wiki/Gunningite":
+  :title: Gunningite
+  :url: "/wiki/Gunningite"
+  :nextUrl: "/wiki/Kieserite"
+"/wiki/Kieserite":
+  :title: Kieserite
+  :url: "/wiki/Kieserite"
+  :nextUrl: "/wiki/Magnesium_sulfate"
+"/wiki/Magnesium_sulfate":
+  :title: Magnesium sulfate
+  :url: "/wiki/Magnesium_sulfate"
+  :nextUrl: "/wiki/Inorganic_compound"
+"/wiki/Inorganic_compound":
+  :title: Inorganic compound
+  :url: "/wiki/Inorganic_compound"
+  :nextUrl: "/wiki/Chemical_compound"
+"/wiki/Pradosia":
+  :title: Pradosia
+  :url: "/wiki/Pradosia"
+  :nextUrl: "/wiki/Plant"
+"/wiki/Rhyzodiastes_alveus":
+  :title: Rhyzodiastes alveus
+  :url: "/wiki/Rhyzodiastes_alveus"
+  :nextUrl: "/wiki/Ground_beetle"
+"/wiki/Ground_beetle":
+  :title: Ground beetle
+  :url: "/wiki/Ground_beetle"
+  :nextUrl: "/wiki/Cosmopolitan_distribution"
+"/wiki/Galina":
+  :title: Galina
+  :url: "/wiki/Galina"
+  :nextUrl: "/wiki/Halina"
+"/wiki/Halina":
+  :title: Halina
+  :url: "/wiki/Halina"
+  :nextUrl: "/wiki/Halina_%C5%81ukomska"
+"/wiki/Halina_%C5%81ukomska":
+  :title: Halina Łukomska
+  :url: "/wiki/Halina_%C5%81ukomska"
+  :nextUrl: "/wiki/Suchedni%C3%B3w"
+"/wiki/Suchedni%C3%B3w":
+  :title: Suchedniów
+  :url: "/wiki/Suchedni%C3%B3w"
+  :nextUrl: "/wiki/Skar%C5%BCysko_County"
+"/wiki/Skar%C5%BCysko_County":
+  :title: Skarżysko County
+  :url: "/wiki/Skar%C5%BCysko_County"
+  :nextUrl: "/wiki/Polish_language"
+"/wiki/List_of_Boeing_707_operators":
+  :title: List of Boeing 707 operators
+  :url: "/wiki/List_of_Boeing_707_operators"
+  :nextUrl: "/wiki/Chile"
+"/wiki/Transport_6":
+  :title: Transport 6
+  :url: "/wiki/Transport_6"
+  :nextUrl: "/wiki/DJ_mix"
+"/wiki/DJ_mix":
+  :title: DJ mix
+  :url: "/wiki/DJ_mix"
+  :nextUrl: "/wiki/Beatmatching"
+"/wiki/Beatmatching":
+  :title: Beatmatching
+  :url: "/wiki/Beatmatching"
+  :nextUrl: "/wiki/Disc_jockey"
+"/wiki/Disc_jockey":
+  :title: Disc jockey
+  :url: "/wiki/Disc_jockey"
+  :nextUrl: "/wiki/Music"
+"/wiki/Provins":
+  :title: Provins
+  :url: "/wiki/Provins"
+  :nextUrl: "/wiki/Communes_of_France"
+"/wiki/Communes_of_France":
+  :title: Communes of France
+  :url: "/wiki/Communes_of_France"
+  :nextUrl: "/wiki/Administrative_division"
+"/wiki/Lincoln_Sport":
+  :title: Lincoln Sport
+  :url: "/wiki/Lincoln_Sport"
+  :nextUrl: "/wiki/Roadster_(automobile)"
+"/wiki/Roadster_(automobile)":
+  :title: Roadster (automobile)
+  :url: "/wiki/Roadster_(automobile)"
+  :nextUrl: "/wiki/Convertible"
+"/wiki/Convertible":
+  :title: Convertible
+  :url: "/wiki/Convertible"
+  :nextUrl: "/wiki/Help:Pronunciation_respelling_key"
+"/wiki/Min_Sang-gi":
+  :title: Min Sang-gi
+  :url: "/wiki/Min_Sang-gi"
+  :nextUrl: "/wiki/Korean_language"
+"/wiki/Korean_language":
+  :title: Korean language
+  :url: "/wiki/Korean_language"
+  :nextUrl: "/wiki/Official_language"
+"/wiki/Official_language":
+  :title: Official language
+  :url: "/wiki/Official_language"
+  :nextUrl: "/wiki/Language"
+"/wiki/Kadegaon":
+  :title: Kadegaon
+  :url: "/wiki/Kadegaon"
+  :nextUrl: "/wiki/Sangli_district"
+"/wiki/Sangli_district":
+  :title: Sangli district
+  :url: "/wiki/Sangli_district"
+  :nextUrl: "/wiki/List_of_districts_of_Maharashtra"
+"/wiki/List_of_districts_of_Maharashtra":
+  :title: List of districts of Maharashtra
+  :url: "/wiki/List_of_districts_of_Maharashtra"
+  :nextUrl: "/wiki/States_and_union_territories_of_India"
+"/wiki/States_and_union_territories_of_India":
+  :title: States and union territories of India
+  :url: "/wiki/States_and_union_territories_of_India"
+  :nextUrl: "/wiki/India"
+"/wiki/India":
+  :title: India
+  :url: "/wiki/India"
+  :nextUrl: "/wiki/South_Asia"
+"/wiki/South_Asia":
+  :title: South Asia
+  :url: "/wiki/South_Asia"
+  :nextUrl: "/wiki/Indian_subcontinent"
+"/wiki/Indian_subcontinent":
+  :title: Indian subcontinent
+  :url: "/wiki/Indian_subcontinent"
+  :nextUrl: "/wiki/Region"
+"/wiki/USS_Monitor":
+  :title: USS Monitor
+  :url: "/wiki/USS_Monitor"
+  :nextUrl: "/wiki/Steamship"
+"/wiki/Steamship":
+  :title: Steamship
+  :url: "/wiki/Steamship"
+  :nextUrl: "/wiki/Steam-powered_vessels"
+"/wiki/Steam-powered_vessels":
+  :title: Steam-powered vessels
+  :url: "/wiki/Steam-powered_vessels"
+  :nextUrl: "/wiki/Steamboat"
+"/wiki/Steamboat":
+  :title: Steamboat
+  :url: "/wiki/Steamboat"
+  :nextUrl: "/wiki/Boat"
+"/wiki/Boat":
+  :title: Boat
+  :url: "/wiki/Boat"
+  :nextUrl: "/wiki/Watercraft"
+"/wiki/Watercraft":
+  :title: Watercraft
+  :url: "/wiki/Watercraft"
+  :nextUrl: "/wiki/Vehicle"
+"/wiki/Vehicle":
+  :title: Vehicle
+  :url: "/wiki/Vehicle"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Vladimir_Sorochinskiy":
+  :title: Vladimir Sorochinskiy
+  :url: "/wiki/Vladimir_Sorochinskiy"
+  :nextUrl: "/wiki/Russian_language"
+"/wiki/VTOL_Aircraft_Phillicopter":
+  :title: VTOL Aircraft Phillicopter
+  :url: "/wiki/VTOL_Aircraft_Phillicopter"
+  :nextUrl: "/wiki/Australia"
+"/wiki/Australia":
+  :title: Australia
+  :url: "/wiki/Australia"
+  :nextUrl: "/wiki/Australia_(continent)"
+"/wiki/Australia_(continent)":
+  :title: Australia (continent)
+  :url: "/wiki/Australia_(continent)"
+  :nextUrl: "/wiki/Mainland_Australia"
+"/wiki/Mainland_Australia":
+  :title: Mainland Australia
+  :url: "/wiki/Mainland_Australia"
+  :nextUrl: "/wiki/Land#Land_mass"
+"/wiki/Land#Land_mass":
+  :title: Land
+  :url: "/wiki/Land#Land_mass"
+  :nextUrl: "/wiki/Earth"
+"/wiki/Earth":
+  :title: Earth
+  :url: "/wiki/Earth"
+  :nextUrl: "/wiki/Planet"
+"/wiki/Planet":
+  :title: Planet
+  :url: "/wiki/Planet"
+  :nextUrl: "/wiki/Astronomical_object"
+"/wiki/Astronomical_object":
+  :title: Astronomical object
+  :url: "/wiki/Astronomical_object"
+  :nextUrl: "/wiki/Physical_body"
+"/wiki/Physical_body":
+  :title: Physical body
+  :url: "/wiki/Physical_body"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Kawasaki_GPZ305":
+  :title: Kawasaki GPZ305
+  :url: "/wiki/Kawasaki_GPZ305"
+  :nextUrl: "/wiki/Straight-twin_engine"
+"/wiki/Straight-twin_engine":
+  :title: Straight-twin engine
+  :url: "/wiki/Straight-twin_engine"
+  :nextUrl: "/wiki/Reciprocating_engine"
+"/wiki/Reciprocating_engine":
+  :title: Reciprocating engine
+  :url: "/wiki/Reciprocating_engine"
+  :nextUrl: "/wiki/Heat_engine"
+"/wiki/Heat_engine":
+  :title: Heat engine
+  :url: "/wiki/Heat_engine"
+  :nextUrl: "/wiki/Thermodynamics"
+"/wiki/Thermodynamics":
+  :title: Thermodynamics
+  :url: "/wiki/Thermodynamics"
+  :nextUrl: "/wiki/Physics"
+"/wiki/Master_of_Sacred_Theology":
+  :title: Master of Sacred Theology
+  :url: "/wiki/Master_of_Sacred_Theology"
+  :nextUrl: "/wiki/Theology"
+"/wiki/Theology":
+  :title: Theology
+  :url: "/wiki/Theology"
+  :nextUrl: "/wiki/Divinity"
+"/wiki/Divinity":
+  :title: Divinity
+  :url: "/wiki/Divinity"
+  :nextUrl: "/wiki/Religion"
+"/wiki/Religion":
+  :title: Religion
+  :url: "/wiki/Religion"
+  :nextUrl: "/wiki/Cultural_system"
+"/wiki/Cultural_system":
+  :title: Cultural system
+  :url: "/wiki/Cultural_system"
+  :nextUrl: "/wiki/Culture"
+"/wiki/An_Answer_from_the_Silence":
+  :title: An Answer from the Silence
+  :url: "/wiki/An_Answer_from_the_Silence"
+  :nextUrl: "/wiki/German_language"
+"/wiki/Vladim%C3%ADr_%C5%A0ver%C3%A1k":
+  :title: Vladimír Šverák
+  :url: "/wiki/Vladim%C3%ADr_%C5%A0ver%C3%A1k"
+  :nextUrl: "/wiki/Czech_Republic"
+"/wiki/Czech_Republic":
+  :title: Czech Republic
+  :url: "/wiki/Czech_Republic"
+  :nextUrl: "/wiki/Czech_language"
+"/wiki/Czech_language":
+  :title: Czech language
+  :url: "/wiki/Czech_language"
+  :nextUrl: "/wiki/Latin"
+"/wiki/Frog_Pocket":
+  :title: Frog Pocket
+  :url: "/wiki/Frog_Pocket"
+  :nextUrl: "/wiki/Scotland"
+"/wiki/Scotland":
+  :title: Scotland
+  :url: "/wiki/Scotland"
+  :nextUrl: "/wiki/Scots_language"
+"/wiki/Bombardier_Innovia_Monorail":
+  :title: Bombardier Innovia Monorail
+  :url: "/wiki/Bombardier_Innovia_Monorail"
+  :nextUrl: "/wiki/Monorail"
+"/wiki/Monorail":
+  :title: Monorail
+  :url: "/wiki/Monorail"
+  :nextUrl: "/wiki/Rail_transport"
+"/wiki/Rail_transport":
+  :title: Rail transport
+  :url: "/wiki/Rail_transport"
+  :nextUrl: "/wiki/Transport"
+"/wiki/Transport":
+  :title: Transport
+  :url: "/wiki/Transport"
+  :nextUrl: "/wiki/Cargo"
+"/wiki/Cargo":
+  :title: Cargo
+  :url: "/wiki/Cargo"
+  :nextUrl: "/wiki/Economics"
+"/wiki/Economics":
+  :title: Economics
+  :url: "/wiki/Economics"
+  :nextUrl: "/wiki/Social_science"
+"/wiki/Wu_Jie":
+  :title: Wu Jie
+  :url: "/wiki/Wu_Jie"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+"/wiki/List_of_steamboats_on_the_Yukon_River":
+  :title: List of steamboats on the Yukon River
+  :url: "/wiki/List_of_steamboats_on_the_Yukon_River"
+  :nextUrl: "/wiki/Steamboats_of_the_Yukon_River"
+"/wiki/Steamboats_of_the_Yukon_River":
+  :title: Steamboats of the Yukon River
+  :url: "/wiki/Steamboats_of_the_Yukon_River"
+  :nextUrl: "/wiki/Alaska"
+"/wiki/Alaska":
+  :title: Alaska
+  :url: "/wiki/Alaska"
+  :nextUrl: "/wiki/U.S._state"
+"/wiki/U.S._state":
+  :title: U.S. state
+  :url: "/wiki/U.S._state"
+  :nextUrl: "/wiki/Polity"
+"/wiki/Streptomyces_qinglanensis":
+  :title: Streptomyces qinglanensis
+  :url: "/wiki/Streptomyces_qinglanensis"
+  :nextUrl: "/wiki/Streptomyces"
+"/wiki/Streptomyces":
+  :title: Streptomyces
+  :url: "/wiki/Streptomyces"
+  :nextUrl: "/wiki/Genus"
+"/wiki/Shadow_Cabinet_of_Kevin_Rudd":
+  :title: Shadow Cabinet of Kevin Rudd
+  :url: "/wiki/Shadow_Cabinet_of_Kevin_Rudd"
+  :nextUrl: "/wiki/Shadow_Cabinet_of_Australia"
+"/wiki/Shadow_Cabinet_of_Australia":
+  :title: Shadow Cabinet of Australia
+  :url: "/wiki/Shadow_Cabinet_of_Australia"
+  :nextUrl: "/wiki/Opposition_(Australia)"
+"/wiki/Opposition_(Australia)":
+  :title: Opposition (Australia)
+  :url: "/wiki/Opposition_(Australia)"
+  :nextUrl: "/wiki/Australia"
+"/wiki/Amilcare_Beretta":
+  :title: Amilcare Beretta
+  :url: "/wiki/Amilcare_Beretta"
+  :nextUrl: "/wiki/Swimming_(sport)"
+"/wiki/Swimming_(sport)":
+  :title: Swimming (sport)
+  :url: "/wiki/Swimming_(sport)"
+  :nextUrl: "/wiki/Swimming_pool"
+"/wiki/Swimming_pool":
+  :title: Swimming pool
+  :url: "/wiki/Swimming_pool"
+  :nextUrl: "/wiki/Swimming"
+"/wiki/Swimming":
+  :title: Swimming
+  :url: "/wiki/Swimming"
+  :nextUrl: "/wiki/Propulsion"
+"/wiki/Propulsion":
+  :title: Propulsion
+  :url: "/wiki/Propulsion"
+  :nextUrl: "/wiki/Technology"
+"/wiki/Vatra_(Slovak_magazine)":
+  :title: Vatra (Slovak magazine)
+  :url: "/wiki/Vatra_(Slovak_magazine)"
+  :nextUrl: "/wiki/Slovak_language"
+"/wiki/Slovak_language":
+  :title: Slovak language
+  :url: "/wiki/Slovak_language"
+  :nextUrl: "/wiki/Indo-European_languages"
+"/wiki/Eunice_W._Johnson":
+  :title: Eunice W. Johnson
+  :url: "/wiki/Eunice_W._Johnson"
+  :nextUrl: "/wiki/John_H._Johnson"
+"/wiki/John_H._Johnson":
+  :title: John H. Johnson
+  :url: "/wiki/John_H._Johnson"
+  :nextUrl: "/wiki/John_H._Johnson_(baseball)"
+"/wiki/John_H._Johnson_(baseball)":
+  :title: John H. Johnson (baseball)
+  :url: "/wiki/John_H._Johnson_(baseball)"
+  :nextUrl: "/wiki/United_States"
+"/wiki/Napua_Stevens":
+  :title: Napua Stevens
+  :url: "/wiki/Napua_Stevens"
+  :nextUrl: "/wiki/Hawaii"
+"/wiki/Hawaii":
+  :title: Hawaii
+  :url: "/wiki/Hawaii"
+  :nextUrl: "/wiki/Hawaiian_language"
+"/wiki/Hawaiian_language":
+  :title: Hawaiian language
+  :url: "/wiki/Hawaiian_language"
+  :nextUrl: "/wiki/Polynesian_languages"
+"/wiki/Polynesian_languages":
+  :title: Polynesian languages
+  :url: "/wiki/Polynesian_languages"
+  :nextUrl: "/wiki/Language_family"
+"/wiki/Infanta_Maria_da_Assun%C3%A7%C3%A3o_of_Portugal":
+  :title: Infanta Maria da Assunção of Portugal
+  :url: "/wiki/Infanta_Maria_da_Assun%C3%A7%C3%A3o_of_Portugal"
+  :nextUrl: "/wiki/Queluz,_Portugal"
+"/wiki/Queluz,_Portugal":
+  :title: Queluz, Portugal
+  :url: "/wiki/Queluz,_Portugal"
+  :nextUrl: "/wiki/Concelho"
+"/wiki/Concelho":
+  :title: Concelho
+  :url: "/wiki/Concelho"
+  :nextUrl: "/wiki/Municipality"
+"/wiki/Municipality":
+  :title: Municipality
+  :url: "/wiki/Municipality"
+  :nextUrl: "/wiki/Urban_area"
+"/wiki/Urban_area":
+  :title: Urban area
+  :url: "/wiki/Urban_area"
+  :nextUrl: "/wiki/Human_settlement"
+"/wiki/Nathan_Homer_Knorr":
+  :title: Nathan Homer Knorr
+  :url: "/wiki/Nathan_Homer_Knorr"
+  :nextUrl: "/wiki/Watch_Tower_Bible_and_Tract_Society_of_Pennsylvania"
+"/wiki/Watch_Tower_Bible_and_Tract_Society_of_Pennsylvania":
+  :title: Watch Tower Bible and Tract Society of Pennsylvania
+  :url: "/wiki/Watch_Tower_Bible_and_Tract_Society_of_Pennsylvania"
+  :nextUrl: "/wiki/Nonprofit_organization"
+"/wiki/Nonprofit_organization":
+  :title: Nonprofit organization
+  :url: "/wiki/Nonprofit_organization"
+  :nextUrl: "/wiki/501(c)(3)_organization"
+"/wiki/501(c)(3)_organization":
+  :title: 501(c)(3) organization
+  :url: "/wiki/501(c)(3)_organization"
+  :nextUrl: "/wiki/Internal_Revenue_Code"
+"/wiki/Internal_Revenue_Code":
+  :title: Internal Revenue Code
+  :url: "/wiki/Internal_Revenue_Code"
+  :nextUrl: "/wiki/United_States_Statutes_at_Large"
+"/wiki/United_States_Statutes_at_Large":
+  :title: United States Statutes at Large
+  :url: "/wiki/United_States_Statutes_at_Large"
+  :nextUrl: "/wiki/Act_of_Congress"
+"/wiki/Act_of_Congress":
+  :title: Act of Congress
+  :url: "/wiki/Act_of_Congress"
+  :nextUrl: "/wiki/Statute"
+"/wiki/Statute":
+  :title: Statute
+  :url: "/wiki/Statute"
+  :nextUrl: "/wiki/Legislature"
+"/wiki/Geospatial_predictive_modeling":
+  :title: Geospatial predictive modeling
+  :url: "/wiki/Geospatial_predictive_modeling"
+  :nextUrl: "/wiki/Predictive_analytics"
+"/wiki/Predictive_analytics":
+  :title: Predictive analytics
+  :url: "/wiki/Predictive_analytics"
+  :nextUrl: "/wiki/Predictive_modelling"
+"/wiki/Predictive_modelling":
+  :title: Predictive modelling
+  :url: "/wiki/Predictive_modelling"
+  :nextUrl: "/wiki/Detection_theory"
+"/wiki/Detection_theory":
+  :title: Detection theory
+  :url: "/wiki/Detection_theory"
+  :nextUrl: "/wiki/Stimulus_(psychology)"
+"/wiki/Stimulus_(psychology)":
+  :title: Stimulus (psychology)
+  :url: "/wiki/Stimulus_(psychology)"
+  :nextUrl: "/wiki/Psychology"
+"/wiki/A_Rose_Without_a_Thorn":
+  :title: A Rose Without a Thorn
+  :url: "/wiki/A_Rose_Without_a_Thorn"
+  :nextUrl: "/wiki/Henry_VIII_of_England"
+"/wiki/Henry_VIII_of_England":
+  :title: Henry VIII of England
+  :url: "/wiki/Henry_VIII_of_England"
+  :nextUrl: "/wiki/List_of_English_monarchs"
+"/wiki/List_of_English_monarchs":
+  :title: List of English monarchs
+  :url: "/wiki/List_of_English_monarchs"
+  :nextUrl: "/wiki/Kingdom_of_England"
+"/wiki/Kingdom_of_England":
+  :title: Kingdom of England
+  :url: "/wiki/Kingdom_of_England"
+  :nextUrl: "/wiki/Sovereign_state"
+"/wiki/California_Penal_Code_section_597t":
+  :title: California Penal Code section 597t
+  :url: "/wiki/California_Penal_Code_section_597t"
+  :nextUrl: "/wiki/California"
+"/wiki/California":
+  :title: California
+  :url: "/wiki/California"
+  :nextUrl: "/wiki/Pacific_states"
+"/wiki/Pacific_states":
+  :title: Pacific states
+  :url: "/wiki/Pacific_states"
+  :nextUrl: "/wiki/United_States"
+"/wiki/Nansen_Ski_Club":
+  :title: Nansen Ski Club
+  :url: "/wiki/Nansen_Ski_Club"
+  :nextUrl: "/wiki/North_America"
+"/wiki/North_America":
+  :title: North America
+  :url: "/wiki/North_America"
+  :nextUrl: "/wiki/Continent"
+"/wiki/Continent":
+  :title: Continent
+  :url: "/wiki/Continent"
+  :nextUrl: "/wiki/Land#Land_mass"
+"/wiki/Chapter_One_of_the_Constitution_of_South_Africa":
+  :title: Chapter One of the Constitution of South Africa
+  :url: "/wiki/Chapter_One_of_the_Constitution_of_South_Africa"
+  :nextUrl: "/wiki/Constitution_of_South_Africa"
+"/wiki/Constitution_of_South_Africa":
+  :title: Constitution of South Africa
+  :url: "/wiki/Constitution_of_South_Africa"
+  :nextUrl: "/wiki/Law"
+"/wiki/Power_Architecture":
+  :title: Power Architecture
+  :url: "/wiki/Power_Architecture"
+  :nextUrl: "/wiki/Reduced_instruction_set_computer"
+"/wiki/Reduced_instruction_set_computer":
+  :title: Reduced instruction set computer
+  :url: "/wiki/Reduced_instruction_set_computer"
+  :nextUrl: "/wiki/Instruction_set_architecture"
+"/wiki/Instruction_set_architecture":
+  :title: Instruction set architecture
+  :url: "/wiki/Instruction_set_architecture"
+  :nextUrl: "/wiki/Computer"
+"/wiki/Computer":
+  :title: Computer
+  :url: "/wiki/Computer"
+  :nextUrl: "/wiki/Computer_programming"
+"/wiki/Computer_programming":
+  :title: Computer programming
+  :url: "/wiki/Computer_programming"
+  :nextUrl: "/wiki/Computing"
+"/wiki/Computing":
+  :title: Computing
+  :url: "/wiki/Computing"
   :nextUrl: "/wiki/Mathematics"
-- :title: Mathematics
+"/wiki/Mathematics":
+  :title: Mathematics
   :url: "/wiki/Mathematics"
   :nextUrl: "/wiki/Ancient_Greek"
-- :title: Mac Barlow
-  :url: "/wiki/Mac_Barlow"
+"/wiki/Migrant_domestic_workers":
+  :title: Migrant domestic workers
+  :url: "/wiki/Migrant_domestic_workers"
+  :nextUrl: "/wiki/International_Labour_Organization"
+"/wiki/International_Labour_Organization":
+  :title: International Labour Organization
+  :url: "/wiki/International_Labour_Organization"
+  :nextUrl: "/wiki/United_Nations"
+"/wiki/United_Nations":
+  :title: United Nations
+  :url: "/wiki/United_Nations"
+  :nextUrl: "/wiki/Intergovernmental_organization"
+"/wiki/Pierre_Marie":
+  :title: Pierre Marie
+  :url: "/wiki/Pierre_Marie"
+  :nextUrl: "/wiki/Neurology"
+"/wiki/Neurology":
+  :title: Neurology
+  :url: "/wiki/Neurology"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Green_Goblin_in_other_media":
+  :title: Green Goblin in other media
+  :url: "/wiki/Green_Goblin_in_other_media"
+  :nextUrl: "/wiki/Green_Goblin"
+"/wiki/Green_Goblin":
+  :title: Green Goblin
+  :url: "/wiki/Green_Goblin"
+  :nextUrl: "/wiki/Supervillain"
+"/wiki/Supervillain":
+  :title: Supervillain
+  :url: "/wiki/Supervillain"
+  :nextUrl: "/wiki/Villain"
+"/wiki/Villain":
+  :title: Villain
+  :url: "/wiki/Villain"
+  :nextUrl: "/wiki/Evil"
+"/wiki/Evil":
+  :title: Evil
+  :url: "/wiki/Evil"
+  :nextUrl: "/wiki/Good"
+"/wiki/Good":
+  :title: Good
+  :url: "/wiki/Good"
+  :nextUrl: "/wiki/Evil"
+"/wiki/Marston,_Maryland":
+  :title: Marston, Maryland
+  :url: "/wiki/Marston,_Maryland"
+  :nextUrl: "/wiki/Carroll_County,_Maryland"
+"/wiki/Carroll_County,_Maryland":
+  :title: Carroll County, Maryland
+  :url: "/wiki/Carroll_County,_Maryland"
+  :nextUrl: "/wiki/County_(United_States)"
+"/wiki/Fighting_Force_2":
+  :title: Fighting Force 2
+  :url: "/wiki/Fighting_Force_2"
+  :nextUrl: "/wiki/Beat_%27em_up"
+"/wiki/Beat_%27em_up":
+  :title: Beat 'em up
+  :url: "/wiki/Beat_%27em_up"
+  :nextUrl: "/wiki/Video_game_genre"
+"/wiki/Video_game_genre":
+  :title: Video game genre
+  :url: "/wiki/Video_game_genre"
+  :nextUrl: "/wiki/Video_game"
+"/wiki/Video_game":
+  :title: Video game
+  :url: "/wiki/Video_game"
+  :nextUrl: "/wiki/Electronic_game"
+"/wiki/Electronic_game":
+  :title: Electronic game
+  :url: "/wiki/Electronic_game"
+  :nextUrl: "/wiki/Game"
+"/wiki/Game":
+  :title: Game
+  :url: "/wiki/Game"
+  :nextUrl: "/wiki/Play_(activity)"
+"/wiki/Play_(activity)":
+  :title: Play (activity)
+  :url: "/wiki/Play_(activity)"
+  :nextUrl: "/wiki/Psychology"
+"/wiki/Dorothea_Palmer":
+  :title: Dorothea Palmer
+  :url: "/wiki/Dorothea_Palmer"
+  :nextUrl: "/wiki/Birth_control"
+"/wiki/Birth_control":
+  :title: Birth control
+  :url: "/wiki/Birth_control"
+  :nextUrl: "/wiki/Pregnancy"
+"/wiki/Pregnancy":
+  :title: Pregnancy
+  :url: "/wiki/Pregnancy"
+  :nextUrl: "/wiki/Offspring"
+"/wiki/Offspring":
+  :title: Offspring
+  :url: "/wiki/Offspring"
+  :nextUrl: "/wiki/Biology"
+"/wiki/Dichomeris_chlanidota":
+  :title: Dichomeris chlanidota
+  :url: "/wiki/Dichomeris_chlanidota"
+  :nextUrl: "/wiki/Moth"
+"/wiki/A_Woman_Loves":
+  :title: A Woman Loves
+  :url: "/wiki/A_Woman_Loves"
+  :nextUrl: "/wiki/Steve_Wariner"
+"/wiki/Steve_Wariner":
+  :title: Steve Wariner
+  :url: "/wiki/Steve_Wariner"
+  :nextUrl: "/wiki/Country_music"
+"/wiki/Bil_Dashi":
+  :title: Bil Dashi
+  :url: "/wiki/Bil_Dashi"
+  :nextUrl: "/wiki/Persian_language"
+"/wiki/Liouville%E2%80%93Neumann_series":
+  :title: Liouville–Neumann series
+  :url: "/wiki/Liouville%E2%80%93Neumann_series"
+  :nextUrl: "/wiki/Mathematics"
+"/wiki/Patrik_Gerrbrand":
+  :title: Patrik Gerrbrand
+  :url: "/wiki/Patrik_Gerrbrand"
+  :nextUrl: "/wiki/%C3%84lvsj%C3%B6"
+"/wiki/%C3%84lvsj%C3%B6":
+  :title: Älvsjö
+  :url: "/wiki/%C3%84lvsj%C3%B6"
+  :nextUrl: "/wiki/Stockholm_Municipality"
+"/wiki/Stockholm_Municipality":
+  :title: Stockholm Municipality
+  :url: "/wiki/Stockholm_Municipality"
+  :nextUrl: "/wiki/Municipalities_of_Sweden"
+"/wiki/Municipalities_of_Sweden":
+  :title: Municipalities of Sweden
+  :url: "/wiki/Municipalities_of_Sweden"
+  :nextUrl: "/wiki/Swedish_language"
+"/wiki/Swedish_language":
+  :title: Swedish language
+  :url: "/wiki/Swedish_language"
+  :nextUrl: "/wiki/North_Germanic_languages"
+"/wiki/526_Jena":
+  :title: 526 Jena
+  :url: "/wiki/526_Jena"
+  :nextUrl: "/wiki/Themis_family"
+"/wiki/Themis_family":
+  :title: Themis family
+  :url: "/wiki/Themis_family"
+  :nextUrl: "/wiki/Hirayama_family"
+"/wiki/Hirayama_family":
+  :title: Hirayama family
+  :url: "/wiki/Hirayama_family"
+  :nextUrl: "/wiki/Asteroid"
+"/wiki/Asteroid":
+  :title: Asteroid
+  :url: "/wiki/Asteroid"
+  :nextUrl: "/wiki/Minor_planet"
+"/wiki/Minor_planet":
+  :title: Minor planet
+  :url: "/wiki/Minor_planet"
+  :nextUrl: "/wiki/Astronomical_object"
+"/wiki/Gayatri_Chakravorty_Spivak":
+  :title: Gayatri Chakravorty Spivak
+  :url: "/wiki/Gayatri_Chakravorty_Spivak"
+  :nextUrl: "/wiki/India"
+"/wiki/Rhododendron_laetum":
+  :title: Rhododendron laetum
+  :url: "/wiki/Rhododendron_laetum"
+  :nextUrl: "/wiki/Rhododendron"
+"/wiki/Rhododendron":
+  :title: Rhododendron
+  :url: "/wiki/Rhododendron"
+  :nextUrl: "/wiki/Ancient_Greek"
+"/wiki/1988_World_Junior_Championships_in_Athletics_%E2%80%93_Women%27s_200_metres":
+  :title: 1988 World Junior Championships in Athletics – Women's 200 metres
+  :url: "/wiki/1988_World_Junior_Championships_in_Athletics_%E2%80%93_Women%27s_200_metres"
+  :nextUrl: "/wiki/200_metres"
+"/wiki/200_metres":
+  :title: 200 metres
+  :url: "/wiki/200_metres"
+  :nextUrl: "/wiki/Sprint_(running)"
+"/wiki/Sprint_(running)":
+  :title: Sprint (running)
+  :url: "/wiki/Sprint_(running)"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Harish_Raghavendra":
+  :title: Harish Raghavendra
+  :url: "/wiki/Harish_Raghavendra"
+  :nextUrl: "/wiki/Minnale"
+"/wiki/Minnale":
+  :title: Minnale
+  :url: "/wiki/Minnale"
+  :nextUrl: "/wiki/List_of_Tamil_films_of_2001"
+"/wiki/List_of_Tamil_films_of_2001":
+  :title: List of Tamil films of 2001
+  :url: "/wiki/List_of_Tamil_films_of_2001"
+  :nextUrl: "/wiki/Tamil_cinema"
+"/wiki/Tamil_cinema":
+  :title: Tamil cinema
+  :url: "/wiki/Tamil_cinema"
+  :nextUrl: "/wiki/India"
+"/wiki/1925%E2%80%9326_Stoke_City_F.C._season":
+  :title: 1925–26 Stoke City F.C. season
+  :url: "/wiki/1925%E2%80%9326_Stoke_City_F.C._season"
+  :nextUrl: "/wiki/1925%E2%80%9326_Football_League"
+"/wiki/1925%E2%80%9326_Football_League":
+  :title: 1925–26 Football League
+  :url: "/wiki/1925%E2%80%9326_Football_League"
+  :nextUrl: "/wiki/1925_in_association_football"
+"/wiki/1925_in_association_football":
+  :title: 1925 in association football
+  :url: "/wiki/1925_in_association_football"
   :nextUrl: "/wiki/Association_football"
+"/wiki/Alexander_Lundh":
+  :title: Alexander Lundh
+  :url: "/wiki/Alexander_Lundh"
+  :nextUrl: "/wiki/Sweden"
+"/wiki/Gil_Baiano":
+  :title: Gil Baiano
+  :url: "/wiki/Gil_Baiano"
+  :nextUrl: "/wiki/Defender_(association_football)#Full-back"
+"/wiki/Defender_(association_football)#Full-back":
+  :title: Defender (association football)
+  :url: "/wiki/Defender_(association_football)#Full-back"
+  :nextUrl: "/wiki/Sport"
+"/wiki/Joe_Gates":
+  :title: Joe Gates
+  :url: "/wiki/Joe_Gates"
+  :nextUrl: "/wiki/Professional_baseball"
+"/wiki/Professional_baseball":
+  :title: Professional baseball
+  :url: "/wiki/Professional_baseball"
+  :nextUrl: "/wiki/List_of_organized_baseball_leagues"
+"/wiki/List_of_organized_baseball_leagues":
+  :title: List of organized baseball leagues
+  :url: "/wiki/List_of_organized_baseball_leagues"
+  :nextUrl: "/wiki/Baseball"
+"/wiki/Baseball":
+  :title: Baseball
+  :url: "/wiki/Baseball"
+  :nextUrl: "/wiki/Bat-and-ball_games"
+"/wiki/Mount_Yuniishikari":
+  :title: Mount Yuniishikari
+  :url: "/wiki/Mount_Yuniishikari"
+  :nextUrl: "/wiki/Central_Ishikari_Mountains"
+"/wiki/Central_Ishikari_Mountains":
+  :title: Central Ishikari Mountains
+  :url: "/wiki/Central_Ishikari_Mountains"
+  :nextUrl: "/wiki/Hokkaido"
+"/wiki/Hokkaido":
+  :title: Hokkaido
+  :url: "/wiki/Hokkaido"
+  :nextUrl: "/wiki/Circuit_(administrative_division)"
+"/wiki/Circuit_(administrative_division)":
+  :title: Circuit (administrative division)
+  :url: "/wiki/Circuit_(administrative_division)"
+  :nextUrl: "/wiki/Chinese_language"
+"/wiki/Biological_resistance":
+  :title: Biological resistance
+  :url: "/wiki/Biological_resistance"
+  :nextUrl: "/wiki/Microorganism"
+"/wiki/Microorganism":
+  :title: Microorganism
+  :url: "/wiki/Microorganism"
+  :nextUrl: "/wiki/Microscopic_scale"
+"/wiki/Microscopic_scale":
+  :title: Microscopic scale
+  :url: "/wiki/Microscopic_scale"
+  :nextUrl: "/wiki/Greek_language"
+"/wiki/Yang_Feng":
+  :title: Yang Feng
+  :url: "/wiki/Yang_Feng"
+  :nextUrl: "/wiki/Han_dynasty#Eastern_Han"
+"/wiki/Han_dynasty#Eastern_Han":
+  :title: Han dynasty
+  :url: "/wiki/Han_dynasty#Eastern_Han"
+  :nextUrl: "/wiki/Traditional_Chinese_characters"
+"/wiki/Traditional_Chinese_characters":
+  :title: Traditional Chinese characters
+  :url: "/wiki/Traditional_Chinese_characters"
+  :nextUrl: "/wiki/Simplified_Chinese_characters"
+"/wiki/Cyamopsis":
+  :title: Cyamopsis
+  :url: "/wiki/Cyamopsis"
+  :nextUrl: "/wiki/Fabaceae"
+"/wiki/Fabaceae":
+  :title: Fabaceae
+  :url: "/wiki/Fabaceae"
+  :nextUrl: "/wiki/Family_(biology)"
+"/wiki/Newstead_Christian_School":
+  :title: Newstead Christian School
+  :url: "/wiki/Newstead_Christian_School"
+  :nextUrl: "/wiki/Launceston,_Tasmania"
+"/wiki/Launceston,_Tasmania":
+  :title: Launceston, Tasmania
+  :url: "/wiki/Launceston,_Tasmania"
+  :nextUrl: "/wiki/Tasmania"
+"/wiki/Tasmania":
+  :title: Tasmania
+  :url: "/wiki/Tasmania"
+  :nextUrl: "/wiki/Island"
+"/wiki/Island":
+  :title: Island
+  :url: "/wiki/Island"
+  :nextUrl: "/wiki/Continent"
