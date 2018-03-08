@@ -21,12 +21,15 @@ class WikiScraper
   end
 
   def scrapeAgain
-    # scrapes the page (updating the array with the page's title)
-    # if the title is a new title, we recur
-    # otherwise we save the whole array of titles to the record file
-    scrapePage
+    # first ensures that the current url matches the one we just came from
+    # scrapes the page (updating the @allPages with a page entry for that page)
+    # if the url for the next page is a new url, we recur
+    # otherwise we save the @allPages to the record file
+    correctUrl()
+    scrapePage()
     if latestTitleIsNew?()
-      scrapeNextPage
+      visitLink(@nextUrl)
+      scrapeAgain()
     else
       puts "we found a loop at: #{@allPages[-1][:title]}"
       writeToFile(@allPages) # file_helper
@@ -37,25 +40,12 @@ class WikiScraper
     !@allPages.map{ |page| page[:url] }.include?(@nextUrl)
   end
 
-  def scrapePage
-    # expects to be passed in a Watir:Browser object
-    # gets the header from the current browser page and records it, the page url and the next page's url to the array
-    # sets the @nextUrl attr variable to the next pag's url
-    page = getPage
-    nextPageUrl =  getFirstLinkUrl(page)
-    entry = getPageRecord(page, nextPageUrl)
-    recordEntry(entry)
-    @nextUrl =  nextPageUrl
-
-    puts entry
-  end
-
-  def recordEntry(entry)
-    @allPages << entry
-  end
-
-  def scrapeNextPage
-    visitLink(@nextUrl)
-    scrapeAgain()
+  def correctUrl
+    # sometimes urls redirect to different pages,
+    # in such cases we want to change the recorded nextUrl for the previous page to match the actual page we navigated to
+    url = urlEnding(@br.url)
+    if url != @nextUrl
+      @allPages[-1][:nextUrl] = url
+    end
   end
 end
