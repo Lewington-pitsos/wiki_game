@@ -70,7 +70,7 @@ archivist = Archivist.new
 
 puts archivist.allPages
 
-entry =  archivist.allPages["/wiki/Greek_language"]
+entry =  archivist.allPages["/wiki/Municipality"]
 
 puts entry
 
