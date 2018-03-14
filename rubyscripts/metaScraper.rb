@@ -8,7 +8,7 @@ class MetaScraper
   attr_accessor :scraper
 
   def initialize
-    @loops_wanted = 100 #arbetrary
+    @loops_wanted = 200 #arbetrary
     @loops_found = 0
   end
 

@@ -62,16 +62,36 @@ class Archivist
 
     false
   end
+
+  def all_pointing_to(end_page)
+    total = 0
+
+    @allPages.each do |_, page|
+      total += 1 if pointsTo(page, end_page)
+    end
+
+    total
+  end
+
+  def popular_pages
+    max = 300
+    pages = []
+
+    @allPages.each do |_, page|
+      friends = all_pointing_to(page)
+      if friends > max
+        pages << [page, friends]
+      end
+    end
+
+    pages
+  end
 end
 
 
 
 archivist = Archivist.new
 
-puts archivist.allPages
+puts archivist.allPages.length
 
-entry =  archivist.allPages["/wiki/Greek_language"]
-
-puts entry
-
-puts archivist.pointingEntriesCount(entry)
+puts archivist.popular_pages.map { |page| "#{page[0]}: #{page[1]}" }
