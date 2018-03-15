@@ -45,11 +45,23 @@ Assuming that all works the rest is simple:
 
 ## Results
 
-Let me get back to you on that one. I might have to restructure the data so that it can be analyzed faster.
+#### Is /wiki/Philosopy the "Root Page"?
+
+After scraping around 1500 pages, the "/wiki/philosophy" page turned out to be the descendant (all pages accessible through the link chain from a given page are considered it's "descendants") of a mere ____, so if nothing else we can put paid to our hypothesis.
+
+#### Notes
+
+The average number of descendants for each page (for ___ pages scraped ) turned out to be ___ , with the median being ___ . However, some pages had significantly more descendants.
+
+For instance, "/wiki/Greek_Language" generaly tended to be a descendant of around 30% of all pages scraped.
+
+Slightly more intersting, the title of page with the *most* descendants was actually a tie between "/wiki/Reality" and "/wiki/Existance", which feed directly into each other. Both remained descendants of roughly a whopping ___ % of all pages scraped throughout this project.
+
+However, it's worth noting that most (around %) of the descendants for both these pages come to them through "/wiki/Language", which is a recent ancestor of theirs. This page could be considered a candidate for *"closest thing we have to a root page"* since if we discount it's descendants, it is the page with by far the most descendants, and without it it's descendants would not even have a particularly significant number of descendants.
 
 ## Technologies
 
 See the Gemfile, but the most important tools are
 
-  1. Watir
-  2. Nokogiri
+  1. Watir (for visiting pages)
+  2. Nokogiri (for finding page data and links)
