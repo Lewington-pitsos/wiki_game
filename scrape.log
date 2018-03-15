@@ -5002,3 +5002,10 @@ D, [2018-03-15T11:56:45.937238 #5323] DEBUG -- : we found a loop at: Animal
 
 D, [2018-03-15T11:56:46.171484 #5323] DEBUG -- : Starting loop 73
 D, [2018-03-15T11:56:47.461793 #5323] DEBUG -- : Information scraped from: /wiki/A._C._Benson
+D, [2018-03-15T11:56:48.588989 #5323] DEBUG -- : Information scraped from: /wiki/List_of_Masters_of_Magdalene_College,_Cambridge
+D, [2018-03-15T11:56:50.410732 #5323] DEBUG -- : Information scraped from: /wiki/Magdalene_College,_Cambridge
+D, [2018-03-15T11:57:29.744878 #5323] DEBUG -- : we found a loop at: Magdalene College, Cambridge
+
+
+D, [2018-03-15T11:57:29.954099 #5323] DEBUG -- : Starting loop 74
+D, [2018-03-15T11:57:31.134992 #5323] DEBUG -- : Information scraped from: /wiki/Sada_Jinja

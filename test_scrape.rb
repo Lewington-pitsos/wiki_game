@@ -10,3 +10,8 @@ def getPage
   # returns the parsed html of the passed in browser object
   Nokogiri::HTML(@br.html)
 end
+
+
+def getFirstLink(pageDoc)
+  pageDoc.xpath(FLS)[0]
+end

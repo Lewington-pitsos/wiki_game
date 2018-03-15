@@ -1,6 +1,6 @@
 # Automated Wikipedia Game
 
-There's a theory that if you visit any random Wikipedia page and click the first link within the main text-body of the page, and keep doing that on all the successive pages you visit, you'll eventually end up on the "/wiki/Philosophy" page. This Automated Wikipedia Game is a basic Ruby language web scraper built to (kind of) test that theory.
+There's a [theory](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) that if you visit any random Wikipedia page and click the first link within the main text-body of the page, and keep doing that on all the successive pages you visit, you'll eventually end up on the [/wiki/Philosophy](https://en.wikipedia.org/wiki/Philosophy) page. This Automated Wikipedia Game is a basic Ruby language web scraper built to (kind of) test that theory.
 
 ## Use
 
@@ -37,7 +37,7 @@ The biggest issue is operationalizing "first link within the main text-body". In
 "//*[@class='mw-parser-output']//a[not(ancestor::table|ancestor::*[contains(@class, 'hatnote')]|ancestor::*[contains(@class, 'thumb')]|ancestor::*[contains(@class, 'IPA')]|ancestor::*[contains(@class, 'haudio')]|ancestor::*[@id='coordinates'])][not(starts-with(text(), '['))][not(contains(@class, 'image'))][starts-with(@href, '/wiki')]"
 ```
 
-Granted, so far this selector seems to be working quite well, but I've still found it prudent to assume that errors *will* occur and more or less perpetually catch them with some logging so that whole scrapes aren't shot down by strange new links. I seem to get a strange error once in about 150 successfully scraped loops.
+Granted, so far this selector seems to be working quite well, but I've still found it prudent to assume that errors *will* occur and more or less perpetually catch them with some logging so that whole scrapes aren't shot down by strange new links. I seem to get a strange error once in about 100 successfully scraped loops.
 
 Assuming that all works the rest is simple:
 
@@ -47,17 +47,17 @@ Assuming that all works the rest is simple:
 
 #### Is /wiki/Philosopy the "Root Page"?
 
-After scraping around 1500 pages, the "/wiki/philosophy" page turned out to be the descendant (all pages accessible through the link chain from a given page are considered it's "descendants") of a mere ____, so if nothing else we can put paid to our hypothesis.
+After scraping around 2000 pages, the "/wiki/Philosophy" page turned out to be the descendant (all pages accessible through the link chain from a given page are considered it's "descendants") of a mere 30, so if nothing else we can put paid to the hypothesis (at least as of march 2018).
 
 #### Notes
 
-The average number of descendants for each page (for ___ pages scraped ) turned out to be ___ , with the median being ___ . However, some pages had significantly more descendants.
+The average number of descendants for each page (for > 2000 pages scraped ) turned out to be 16.5 , with the median being only 2. However, some pages had significantly more descendants.
 
-For instance, "/wiki/Greek_Language" generaly tended to be a descendant of around 30% of all pages scraped.
+For instance,  [/wiki/Greek_language](https://en.wikipedia.org/wiki/Greek_language) generaly tended to be a descendant of ~35% of all pages scraped.
 
-Slightly more intersting, the title of page with the *most* descendants was actually a tie between "/wiki/Reality" and "/wiki/Existance", which feed directly into each other. Both remained descendants of roughly a whopping ___ % of all pages scraped throughout this project.
+Slightly more intersting, the title of page with the *most* descendants is actually a tie between [/wiki/Reality](https://en.wikipedia.org/wiki/Reality) and [/wiki/Existance](https://en.wikipedia.org/wiki/Existence), which feed directly into each other. Both continuously came up as descendants of a whopping 91% of all pages scraped throughout this project.
 
-However, it's worth noting that most (around %) of the descendants for both these pages come to them through "/wiki/Language", which is a recent ancestor of theirs. This page could be considered a candidate for *"closest thing we have to a root page"* since if we discount it's descendants, it is the page with by far the most descendants, and without it it's descendants would not even have a particularly significant number of descendants.
+However, it's worth noting that most (~86%) of the descendants for both these pages come to them through [/wiki/Language](https://en.wikipedia.org/wiki/Language), a recent ancestor of theirs. This page could be considered a candidate for *"closest thing we have to a root page* since if we discount its descendants (which don't have that many ancestors independantly), it is the page with by far the most ancestors.
 
 ## Technologies
 

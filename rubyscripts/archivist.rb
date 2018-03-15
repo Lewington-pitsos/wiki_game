@@ -73,13 +73,12 @@ class Archivist
     total
   end
 
-  def popular_pages
-    max = 300
+  def popular_pages(cutoff=300)
     pages = []
 
     @allPages.each do |_, page|
       friends = all_pointing_to(page)
-      if friends > max
+      if friends >= cutoff
         pages << [page, friends]
       end
     end
@@ -94,4 +93,4 @@ archivist = Archivist.new
 
 puts archivist.allPages.length
 
-puts archivist.popular_pages.map { |page| "#{page[0]}: #{page[1]}" }
+p archivist.popular_pages(0)
