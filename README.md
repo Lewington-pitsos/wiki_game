@@ -21,13 +21,11 @@ And scraping should begin post haste.
 
 ### Notes
 
-`/Scrape.rb` along with `/rubyscripts/metaScraper.rb` act as a kind of veru janky config file.
+`/Scrape.rb` along with `/rubyscripts/metaScraper.rb` act as a kind of very janky config file.
 
 As per `/Scrape.rb` I have been using a firefox broswer in headless mode. If you're a chrome guy/gal feel free to change that.
 
 Data is stored in the `/database` folder. By default everything is saved to `database/test.yaml`. But this can be changed through `/rubyscripts/shared/fileHelper.rb`.
-
-`/rubyscripts/archivist.rb` is very, very slow. If you have any idea how I could run analysis on this kind of data faster (without being some sort of SQL genius) please let me know.
 
 ## Approach
 
@@ -45,7 +43,7 @@ Assuming that all works the rest is simple:
 
 ## Results
 
-#### Is /wiki/Philosopy the "Root Page"?
+#### Is /wiki/Philosophy the "Root Page"?
 
 After scraping around 2000 pages, the "/wiki/Philosophy" page turned out to be the descendant (all pages accessible through the link chain from a given page are considered it's "descendants") of a mere 30, so if nothing else we can put paid to the hypothesis (at least as of march 2018).
 
@@ -53,11 +51,11 @@ After scraping around 2000 pages, the "/wiki/Philosophy" page turned out to be t
 
 The average number of descendants for each page (for > 2000 pages scraped ) turned out to be 16.5 , with the median being only 2. However, some pages had significantly more descendants.
 
-For instance,  [/wiki/Greek_language](https://en.wikipedia.org/wiki/Greek_language) generaly tended to be a descendant of ~35% of all pages scraped.
+For instance,  [/wiki/Greek_language](https://en.wikipedia.org/wiki/Greek_language) generally tended to be a descendant of ~35% of all pages scraped.
 
-Slightly more intersting, the title of page with the *most* descendants is actually a tie between [/wiki/Reality](https://en.wikipedia.org/wiki/Reality) and [/wiki/Existance](https://en.wikipedia.org/wiki/Existence), which feed directly into each other. Both continuously came up as descendants of a whopping 91% of all pages scraped throughout this project.
+Slightly more interesting, the title of page with the *most* descendants is actually a tie between [/wiki/Reality](https://en.wikipedia.org/wiki/Reality) and [/wiki/Existance](https://en.wikipedia.org/wiki/Existence), which feed directly into each other. Both continuously came up as descendants of a whopping 91% of all pages scraped throughout this project.
 
-However, it's worth noting that most (~86%) of the descendants for both these pages come to them through [/wiki/Language](https://en.wikipedia.org/wiki/Language), a recent ancestor of theirs. This page could be considered a candidate for *"closest thing we have to a root page* since if we discount its descendants (which don't have that many ancestors independantly), it is the page with by far the most ancestors.
+However, it's worth noting that most (~86%) of the descendants for both these pages come to them through [/wiki/Language](https://en.wikipedia.org/wiki/Language), a recent ancestor of theirs. This page could be considered a candidate for *"closest thing we have to a root page* since if we discount its descendants (which don't have that many ancestors independently), it is the page with by far the most ancestors.
 
 ## Technologies
 
